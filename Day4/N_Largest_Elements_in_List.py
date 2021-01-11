@@ -1,3 +1,5 @@
+# Approach 1:
+
 def N_Largest_Elements(Arr, Upto):
     result = []
     for i in range(0, Upto):
@@ -20,11 +22,7 @@ Upto = int(input("Upto Which Number: "))
 print(N_Largest_Elements(Given_List, Upto))
 
 
-
-
-
-
-
+# Approach 2:
 
 def N_Largest_Elemnts(Arr, Upto):
     return sorted(Arr)[-Upto:]
