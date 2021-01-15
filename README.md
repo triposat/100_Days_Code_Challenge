@@ -41,6 +41,11 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day8">**`DAY-8`**</a></h1>
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/visits/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
