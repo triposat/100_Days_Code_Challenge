@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Developer.gif" width="250px" height="50px">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Developer.gif" width="350px" height="150px">
 </p>
 
 <p align="center">
