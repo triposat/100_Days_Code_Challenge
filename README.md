@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Developer.gif" width="400px" height="200px">
-</p>
-
-<p align="center">
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
