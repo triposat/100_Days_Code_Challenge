@@ -1,0 +1,4 @@
+### <h2>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day16/Check_String_for_Specific_Characters.py">**Program for Checking Strings for Specific Characters**</a></h2>
+### <h2>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day16/Duplicate_Characters_in_String.py">**Program for Duplicates Characters in string.**</a></h2>
+### <h2>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day16/Last_name_Sorting.py">**Program to sort a list of names using last names.**</a></h2>
+### <h2>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day16/Letter_not_Common_in_Two_String.py">**Program to find letters which are not common in two strings.**</a></h2>
