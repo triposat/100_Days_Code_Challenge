@@ -1,4 +1,4 @@
 ### <h2>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Append_Keys_and_Values.py">**Program to Append Dictionary Keys and Values.**</a></h2>
 ### <h2>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Counter_in_Dictionary.py">**Program for Counter in Python to find the Winner of the Election.**</a></h2>
-### <h2>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Sort_Dictionary_Keys_and_Values_List.py">**Program for Sort Dictionary Keys and Values List.**</a></h2>
+### <h2>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Sort_Dictionary_Keys_and_Values_List.py">**Program to Sort Dictionary Keys and Values List.**</a></h2>
 ### <h2>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Sorting_Using_Keys_and_Values.py">**Program to Sort Python Dictionaries by Keys and Values.**</a></h2>
