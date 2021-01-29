@@ -1,0 +1,4 @@
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day21/Anagram_Using_list_Dictionary.py">**Program to print Anagram together in Python using list and Dictionaries.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day21/Binary_Representation_of_Two_Numbers_is_Anagram_or_not.py">**Program to check if Binary Representations of two numbers are Anagram.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day21/Handling_Missing_Keys_in_Dictionary.py">**Program for Handling missing keys in Python Dictionaries.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day21/Kth_Non_Repeating_Character.py">**Program for K’th Non-repeating Character in Python using OrderedDict.**</a></ol>
