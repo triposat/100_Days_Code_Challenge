@@ -1,4 +1,4 @@
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Dictionary_Intersection.py">**Program for Dictionary Intersection in Python.**</a></ol>
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Frequency_can_become_same.py">**Program to check if frequency of characters in string can become same after removing atmost one character.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Frequency_can_become_same.py">**Program to check if Frequency of characters in string can become same after removing atmost one character.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Key_Associated_with_Values.py">**Program for Keys associated with Values in Dictionary.**</a></ol>
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Possible_Words_Using_Given_Characters.py">**Program for possible words using given characters.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Possible_Words_Using_Given_Characters.py">**Program for Possible Words using Given cCaracters.**</a></ol>
