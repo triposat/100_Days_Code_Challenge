@@ -128,7 +128,7 @@ _______________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
