@@ -1,3 +1,5 @@
+# Approach 1:
+
 import random
 
 
@@ -13,6 +15,7 @@ print(Shuffling_of_Value(Test_dict))
 
 from random import sample
 
+# Approach 2:
 
 def Shuffling_of_Value(Test_dict):
     return dict(zip(Test_dict, sample(list(Test_dict.values()), len(Test_dict))))
