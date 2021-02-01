@@ -1,0 +1,4 @@
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day25/Convert_Dictionary_to_list.py">**Program to display keys with same values in a dictionary List.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day25/Filter_Dictionaries_by_Values.py">**Filter dictionaries by values in Kth Key in list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day25/Remove_Duplicity_from_Dictionary.py">**Program to Remove Duplicity from a Dictionary.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day25/Unique_Values_Count_of_each_key.py">**Program for Unique values count of each Key.**</a></ol>
