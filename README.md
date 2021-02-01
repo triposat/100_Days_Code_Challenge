@@ -9,7 +9,7 @@
 
 _______________________________
 
-### <h1><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY-1&style=for-the-badge&logo=GraphQL&logoColor=yellow"></h1>
+### <h1><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=GraphQL&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**DISPLAY FIBONACCI SERIES.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**HCF of Numbers.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**LCM of Numbers.**</a></ol>
