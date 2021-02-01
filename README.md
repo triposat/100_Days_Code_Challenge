@@ -31,27 +31,51 @@ _______________________________
 _______________________________
 
 
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day3">**`DAY-3`**</a></h1>
+### <h1 align="center">**DAY-3**</h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Monotonic_Or_Not.py">**Program to check whether list is MONOTONIC or not.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Reversing_a_list.py">**Program for REVERSING a list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Searching_Element_in_List.py">**Program for SEARCHING elements in a list.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Second_Largest_in_List.py">**Program for SECOND LARGEST element in a list.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Swap_First_With_Last.py">**Program to SWAP first element with last element in a list.**</a></ol>
 
 _______________________________
 
 
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day4">**`DAY-4`**</a></h1>
+### <h1 align="center">**DAY-4**</h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/Cloning_or_Copying_list.py">**Program for Cloning/Copying the list.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/N_Largest_Elements_in_List.py">**Program for N Largest elements in a list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/Occurence_of_Elements.py">**Program for Occurrences of elements.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/Remove_Empty_List.py">**Program for Removing Empty list.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/Remove_Multiple_Elements.py">**Program for Removing Multiple Elements.**</a></ol>
+
 
 _______________________________
 
 
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day5">**`DAY-5`**</a></h1>
+### <h1 align="center">**DAY-5**</h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day5/Break_into_Chunks.py">**Increament Numeric String**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day5/Cumulative_Sum_of_List.py">**Cumulative Sum of list**</a><ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day5/Duplicates_in_List.py">**Duplicates in list**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day5/Flatten_List.py">**Flattening a list**</a></ol>
 
 _______________________________
 
 
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day6">**`DAY-6`**</a></h1>
+### <h1 align="center">**DAY-6**</h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day6/Increament_Numeric_String.py">**Increament Numeric String**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day6/Maximum_of_Each_key_in_List.py">**Maximum of each key in list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day6/Sort_list1_by_list2.py">**Sort list_1 by list_2**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day6/Words_Reverse_Pairs_in_List.py">**Words Reverse Pairs in list**</a></ol>
 
 _______________________________
 
 
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day7">**`DAY-7`**</a></h1>
+### <h1 align="center">**DAY-7**</h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Row_with_Custom_Element.py">**Remove Row with custom elements**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Specific_Digit_from_Every_Element.py">**Remove Specific Digit from every element**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/String_Based_on_Prefix.py">**String Based on prefix**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Swap_ith_with_jth_Element.py">**Swap ith with jth element**</a></ol>
+
 
 _______________________________
 
