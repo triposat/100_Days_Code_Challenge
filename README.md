@@ -9,12 +9,24 @@
 
 _______________________________
 
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day1">**`DAY-1`**</a></h1>
+### <h1 align="center">**DAY-1**</h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**DISPLAY FIBONACCI SERIES.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**HCF of Numbers.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**LCM of Numbers.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**Find Number is FIBONACCI or not.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**FACTORIAL of a Number.**</a></ol>
+
 
 _______________________________
 
 
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/tree/main/Day2">**`DAY-2`**</a></h1>
+### <h1 align="center">**DAY-2**</h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Armstrong_Number.py">**Program to Check whether numbers is ARMSTRONG or not.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Array_Rotation.py">**Program for ARRAY ROTATION.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Max_and_Min_in_List.py">**Program for MAXIMUM and MINIMUM Elements in a list.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Palindrome_Number.py">**Program to check whether number is PALINDROME or not.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Prime_Using_Sieve_of_Eratosthenes.py">**Program to check PRIME Number Using Sieve of Eratosthenes.**</a></ol>
+
 
 _______________________________
 
