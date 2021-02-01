@@ -128,7 +128,7 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Permutation_of_String.py">**Program for PERMUTATION of string.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Replace_Duplicate_Occurrence_in_String.py">**Program for Replace Duplicate Occurrences in string.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Replace_Multiple_Words_in_String.py">**Program for Replace Multiple Words in string.**</a></ol>
-### <h2>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Uncommon_Words_from_String.py">**Program to print Uncommon Words in strings.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Uncommon_Words_from_String.py">**Program to print Uncommon Words in strings.**</a></ol>
 
 _______________________________
 
