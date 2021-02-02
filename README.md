@@ -95,7 +95,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-10**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-10-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Kth_Element_in_Matrix.py">**Kth Element in Matrix**</a></ol>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/String_Palindrome.py">**String Palindrome**</a></ol>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Symmetric_or_Palindrome.py">**String is Symmetric or Palindrome**</a></ol>
@@ -104,18 +104,18 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-11**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-11-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 
 
 _______________________________
 
 
-### <h1>**DAY-12**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-12-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 
 _______________________________
 
 
-### <h1>**DAY-13**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-13-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day13/Removing_ith_Character_from_String.py">**Program for Removing ith Character from string.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day13/Special_Characters_in_String.py">**Program for Special Characters in string.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day13/String_is_Binary_or_not.py">**Program for checking string is Binary or not.**</a></ol>
@@ -124,7 +124,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-14**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-14-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Permutation_of_String.py">**Program for PERMUTATION of string.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Replace_Duplicate_Occurrence_in_String.py">**Program for Replace Duplicate Occurrences in string.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day14/Replace_Multiple_Words_in_String.py">**Program for Replace Multiple Words in string.**</a></ol>
@@ -133,7 +133,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-15**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-15-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Execute_Code_in_String.py">**Execute a String of Code.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Find_URL_from_String.py">**Check for URL in String.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Rotate_a_String.py">**String Slicing to Rotate a String.**</a></ol>
@@ -142,7 +142,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-16**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-16-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day16/Check_String_for_Specific_Characters.py">**Program for Checking Strings for Specific Characters**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day16/Duplicate_Characters_in_String.py">**Program for Duplicates Characters in string.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day16/Last_name_Sorting.py">**Program to Sort a list of names using Last Names.**</a></ol>
@@ -151,7 +151,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-17**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-17-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day17/Maximum_Uppercase_run.py">**Program for Maximum UpperCase run.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day17/Move_Numbers_to_the_End.py">**Program for Moving Numbers to the end of the string.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day17/Replace_String_by_SubString.py">**Program for Replacing String with Sub-String.**</a></ol>
@@ -160,7 +160,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-18**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-18-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day18/Extract_Unique_Dictionary_Values.py">**Extracting Values from Dictionary.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day18/Remove_Keys_from_Dictionary.py">**Remove a Key from Dictionary.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day18/Sorting_Dictionary_Using_Itemgetter.py">**Sort a list of Dictionaries by values using `itemgetter.`**</a></ol>
@@ -169,7 +169,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-19**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-19-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day19/Check_Order_of_Character.py">**Program to check Order of Characters in string.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day19/Convert_Key_Values_to_Flatten_list.py">**Program to Convert Key-Values list to flat Dictionary.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day19/Merge_Two_Dictionaries.py">**Program for Merging Two Dictionaries.**</a></ol>
@@ -178,7 +178,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-20**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-20-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Append_Keys_and_Values.py">**Program to Append Dictionary Keys and Values.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Counter_in_Dictionary.py">**Program for Counter in Python to find the Winner of the Election.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day20/Sort_Dictionary_Keys_and_Values_List.py">**Program to Sort Dictionary Keys and Values List.**</a></ol>
@@ -187,7 +187,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-21**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-21-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day21/Anagram_Using_list_Dictionary.py">**Program to print Anagram together in Python using list and Dictionaries.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day21/Binary_Representation_of_Two_Numbers_is_Anagram_or_not.py">**Program to check if Binary Representations of two numbers are Anagram.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day21/Handling_Missing_Keys_in_Dictionary.py">**Program for Handling missing keys in Python Dictionaries.**</a></ol>
@@ -196,7 +196,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-22**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-22-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day22/Counting_the_Frequency.py">**Program for counting the frequencies of elements.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day22/Mirror_Characters_in_string.py">**Program to Convert any string to a string contains it's Mirror Characters.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day22/Remove_Duplicates_in_Dictionary.py">**Program to Remove all Duplicate words from a given sentence.**</a></ol>
@@ -205,7 +205,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-23**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-23-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Dictionary_Intersection.py">**Program for Dictionary Intersection in Python.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Frequency_can_become_same.py">**Program to check if Frequency of characters in string can become same after removing atmost one character.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day23/Key_Associated_with_Values.py">**Program for Keys associated with Values in Dictionary.**</a></ol>
@@ -214,7 +214,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-24**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-24-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day24/Assigne_Keys_with_Maximum_Element_Index.py">**Program for Assigning keys with Maximum Element Index.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day24/Index_Directory_of_Elements.py">**Program for Index Directory of Elements.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day24/Minimum_Value_key_Assignment.py">**Program for Minimum Value Key Assignment.**</a></ol>
@@ -223,7 +223,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-25**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-25-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day25/Convert_Dictionary_to_list.py">**Program to display keys with same values in a dictionary List.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day25/Filter_Dictionaries_by_Values.py">**Filter dictionaries by values in Kth Key in list.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day25/Remove_Duplicity_from_Dictionary.py">**Program to Remove Duplicity from a Dictionary.**</a></ol>
