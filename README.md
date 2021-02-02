@@ -9,7 +9,7 @@
 
 _______________________________
 
-### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=GraphQL&logoColor=yellow"></h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**DISPLAY FIBONACCI SERIES.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**HCF of Numbers.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day1/Display_Fibonacci_Series.py">**LCM of Numbers.**</a></ol>
@@ -20,7 +20,7 @@ _______________________________
 _______________________________
 
 
-### <h1><img src="https://img.shields.io/badge/DAY-2-9cf.svg?label=DAY&style=for-the-badge&logo=GraphQL&logoColor=yellow"></h1>
+### <h1><img src="https://img.shields.io/badge/DAY-2-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Armstrong_Number.py">**Program to Check whether numbers is ARMSTRONG or not.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Array_Rotation.py">**Program for ARRAY ROTATION.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Max_and_Min_in_List.py">**Program for MAXIMUM and MINIMUM Elements in a list.**</a></ol>
