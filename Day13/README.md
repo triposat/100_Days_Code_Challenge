@@ -1,4 +1,0 @@
-### <h2>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day13/Removing_ith_Character_from_String.py">**Program for Removing ith Character from string.**</a></h2>
-### <h2>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day13/Special_Characters_in_String.py">**Program for Special Characters in string.**</a></h2>
-### <h2>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day13/String_is_Binary_or_not.py">**Program for checking string is Binary or not.**</a></h2>
-### <h2>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day13/Words_Greater_than_Given_Length.py">**Program to print all the words greater than given length.**</a></h2>
