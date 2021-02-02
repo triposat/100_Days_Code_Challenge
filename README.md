@@ -71,7 +71,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-7-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Row_with_Custom_Element.py">**program to Remove Row with custom elements.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Row_with_Custom_Element.py">**Program to Remove Row with custom elements.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Specific_Digit_from_Every_Element.py">**Program for Removing Specific Digit from every element.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/String_Based_on_Prefix.py">**Program to print strings Based on Prefix.**</a></ol>
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Swap_ith_with_jth_Element.py">**Program to Swap ith with jth element.**</a></ol>
@@ -79,10 +79,10 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-8-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Element_Multiple_of_Element_in_List.py">**Elements Mutiple of Elements in a list**</a></ol>
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Element_with_Maximum_Vowel_from_List.py">**Element with Maximum Vowel in a list**</a></ol>
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Occurence_of_i_before_first_j_in_List.py">**Occurrences of i before first j in a list**</a></ol>
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Sort_row_by_Frequency_of_Key.py">**Sort Row by frequency of key**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Element_Multiple_of_Element_in_List.py">**Program for elements Mutiple of elements in a list.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Element_with_Maximum_Vowel_from_List.py">**Program to print element with Maximum Vowel in a list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Occurence_of_i_before_first_j_in_List.py">**Program for Occurrences of i before first j in a list.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Sort_row_by_Frequency_of_Key.py">**Program to Sort Row by frequency of key.**</a></ol>
 
 _______________________________
 
