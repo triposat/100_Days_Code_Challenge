@@ -105,6 +105,11 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-11-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day11/Remove_Duplicates_from_List.py">**Program to Remove Duplicates from a List.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day11/Remove_Particular_Character.py">**Program to Remove Particular Character.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day11/Reverse_Words_of_String.py">**program to .**</a>Program to Reverse Words of string.</ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day11/Snake_Case_to_Pascal_Case.py">**Program to Convert Snake Case to Pascal case.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day11/Word_with_Max_Frequency_in_String.py">**Program to Find word with Maximum Frequency.**</a></ol>
 
 
 _______________________________
