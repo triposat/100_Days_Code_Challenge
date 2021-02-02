@@ -96,10 +96,10 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-10-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Kth_Element_in_Matrix.py">**Kth Element in Matrix**</a></ol>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/String_Palindrome.py">**String Palindrome**</a></ol>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Symmetric_or_Palindrome.py">**String is Symmetric or Palindrome**</a></ol>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Vertical_Concatenation_of_Matrix.py">**Vertical Concatenation of Matrix**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Kth_Element_in_Matrix.py">**Program for Kth Element in Matrix.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/String_Palindrome.py">**Program for String Palindrome.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Symmetric_or_Palindrome.py">**Program to check whether string is Symmetric or Palindrome.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day10/Vertical_Concatenation_of_Matrix.py">**Program for Vertical Concatenation of Matrix.**</a></ol>
 
 _______________________________
 
@@ -142,10 +142,10 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-15-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Execute_Code_in_String.py">**Execute a String of Code.**</a></ol>
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Find_URL_from_String.py">**Check for URL in String.**</a></ol>
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Rotate_a_String.py">**String Slicing to Rotate a String.**</a></ol>
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/String_can_become_Empty_or_not.py">**String Slicing to check if a string can become empty by Recursive relation.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Execute_Code_in_String.py">**Program for Executing a String of Code.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Find_URL_from_String.py">**Program for checking URL in String.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/Rotate_a_String.py">**Program for String Slicing to Rotate a String.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day15/String_can_become_Empty_or_not.py">**Program for String Slicing to check if a string can become empty by Recursive relation.**</a></ol>
 
 _______________________________
 
