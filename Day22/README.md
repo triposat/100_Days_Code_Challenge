@@ -1,4 +1,0 @@
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day22/Counting_the_Frequency.py">**Program for counting the frequencies of elements.**</a></ol>
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day22/Mirror_Characters_in_string.py">**Program to Convert any string to a string contains it's Mirror Characters.**</a></ol>
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day22/Remove_Duplicates_in_Dictionary.py">**Program to Remove all Duplicate words from a given sentence.**</a></ol>
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day22/Size_of_Largest_Subset_in_Anagram.py">**Program to find the size of largest subset of anagram words.**</a></ol>
