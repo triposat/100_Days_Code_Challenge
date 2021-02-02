@@ -71,10 +71,10 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-7-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Row_with_Custom_Element.py">**Remove Row with custom elements**</a></ol>
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Specific_Digit_from_Every_Element.py">**Remove Specific Digit from every element**</a></ol>
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/String_Based_on_Prefix.py">**String Based on prefix**</a></ol>
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Swap_ith_with_jth_Element.py">**Swap ith with jth element**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Row_with_Custom_Element.py">**program to Remove Row with custom elements.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Specific_Digit_from_Every_Element.py">**Program for Removing Specific Digit from every element.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/String_Based_on_Prefix.py">**Program to print strings Based on Prefix.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Swap_ith_with_jth_Element.py">**Program to Swap ith with jth element.**</a></ol>
 
 _______________________________
 
