@@ -20,7 +20,7 @@ _______________________________
 _______________________________
 
 
-### <h1><img src="https://img.shields.io/badge/DAY-2-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-2-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Armstrong_Number.py">**Program to Check whether numbers is ARMSTRONG or not.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Array_Rotation.py">**Program for ARRAY ROTATION.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day2/Max_and_Min_in_List.py">**Program for MAXIMUM and MINIMUM Elements in a list.**</a></ol>
@@ -31,7 +31,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-3**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-3-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Monotonic_Or_Not.py">**Program to check whether list is MONOTONIC or not.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Reversing_a_list.py">**Program for REVERSING a list.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day3/Searching_Element_in_List.py">**Program for SEARCHING elements in a list.**</a></ol>
@@ -41,7 +41,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-4**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-4-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/Cloning_or_Copying_list.py">**Program for Cloning/Copying the list.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/N_Largest_Elements_in_List.py">**Program for N Largest elements in a list.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day4/Occurence_of_Elements.py">**Program for Occurrences of elements.**</a></ol>
@@ -52,7 +52,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-5**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-5-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day5/Break_into_Chunks.py">**Increament Numeric String**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day5/Cumulative_Sum_of_List.py">**Cumulative Sum of list**</a><ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day5/Duplicates_in_List.py">**Duplicates in list**</a></ol>
@@ -61,7 +61,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-6**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-6-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day6/Increament_Numeric_String.py">**Increament Numeric String**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day6/Maximum_of_Each_key_in_List.py">**Maximum of each key in list.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day6/Sort_list1_by_list2.py">**Sort list_1 by list_2**</a></ol>
@@ -70,7 +70,7 @@ _______________________________
 _______________________________
 
 
-### <h1>**DAY-7**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-7-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Row_with_Custom_Element.py">**Remove Row with custom elements**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/Remove_Specific_Digit_from_Every_Element.py">**Remove Specific Digit from every element**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day7/String_Based_on_Prefix.py">**String Based on prefix**</a></ol>
@@ -78,7 +78,7 @@ _______________________________
 
 _______________________________
 
-### <h1>**DAY-8**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-8-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Element_Multiple_of_Element_in_List.py">**Elements Mutiple of Elements in a list**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Element_with_Maximum_Vowel_from_List.py">**Element with Maximum Vowel in a list**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day8/Occurence_of_i_before_first_j_in_List.py">**Occurrences of i before first j in a list**</a></ol>
@@ -86,7 +86,7 @@ _______________________________
 
 _______________________________
 
-### <h1>**DAY-9**</h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-9-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day9/Add_Two_Matrix.py">**Program to Add Two Matrix.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day9/Multiply_Matrix.py">**Program to Multiply Two Matrix.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/Day9/Product_of_All_Elements_in_Matrix.py">**Program for Product of all elements in Matrix.**</a></ol>
