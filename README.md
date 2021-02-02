@@ -240,6 +240,16 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-26-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Convert_each_list_element_to_key_value_pair.py">**Program to convert each list element to Key-Value Pair.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Resize_Keys_in_Dictionary.py">**Program to Resize keys in Dictionary.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Rotate_Dictionary_by_K.py">**Program for Rotating Dictionary by K.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Value_Sum_is_greater_than_Keys_Sum.py">**Program to test if Values Sum is Greater than Keys Sum in Dictionary.**</a></ol>
+
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
