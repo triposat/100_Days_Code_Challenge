@@ -246,6 +246,15 @@ _______________________________
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Rotate_Dictionary_by_K.py">**Program for Rotating Dictionary by K.**</a></ol>
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Value_Sum_is_greater_than_Keys_Sum.py">**Program to test if Values Sum is Greater than Keys Sum in Dictionary.**</a></ol>
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-27-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Extract_digit_from_tuple_list.py">**Program to Extract digits from Tuple list.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Join_Tuples_if_Similar_initial_elements.py">**Program to Join Tuples if similar initial element.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Maximum_Minimum_K_Elements.py">**Program for Maximum and Minimum K elements in Tuple.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Size_of_Tuple.py">**Program to Find the size of a Tuple.**</a></ol>
+
 
 _______________________________
 
