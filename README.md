@@ -255,6 +255,15 @@ _______________________________
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Maximum_Minimum_K_Elements.py">**Program for Maximum and Minimum K elements in Tuple.**</a></ol>
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Size_of_Tuple.py">**Program to Find the size of a Tuple.**</a></ol>
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-28-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Occurrences_of_Characters.py">**Program for Occurrences of Characters in string.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Pair_Combinations_of_two_tuples.py">**Program for all pair combinations of 2 tuples.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Remove_Tuple_of_length_k.py">**Program to Remove Tuples of Length K.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Sort_list_by_second_items.py">**Program to Sort a list of tuples by second Item.**</a></ol>
+
 
 _______________________________
 
