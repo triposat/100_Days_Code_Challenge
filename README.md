@@ -275,7 +275,7 @@ _______________________________
 ```python
                   Sample Input		    Expected Output
                 heads-150 legs-400	      100 50
-                heads-3 legs-11		       No solution
+                heads-3 legs-11		        No solution
                 heads-3 legs-12		        0 3
                 heads-5 legs-10		        5 0
 ```   
