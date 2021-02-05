@@ -270,14 +270,11 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-29-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Inverted_Number_Pattern.py">**Program for Inverted Number Pattern.**</a></ol>
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Inverted_Star_Pattern.py">**Program for Inverted Star Pattern.**</a></ol>
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Leap_Year.py">**Program to generate the next 15 leap years starting from a given year.
-
-**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Leap_Year.py">**Program to generate the next 15 leap years starting from a given year.**</a></ol>
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Rabbits_Chicken_Heads_and_Legs.py">
 	                Write a python program to solve a classic ancient Chinese puzzle.
 			We count 35 heads and 94 legs among the chickens and rabbits in a farm.
-  			How many rabbits and how many chickens do we have?
-</a></ol>
+  			How many rabbits and how many chickens do we have?</a></ol>
 
 
 _______________________________
