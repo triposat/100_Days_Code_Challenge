@@ -273,10 +273,11 @@ _______________________________
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Leap_Year.py">**Program to generate the next 15 leap years starting from a given year.
 
 **</a></ol>
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Rabbits_Chicken_Heads_and_Legs.py">**Write a python program to solve a classic ancient Chinese puzzle.
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Rabbits_Chicken_Heads_and_Legs.py">
+	                Write a python program to solve a classic ancient Chinese puzzle.
 			We count 35 heads and 94 legs among the chickens and rabbits in a farm.
   			How many rabbits and how many chickens do we have?
-**</a></ol>
+</a></ol>
 
 
 _______________________________
