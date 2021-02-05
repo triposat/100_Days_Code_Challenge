@@ -269,12 +269,28 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-29-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Inverted_Number_Pattern.py">**Program for Inverted Number Pattern.**</a></ol>
+```python
+    1 2 3 4 5 6
+    1 2 3 4 5
+    1 2 3 4
+    1 2 3
+    1 2
+    1
+```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Inverted_Star_Pattern.py">**Program for Inverted Star Pattern.**</a></ol>
+```python
+    * * * * * *
+    * * * * *
+    * * * *
+    * * *
+    * *
+    *
+```  
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Leap_Year.py">**Program to generate the next 15 leap years starting from a given year.**</a></ol>
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Rabbits_Chicken_Heads_and_Legs.py">Write a python program to solve a classic ancient Chinese puzzle. We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?</a></ol>
 ```python
                   Sample Input		    Expected Output
-                heads-150 legs-400	       100 50
+                heads-150 legs-400	      100 50
                 heads-3 legs-11		        No solution
                 heads-3 legs-12		        0 3
                 heads-5 legs-10		        5 0
