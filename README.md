@@ -303,26 +303,26 @@ _______________________________
 _______________________________
 
 
-### <h1 align="center"><img src="https://img.shields.io/badge/DAY-29-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-30-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day30/Flatten_tuple_of_list.py">**Program to Flatten tuple of list.**</a></ol>
 ```python
-  Input:  ([5, 6], [6, 7, 8, 9], [3])
-  Output: (5, 6, 6, 7, 8, 9, 3)
+    Input:  ([5, 6], [6, 7, 8, 9], [3])
+    Output: (5, 6, 6, 7, 8, 9, 3)
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day30/Nested_Tuple_to_Custom_key_Dictionary.py">**Program to Convert Nested tuple to Custom Key Dictionary.**</a></ol>
 ```python
-  Input:  ((4, 'Gfg', 10), (3, 'is', 8), (6, 'Best', 10)), ['key', 'value', 'id']
-  Output: [{'key': 4, 'value': 'Gfg', 'id': 10}, {'key': 3, 'value': 'is', 'id': 8}, {'key': 6, 'value': 'Best', 'id': 10}]
+    Input:  ((4, 'Gfg', 10), (3, 'is', 8), (6, 'Best', 10)), ['key', 'value', 'id']
+    Output: [{'key': 4, 'value': 'Gfg', 'id': 10}, {'key': 3, 'value': 'is', 'id': 8}, {'key': 6, 'value': 'Best', 'id': 10}]
 ```  
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day30/Order_Tuple_by_List.py">**Program to arrange the tuple of list according to given order.**</a></ol>
 ```python
-  Input:  [('Gfg', 3), ('best', 9), ('CS', 10), ('Geeks', 2)], ['Geeks', 'best', 'CS', 'Gfg']
-  Output: [('Geeks', 2), ('best', 9), ('CS', 10), ('Gfg', 3)]
+    Input:  [('Gfg', 3), ('best', 9), ('CS', 10), ('Geeks', 2)], ['Geeks', 'best', 'CS', 'Gfg']
+    Output: [('Geeks', 2), ('best', 9), ('CS', 10), ('Gfg', 3)]
 ```   
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day30/Remove_duplicates_tuple.py">Program to Remove Duplicate tuples from a list of tuples.</a></ol>
 ```python
-  Input:  [(4, 6), (1, 2), (9, 2), (2, 1), (5, 7), (6, 4), (9, 2)]
-  Output: [(2, 9), (1, 2), (4, 6), (5, 7)]
+    Input:  [(4, 6), (1, 2), (9, 2), (2, 1), (5, 7), (6, 4), (9, 2)]
+    Output: [(2, 9), (1, 2), (4, 6), (5, 7)]
 ```   
 
 _______________________________
