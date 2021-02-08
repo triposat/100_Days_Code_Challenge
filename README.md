@@ -350,6 +350,22 @@ _______________________________
    Output: [(2, 1), (3, 2), (1, 3)] 
 ```   
 
+
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-31-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day30/Flatten_tuple_of_list.py">**Program to Sort Tuples by their Maximum element.**</a></ol>
+```python
+  Input:  [(4, 5, 5, 7), (1, 3, 7, 4), (19, 4, 5, 3), (1, 2)]
+  Output: [(19, 4, 5, 3), (4, 5, 5, 7), (1, 3, 7, 4), (1, 2)]
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day31/Remove_None_Elements_from_Tuple.py">**Program to find tuples which have all elements divisible by K from a list of tuples.**</a></ol>
+```python
+  Input:  [(6, 24, 12), (7, 9, 6), (12, 18, 21)], k = 3
+  Output: [(6, 24, 12), (12, 18, 21)]
+```  
+
 _______________________________
 
 
