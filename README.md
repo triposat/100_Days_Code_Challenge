@@ -354,7 +354,7 @@ _______________________________
 _______________________________
 
 
-### <h1 align="center"><img src="https://img.shields.io/badge/DAY-31-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-32-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day32/Sort_tuple_by_Maximum_Values.py">**Program to Sort Tuples by their Maximum element.**</a></ol>
 ```python
   Input:  [(4, 5, 5, 7), (1, 3, 7, 4), (19, 4, 5, 3), (1, 2)]
