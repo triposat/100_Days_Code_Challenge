@@ -328,6 +328,31 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-31-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day30/Flatten_tuple_of_list.py">**Program to Extract tuples having K digit elements.**</a></ol>
+```python
+   Input:  [(54, 2), (34, 55), (222, 23), (12, 45), (78, )], k = 2
+   Output: [(34, 55), (12, 45), (78,)]
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day31/Remove_None_Elements_from_Tuple.py">**Program to Remove None elements from Tuple.**</a></ol>
+```python
+   Input:  [(None, 2), (None, None), (3, 4), (12, 3), (None, )]
+   Output: [(None, 2), (3, 4), (12, 3)]
+```  
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day31/Sort_Tuple_by_Total_digits.py">**Program to Sort tuple by Total digits.**</a></ol>
+```python
+   Input:  [(3, 4, 6, 723), (1, 2), (12345,), (134, 234, 34)]
+   Output: [(1, 2), (12345,), (3, 4, 6, 723), (134, 234, 34)]
+```   
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day31/Sort_tuple_by_last_element.py">Program to Sort tuple by it's last element.</a></ol>
+```python
+   Input:  [(1, 3), (3, 2), (2, 1)]
+   Output: [(2, 1), (3, 2), (1, 3)] 
+```   
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
