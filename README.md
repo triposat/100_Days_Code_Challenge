@@ -399,10 +399,10 @@ _______________________________
       
     Note:  Assume that there is always only one medical specialty which is visited by maximum number of patients.
       
-				Sample Input		                 Expected Output
-[ 101, 'P', 102, 'O', 302, 'P', 305, 'P']				    Pediatrics
-[ 101, 'O', 102, 'O', 302, 'P', 305, 'E', 401, 'O',656, 'O']		    Orthopedics
-[ 101, 'P', 102, 'E', 302, 'P', 305, 'P', 401, 'E', 656, 'O', 987, 'E']	    ENT
+				Sample Input		               	          Expected Output
+	[ 101, 'P', 102, 'O', 302, 'P', 305, 'P']				    Pediatrics
+	[ 101, 'O', 102, 'O', 302, 'P', 305, 'E', 401, 'O',656, 'O']		    Orthopedics
+	[ 101, 'P', 102, 'E', 302, 'P', 305, 'P', 401, 'E', 656, 'O', 987, 'E']	    ENT
 
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day34/Translate_Lang.py">**Program for Linear Search.**</a></ol>
