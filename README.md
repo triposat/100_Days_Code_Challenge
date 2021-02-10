@@ -388,16 +388,16 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day34/Medical_Speciality.py">**Write a function to find the medical specialty visited by the maximum number of patients and return the name of the specialty.**</a></ol>
 ```python
 
-   Fortis Hospital wants to know the medical specialty visited by the maximum number of patients. Assume that the Patient id
-   of the patient along with the medical specialty visited by the patient is stored in a list. The details of the medical
-   specialties are stored in a dictionary as follows:
+Fortis Hospital wants to know the medical specialty visited by the maximum number of patients. Assume that the Patient id
+of the patient along with the medical specialty visited by the patient is stored in a list. The details of the medical
+specialties are stored in a dictionary as follows:
 			
-    { "P" : "Pediatrics", "O" : "Orthopedics", "E" : "ENT" }
+ { "P" : "Pediatrics", "O" : "Orthopedics", "E" : "ENT" }
 
-    Write a function to find the medical specialty visited by the maximum number of patients and return 
-    the name of the specialty.
+Write a function to find the medical specialty visited by the maximum number of patients and return 
+the name of the specialty.
       
-    Note:  Assume that there is always only one medical specialty which is visited by maximum number of patients.
+Note:  Assume that there is always only one medical specialty which is visited by maximum number of patients.
       
 				Sample Input		               	          Expected Output
 	[ 101, 'P', 102, 'O', 302, 'P', 305, 'P']				    Pediatrics
@@ -407,18 +407,18 @@ _______________________________
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day34/Translate_Lang.py">**Write a python function translate() that accepts the bilingual dictionary and a list of English words (your Christmas wish) and returns a list of equivalent Swedish words.**</a></ol>
 ```python
-  	    Represent a small bilingual (English-Swedish) glossary given below as a Python dictionary
+ Represent a small bilingual (English-Swedish) glossary given below as a Python dictionary
       		
-            d={"merry":"god", "christmas":"jul", "and":"och", "happy":"gott", "new":"nytt","year":"ar"} 
+ d={"merry":"god", "christmas":"jul", "and":"och", "happy":"gott", "new":"nytt","year":"ar"} 
       		
-            and use it to translate your Christmas wishes from English into Swedish.
+ and use it to translate your Christmas wishes from English into Swedish.
       		
-            That is, write a python function translate() that accepts the bilingual dictionary and a 			 
-            list of English words (your Christmas wish) and returns a list of equivalent Swedish words.
+ That is, write a python function translate() that accepts the bilingual dictionary and a 			 
+ list of English words (your Christmas wish) and returns a list of equivalent Swedish words.
 
   
-     	Input:  ["merry", "christmas"]
-     	Output: ['god', 'jul']
+    Input:  ["merry", "christmas"]
+    Output: ['god', 'jul']
 ```  
 
 
