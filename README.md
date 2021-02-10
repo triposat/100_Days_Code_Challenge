@@ -392,7 +392,7 @@ _______________________________
    of the patient along with the medical specialty visited by the patient is stored in a list. The details of the medical
    specialties are stored in a dictionary as follows:
 			
-    { “P” : ”Pediatrics”, “O” : ”Orthopedics”, “E” : ”ENT” }
+    { "P" : "Pediatrics", "O" : "Orthopedics", "E" : "ENT" }
 
     Write a function to find the medical specialty visited by the maximum number of patients and return 
     the name of the specialty.
@@ -405,7 +405,7 @@ _______________________________
 	[ 101, 'P', 102, 'E', 302, 'P', 305, 'P', 401, 'E', 656, 'O', 987, 'E']	    ENT
 
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day34/Translate_Lang.py">**Program for Linear Search.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day34/Translate_Lang.py">**Write a python function translate() that accepts the bilingual dictionary and a list of English words (your Christmas wish) and returns a list of equivalent Swedish words.**</a></ol>
 ```python
   Input:  [2, 5, 4, 7, 8, 9, 10], n = 8
   Output: Found at index 4
