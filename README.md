@@ -409,14 +409,10 @@ Note:  Assume that there is always only one medical specialty which is visited b
 ```python
  Represent a small bilingual (English-Swedish) glossary given below as a Python dictionary
       		
- d={"merry":"god", "christmas":"jul", "and":"och", "happy":"gott", "new":"nytt","year":"ar"} 
-      		
- and use it to translate your Christmas wishes from English into Swedish.
-      		
- That is, write a python function translate() that accepts the bilingual dictionary and a 			 
- list of English words (your Christmas wish) and returns a list of equivalent Swedish words.
-
-  
+ d={"merry":"god", "christmas":"jul", "and":"och", "happy":"gott", "new":"nytt","year":"ar"} and use it to translate your
+ Christmas wishes from English into Swedish. That is, write a python function translate() that accepts the bilingual
+ dictionary and a list of English words (your Christmas wish) and returns a list of equivalent Swedish words.
+ 
     Input:  ["merry", "christmas"]
     Output: ['god', 'jul']
 ```  
