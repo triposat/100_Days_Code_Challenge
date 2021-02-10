@@ -407,8 +407,18 @@ _______________________________
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day34/Translate_Lang.py">**Write a python function translate() that accepts the bilingual dictionary and a list of English words (your Christmas wish) and returns a list of equivalent Swedish words.**</a></ol>
 ```python
-  Input:  [2, 5, 4, 7, 8, 9, 10], n = 8
-  Output: Found at index 4
+  	    Represent a small bilingual (English-Swedish) glossary given below as a Python dictionary
+      		
+            d={"merry":"god", "christmas":"jul", "and":"och", "happy":"gott", "new":"nytt","year":"ar"} 
+      		
+            and use it to translate your Christmas wishes from English into Swedish.
+      		
+            That is, write a python function translate() that accepts the bilingual dictionary and a 			 
+            list of English words (your Christmas wish) and returns a list of equivalent Swedish words.
+
+  
+     	Input:  ["merry", "christmas"]
+     	Output: ['god', 'jul']
 ```  
 
 
