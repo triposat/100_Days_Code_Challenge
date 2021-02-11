@@ -434,6 +434,30 @@ _______________________________
   Output: [5,6,12,14,15,23,34]
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-36-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day36/Quick_Sort.py">**Program for Quick Sort.**</a></ol>
+```python
+  Input:  [5,14,6,23,15,12,34]
+  Output: [5,6,12,14,15,23,34]
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day36/Gem_Qty.py">**Write a program for to input name of the gems separated by comma and the respective quantities to be purchased separated by comma. Then print the total cost of the gems user want to purchase and also reduce the quantity of the gems purchased.**</a></ol>
+```python
+ Let we have two dictionaries.  
+ gem_qty={“ruby” : 25,“diamond”: 30,“emrald”:15,“topaz”: 18,“sapphire”: 20}
+ gem_price={“ruby” : 2000,“diamond”: 4000,“emrald”:1900,“topaz”:500,“sapphire”:2500}
+ 
+     Input                           Output
+ diamond,ruby,topaz            Total Cost: 47500
+ 5,10,15                       Gem_Qty: {'ruby': 15, 'diamond': 25, 'emrald': 15, 'topaz': 3, 'sapphire': 20}
+
+
+
+```  
+
+
 
 _______________________________
 
