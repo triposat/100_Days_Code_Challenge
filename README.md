@@ -419,6 +419,21 @@ Note:  Assume that there is always only one medical specialty which is visited b
     Output: ['god', 'jul']
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-35-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day35/Insertion_Sort.py">**Program for Insertion Sort.**</a></ol>
+```python
+  Input:  [5,14,6,23,15,12,34]
+  Output: [5,6,12,14,15,23,34]
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day35/Insertion_Sort_Recursive.py">**Program for Recursive Insertion Sort.**</a></ol>
+```python
+  Input:  [5,14,6,23,15,12,34]
+  Output: [5,6,12,14,15,23,34]
+```  
+
 
 _______________________________
 
