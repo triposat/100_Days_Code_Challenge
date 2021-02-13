@@ -479,12 +479,12 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day38/Inverted_Star_Pattern.py">**Program for Inverted Star Pattern.**</a></ol>
 ```python
   Input:  6
-  Output:   ******
-	     *****
-              ****
-  	       ***
-    		**
-    		 *
+  Output:  ******
+	    *****
+             ****
+  	      ***
+    	       **
+    	        *
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day38/Merge_Sort.py">**Program for Merge Sort.**</a></ol>
 ```python
