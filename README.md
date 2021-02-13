@@ -488,7 +488,9 @@ _______________________________
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day38/Merge_Sort.py">**Program for Merge Sort.**</a></ol>
 ```python
-   Time: 19:29:53
+  Input:  [64, 25, 12, 22, 11]
+  Output: [11, 12, 22, 25, 64]
+   
 ```  
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-39-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
@@ -499,8 +501,7 @@ _______________________________
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day39/Current_Time_and_Date.py">**Program for Merge Sort.**</a></ol>
 ```python
-  Input:  [64, 25, 12, 22, 11]
-  Output: [11, 12, 22, 25, 64]
+    Time: 19:29:53
 ```  
 
 
