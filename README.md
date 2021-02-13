@@ -472,6 +472,26 @@ _______________________________
   Output: [11, 12, 22, 25, 64]
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-38-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day38/Inverted_Star_Pattern.py">**Program for Inverted Star Pattern.**</a></ol>
+```python
+  Input:  6
+  Output:   ******
+	     *****
+              ****
+  	       ***
+    		**
+    		 *
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day38/Merge_Sort.py">**Program for Merge Sort.**</a></ol>
+```python
+  Input:  [64, 25, 12, 22, 11]
+  Output: [11, 12, 22, 25, 64]
+```  
+
 
 _______________________________
 
