@@ -492,6 +492,8 @@ _______________________________
   Output: [11, 12, 22, 25, 64]
    
 ```  
+_______________________________
+
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-39-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day39/Current_Time.py">**Program to get Current Time.**</a></ol>
@@ -502,6 +504,25 @@ _______________________________
 ```python
     Time: 19:29:53
     Date: 13-02-2021
+```  
+
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-40-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day40/Today_Yesterday_Tommorow_Date.py">**Find yesterday’s, today’s and tomorrow’s date.**</a></ol>
+```python
+    Time: 19:29:53
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day40/12_to_24_hour_format.py">**Program to convert time from 12 hour to 24 hour format.**</a></ol>
+```python
+  
+   Input : 11:28:33 PM
+   Output: 23:28:33
+
+   Input : 12:15:21 AM
+   Output: 00:15:21
+    
 ```  
 
 
