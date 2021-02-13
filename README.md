@@ -494,14 +494,14 @@ _______________________________
 ```  
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-39-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day39/Current_Time.py">**Program for Inverted Star Pattern.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day39/Current_Time.py">**Program to get Current Time.**</a></ol>
+```python
+    Time: 19:29:53
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day39/Current_Time_and_Date.py">**Program to get Current Date and Time.**</a></ol>
 ```python
     Time: 19:29:53
     Date: 13-02-2021
-```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day39/Current_Time_and_Date.py">**Program for Merge Sort.**</a></ol>
-```python
-    Time: 19:29:53
 ```  
 
 
