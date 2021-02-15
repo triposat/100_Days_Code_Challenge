@@ -552,7 +552,7 @@ _______________________________
           Saturday : 52
           Sunday : 52
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day42/Timestamp_to_datetime.py">**CConvert timestamp string to datetime object in Python.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day42/Timestamp_to_datetime.py">**Convert timestamp string to datetime object in Python.**</a></ol>
 ```python
   Input : 1617301800
   Output: "02/04/2021"
