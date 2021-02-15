@@ -522,6 +522,21 @@ _______________________________
     
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-41-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day41/Difference_bw_Times.py">**Python program to find difference between current time and given time.**</a></ol>
+```python
+  Input : h1=7, m1=20, h2=9, m2=45
+  Output: 2 : 25
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day41/String_to_Timestamp.py">**Convert date string to timestamp in Python.**</a></ol>
+```python
+  Input : "02/04/2021"
+  Output: 1617301800.0
+```  
+
 
 _______________________________
 
