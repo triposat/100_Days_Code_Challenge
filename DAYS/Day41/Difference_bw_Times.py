@@ -1,3 +1,5 @@
+# Approach 1:
+
 def Time_Difference(h1, m1, h2, m2):
     Time_1 = h1*60+m1
     Time_2 = h2*60+m2
@@ -18,6 +20,8 @@ if __name__ == "__main__":
     Time_Difference(16, 20, 16, 20)
 
 
+# Approach 2:    
+    
 from datetime import datetime
 Time_1 = '10:33:26'
 Time_2 = '11:15:49'
