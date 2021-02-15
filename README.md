@@ -537,6 +537,26 @@ _______________________________
   Output: 1617301800.0
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-42-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day42/Day_Occurs_in_a_Year.py">**Find number of times every day occurs in a Year.**</a></ol>
+```python
+  Input : 2021
+  Output: Monday : 52
+          Tuesday : 52
+          Wednesday : 52
+          Thursday : 52
+          Friday : 53
+          Saturday : 52
+          Sunday : 52
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day42/Timestamp_to_datetime.py">**CConvert timestamp string to datetime object in Python.**</a></ol>
+```python
+  Input : 1617301800
+  Output: "02/04/2021"
+```  
 
 _______________________________
 
