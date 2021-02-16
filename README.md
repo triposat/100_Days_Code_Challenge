@@ -558,6 +558,31 @@ _______________________________
   Output: "02/04/2021"
 ```  
 
+
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-43-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Count_Uppercase_Lowercase.py">**PPython program to Count Uppercase, Lowercase, special character and numeric values using Regex.**</a></ol>
+```python
+    Input: "ThisIsGeeksforGeeks!, 123" 
+
+    Output: No. of uppercase characters = 4
+	    No. of lowercase characters = 15
+	    No. of numerical characters = 3
+	    No. of special characters = 2
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Defined_Characters_Using_Regex.py">**Python Program to Check if String Contain Only Defined Characters using Regex.**</a></ol>
+```python
+    Input: ‘657’ let us say regular expression contain following characters - (‘78653’)
+    Output: Valid
+    Explanation: The Input string only consist of characters present in the given string
+
+    Input: ‘7606’ let us say regular expression contain following characters - (‘102’) 
+    Output: Invalid
+```  
+
+
 _______________________________
 
 
