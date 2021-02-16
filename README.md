@@ -563,7 +563,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-43-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Count_Uppercase_Lowercase.py">**PPython program to Count Uppercase, Lowercase, special character and numeric values using Regex.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Count_Uppercase_Lowercase.py">**Python program to Count Uppercase, Lowercase, special character and numeric values using Regex.**</a></ol>
 ```python
     Input: "ThisIsGeeksforGeeks!, 123" 
 
@@ -576,12 +576,33 @@ _______________________________
 ```python
     Input: ‘657’ let us say regular expression contain following characters - (‘78653’)
     Output: Valid
-    Explanation: The Input string only consist of characters present in the given string
+    Explanation: The Input string only consist of characters present in the given string.
 
     Input: ‘7606’ let us say regular expression contain following characters - (‘102’) 
     Output: Invalid
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-44-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day44/Extract_Maximum_Using_Regex.py">**Python Regex to extract maximum numeric value from a string.**</a></ol>
+```python
+    Input: 100klh564abc365bg
+    Output: 564
+    Maximum numeric value among 100, 564, and 365 is 564.
+
+    Input: abchsd0sdhs
+    Output: 0
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day44/Most_Occurring_number_Using_Regex.py">**Python Program to find the most occurring number in a string using Regex.**</a></ol>
+```python
+    Input: geek55of55geeks4abc3dr2 
+    Output: 55
+
+    Input: abcd1def2high2bnasvd3vjhd44
+    Output: 2
+```  
 
 _______________________________
 
