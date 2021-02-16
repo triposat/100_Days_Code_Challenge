@@ -610,6 +610,14 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-45-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day45/Put_Spaces_bw_Words.py">**Python Program to put spaces between words starting with capital letters using Regex.**</a></ol>
 ```python
+    Input: BruceWayneIsBatman
+    Output: bruce wayne is batman
+
+    Input: GeeksForGeeks
+    Output: geeks for geeks
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day45/Starts_End_with_same_Character.py">**Check whether a string starts and ends with the same character or not.**</a></ol>
+```python
     Input: abba
     Output: Valid
 
@@ -618,14 +626,6 @@ _______________________________
 
     Input: abc
     Output: Invalid
-```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day45/Starts_End_with_same_Character.py">**Check whether a string starts and ends with the same character or not.**</a></ol>
-```python
-    Input: BruceWayneIsBatman
-    Output: bruce wayne is batman
-
-    Input: GeeksForGeeks
-    Output: geeks for geeks
 ```  
 
 _______________________________
