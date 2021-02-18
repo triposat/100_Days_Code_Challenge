@@ -631,6 +631,28 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-46-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day46/Remove_Duplicates_from_string.py">**Python program to Remove duplicate words from Sentence.**</a></ol>
+```python
+    Input: str = “Good bye bye world world” 
+    Output: Good bye world 
+
+    Input: str = “Hello hello world world” 
+    Output: Hello world 
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day46/Upper_Case_followed_by_Lower_Case.py">**Python regex to find sequences of one upper case letter followed by lower case letters.**</a></ol>
+```python
+    Input: Geeks
+    Output: Yes
+
+    Input: geeksforgeeks
+    Output: No
+```  
+
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
