@@ -681,11 +681,13 @@ _______________________________
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day48/String_start_with_substring.py">**Program to check if a string starts with a substring using regex.**</a></ol>
 ```python
-    Input: String: "geeks for geeks makes learning fun" 
-       Substring: "geeks" 
+    Input: 
+        String: "geeks for geeks makes learning fun" 
+        Substring: "geeks" 
     Output: True 
-    Input: String: "geeks for geeks makes learning fun" 
-       Substring: "makes" 
+    Input: 
+        String: "geeks for geeks makes learning fun" 
+        Substring: "makes" 
     Output: False
 ```  
 
