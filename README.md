@@ -667,6 +667,27 @@ _______________________________
     Output: Discard
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-48-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day48/String_Starting_with_Vowel.py">**Python Regex to accept string starting with vowel.**</a></ol>
+```python
+    Input: animal
+    Output: Accepted
+
+    Input: zebra
+    Output: Not Accepted
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day48/String_start_with_substring.py">**Program to check if a string starts with a substring using regex.**</a></ol>
+```python
+    Input: String: "geeks for geeks makes learning fun" 
+       Substring: "geeks" 
+    Output: True 
+    Input: String: "geeks for geeks makes learning fun" 
+       Substring: "makes" 
+    Output: False
+```  
 
 _______________________________
 
