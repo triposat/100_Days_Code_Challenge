@@ -703,7 +703,7 @@ _______________________________
     	Hostname: geeksforgeeks.com
         Protocol: https
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day49/URL_Validation.py">**Check if an URL is valid or not.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day49/URL_Validation.py">**Check if an URL is valid or not using Validator Module.**</a></ol>
 ```python
     Input: “https://www.geeksforgeeks.org/” 
     Output: Yes 
