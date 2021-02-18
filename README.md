@@ -649,6 +649,24 @@ _______________________________
     Output: No
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-47-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day47/Remove_all_except_numbers_and_letters.py">**Python Regex to Remove all characters except letters and numbers.**</a></ol>
+```python
+    Input:  123abcjw:, .@! eiw
+    Output: 123abcjweiw
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day47/String_ending_wth_numbers.py">**Program to accept string ending with alphanumeric character.**</a></ol>
+```python
+    Input: ankitrai326
+    Output: Accept
+
+    Input: ankirai@
+    Output: Discard
+```  
+
 
 _______________________________
 
