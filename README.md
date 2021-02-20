@@ -711,6 +711,28 @@ _______________________________
     Input: “https:// www.geeksforgeeks.org/”
     Output: No 
 ```  
+
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-50-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day50/Extension_Checking_using_Regex.py">**Program to find files having a particular extension using RegEx.**</a></ol>
+```python
+    Input: ["gfg.html", "geeks.xml", "computer.txt", "geeksforgeeks.jpg", "hey.png"], x = png
+    Output: hey.png
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day50/Validate_email.py">**Check if email address valid or not.**</a></ol>
+```python
+    Input:  ankitrai326@gmail.com
+    Output: Valid Email
+
+    Input: my.ownsite@ourearth.org
+    Output: Valid Email
+
+    Input: ankitrai326.com
+    Output: Invalid Email 
+```  
+
 _______________________________
 
 
