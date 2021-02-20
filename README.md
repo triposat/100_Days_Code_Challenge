@@ -738,6 +738,7 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-51-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href"https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day51/Validity_of_Password.py">**Program to check the validity of a Password.**</a></ol>
+
 ```python
     Primary conditions for password validation :
 
