@@ -736,6 +736,55 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-51-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href"https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day51/Validity_of_Password.py">**Program to check the validity of a Password.**</a></ol>
+```python
+    Primary conditions for password validation :
+
+    1) Minimum 8 characters.
+    2) The alphabets must be between [a-z]
+    3) At least one alphabet should be of Upper Case [A-Z]
+    4) At least 1 number or digit between [0-9].
+    5) At least 1 character from [ _ or @ or $ ]
+```   
+
+```python
+    Input: R@m@_f0rtu9e$
+    Output: Valid Password
+
+    Input: Rama_fortune$
+    Output: Invalid Password
+    Explanation: Number is missing
+
+    Input: Rama#fortu9e 
+    Output: Invalid Password
+    Explanation: Must consist from _ or @ or $
+```
+
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day51/Weak_or_Strong_Pass.py">**Categorize Password as Strong or Weak using Regex.**</a></ol>
+```python
+    Input1: Qggf!@ghf3
+    Output1: Strong Password!
+
+    Input2: aaabnil1gu
+    Output2: Weak Password: Same character repeats three or more times in a row
+
+    Input3: Geeksforgeeks
+    Output3: Weak Password: Same character repeats three or more times in a row
+
+    Input4: Aasd!feasnm
+    Output4: Weak password: Same string pattern repetition
+
+    Input5: 772*hdf77
+    Output5: Weak password: Same string pattern repetition
+
+    Input6: " "
+    Output6: Password cannot be a newline or space!
+```  
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
