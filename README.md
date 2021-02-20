@@ -742,11 +742,11 @@ _______________________________
 ```python
     Primary conditions for password validation :
 
-    1) Minimum 8 characters.
-    2) The alphabets must be between [a-z]
-    3) At least one alphabet should be of Upper Case [A-Z]
-    4) At least 1 number or digit between [0-9].
-    5) At least 1 character from [ _ or @ or $ ]
+      1) Minimum 8 characters.
+      2) The alphabets must be between [a-z]
+      3) At least one alphabet should be of Upper Case [A-Z]
+      4) At least 1 number or digit between [0-9].
+      5) At least 1 character from [ _ or @ or $ ]
 ```   
 
 ```python
@@ -763,6 +763,17 @@ _______________________________
 ```
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day51/Weak_or_Strong_Pass.py">**Categorize Password as Strong or Weak using Regex.**</a></ol>
+
+```python
+
+    Conditions to be fulfilled are:
+
+      1) Minimum 9 characters and maximum 20 characters.
+      2) Cannot be a newline or a space
+      3) There should not be three or more repeating characters in a row.
+      4) The same string pattern(minimum of two character length) should not be repeating.
+```
+
 ```python
     Input1: Qggf!@ghf3
     Output1: Strong Password!
