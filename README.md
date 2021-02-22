@@ -65,9 +65,18 @@ _______________________________
     Output - Max: 23, MIN: 4
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Palindrome_Number.py">**Program to check whether number is PALINDROME or not.**</a></ol>
+```python
+    Input - Enter a Number: 121
+    Output - Palindrome Number
+       
+    Input - Enter a Number: 123
+    Output - Not a Palindrome Number
+```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Prime_Using_Sieve_of_Eratosthenes.py">**Program to check PRIME Number Using Sieve of Eratosthenes.**</a></ol>
-
-
+```python
+    Input - Upto How Many Terms: 20
+    Output - 2 3 5 7 11 13 17 19
+```
 _______________________________
 
 
