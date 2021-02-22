@@ -169,7 +169,7 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-6-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day6/Increament_Numeric_String.py">**Program for Increamenting Numeric String.**</a></ol>
 ```python
-    Input - ["100", "Days", "of", "CodeChallenge", "234", "is", "98", "123", "best", "4"]
+    Input - ["100", "Days", "of", "CodeChallenge", "234", "is", "98", "123", "best", "4"], N = 10
     Output - ['110', 'Days', 'of', 'CodeChallenge', '244', 'is', '108', '133', 'best', '14']
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day6/Maximum_of_Each_key_in_List.py">**Program to find Maximum of each key in list.**</a></ol>
@@ -185,8 +185,7 @@ _______________________________
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day6/Words_Reverse_Pairs_in_List.py">**Program for Words Reverse Pairs in list.**</a></ol>
 ```python
-    Input - ["skeeg", "best", "tseb",
-              "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
+    Input - ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
     Output - 3 Reverse Pairs
 ```
 _______________________________
@@ -194,9 +193,25 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-7-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Remove_Row_with_Custom_Element.py">**Program to Remove Row with custom elements.**</a></ol>
+```python
+    Input - [[5, 3, 1], [7, 8, 9], [1, 10, 22], [12, 18, 21]], [3, 10, 19, 29, 20, 15]
+    Output - [[7, 8, 9], [12, 18, 21]]
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Remove_Specific_Digit_from_Every_Element.py">**Program for Removing Specific Digit from every element.**</a></ol>
+```python
+    Input - ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
+    Output - 3 Reverse Pairs
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/String_Based_on_Prefix.py">**Program to print strings Based on Prefix.**</a></ol>
+```python
+    Input - ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
+    Output - 3 Reverse Pairs
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Swap_ith_with_jth_Element.py">**Program to Swap ith with jth element.**</a></ol>
+```python
+    Input - ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
+    Output - 3 Reverse Pairs
+```
 
 _______________________________
 
