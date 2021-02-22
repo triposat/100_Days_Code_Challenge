@@ -143,10 +143,26 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-5-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Break_into_Chunks.py">**Program to Break list into Chunks of list.**</a></ol>
+```python
+    Input - [10, 45, 20, 62, 47, 85, 12, 63, 24, 78, 10], N = 2
+    Output - [[45, 20], [62, 47], [85, 12], [63, 24], [78, 10]]
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Cumulative_Sum_of_List.py">**Program for Cumulative Sum of list.**</a><ol>
+	
+```python
+    Input - [10, 20, 30, 40, 50, 60]
+    Output - [10, 30, 60, 100, 150, 210]
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Duplicates_in_List.py">**Program to print Duplicates in list.**</a></ol>
+```python
+    Input - [4, 5, 1, 2, 6, 5, 2]
+    Output - [5, 2]
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Flatten_List.py">**Program for Flattening a list.**</a></ol>
-
+```python
+    Input - [1, 2, [3, 4, [5, 6], 7], [[[8, 9], 10]], [11, [12, 13]]]
+    Output - [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+```
 _______________________________
 
 
