@@ -82,6 +82,13 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-3-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Monotonic_Or_Not.py">**Program to check whether list is MONOTONIC or not.**</a></ol>
+```python
+    Input - [5, 6, 7, 9, 1, 10, 25, 31]
+    Output - No, It's not an Monotonic List
+    
+    Input - [1, 2, 3, 4, 5, 6, 7, 8]
+    Output - Yup, It's an Monotonic List
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Reversing_a_list.py">**Program for REVERSING a list.**</a></ol>
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Searching_Element_in_List.py">**Program for SEARCHING elements in a list.**</a></ol>
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Second_Largest_in_List.py">**Program for SECOND LARGEST element in a list.**</a></ol>
