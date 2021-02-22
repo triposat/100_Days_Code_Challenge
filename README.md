@@ -11,11 +11,32 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Display_Fibonacci_Series.py">**Program to Display Fibonacci Series.**</a></ol>
+```python
+    Input - How Many Terms do you want to Display: 10
+    Output - 0 1 1 2 3 5 8 13 21 34
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Factorial_Of_Number.py">**Program to find Factorial of number.**</a></ol>
+```python
+    Input - Enter a Number: 5
+    Output - 5! = 120
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/HCF_Of_Number.py">**Program to find HCF of numbers.**</a></ol>
+```python
+    Input - Enter 1st Number: 5
+            Enter 2nd Number: 12
+    Output - HCF: 1
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/LCM_Of_Number.py">**Program to find LCM of numbers.**</a></ol>
+```python
+    Input - Enter 1st Number: 5
+            Enter 2nd Number: 12
+    Output - LCM: 1
+```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Number_is_Fibonacci_or_not.py">**Program to check whather given number is Fibonacci or not.**</a></ol>
-
+```python
+    Input - Enter a Number: 5
+    Output - 5! = 120
+```
 
 _______________________________
 
