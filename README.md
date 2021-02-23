@@ -194,33 +194,48 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-7-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Remove_Row_with_Custom_Element.py">**Program to Remove Row with custom elements.**</a></ol>
 ```python
-    Input - [[5, 3, 1], [7, 8, 9], [1, 10, 22], [12, 18, 21]], [3, 10, 19, 29, 20, 15]
+    Input - Test_list = [[5, 3, 1], [7, 8, 9], [1, 10, 22], [12, 18, 21]], N = [3, 10, 19, 29, 20, 15]
     Output - [[7, 8, 9], [12, 18, 21]]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Remove_Specific_Digit_from_Every_Element.py">**Program for Removing Specific Digit from every element.**</a></ol>
 ```python
-    Input - ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
-    Output - 3 Reverse Pairs
+    Input - [343, 893, 1948, 3433333, 2346], N = 3
+    Output - ['4', '89', '1948', '4', '246']
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/String_Based_on_Prefix.py">**Program to print strings Based on Prefix.**</a></ol>
 ```python
-    Input - ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
-    Output - 3 Reverse Pairs
+    Input - Test_list = ["geeks", "peeks", "meeks", "leeks", "mean"], Prefix_list = ["ge", "ne", "me", "re"]
+    Output - ['geeks', 'meeks', 'mean']
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Swap_ith_with_jth_Element.py">**Program to Swap ith with jth element.**</a></ol>
 ```python
-    Input - ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
-    Output - 3 Reverse Pairs
+    Input - Test_list = [4, 7, 8, 0, 8, 4, 2, 9, 4, 8, 4], i, j = 4, 8
+    Output - [8, 7, 4, 0, 4, 8, 2, 9, 8, 4, 8]
 ```
 
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-8-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Element_Multiple_of_Element_in_List.py">**Program for elements Mutiple of elements in a list.**</a></ol>
+```python
+    Input - Test_list = [4, 24, 8, 10, 12, 23], Check_list = [6, 4]
+    Output - [24, 12]
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Element_with_Maximum_Vowel_from_List.py">**Program to print element with Maximum Vowel in a list.**</a></ol>
+```python
+    Input - ["gfg", "beaeioust", "for", "geeks"]
+    Output - beaeioust
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Occurence_of_i_before_first_j_in_List.py">**Program for Occurrences of i before first j in a list.**</a></ol>
+```python
+    Input -Test_list = [4, 5, 6, 4, 1, 4, 8, 5, 4, 3, 4, 9], i, j = 4, 8
+    Output - 4 Occurs 3 times before 8 Occur
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Sort_row_by_Frequency_of_Key.py">**Program to Sort Row by frequency of key.**</a></ol>
-
+```python
+    Input - [[10, 2, 3, 2, 3], [5, 5, 4, 7, 7, 4], [1, 2], [1, 1, 2, 2, 2]], n = 2
+    Output - [[5, 5, 4, 7, 7, 4], [1, 2], [10, 2, 3, 2, 3], [1, 1, 2, 2, 2]]
+```
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-9-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
