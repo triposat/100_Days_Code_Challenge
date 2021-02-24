@@ -240,10 +240,32 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-9-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Add_Two_Matrix.py">**Program to Add Two Matrix.**</a></ol>
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Multiply_Matrix.py">**Program to Multiply Two Matrix.**</a></ol>
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Product_of_All_Elements_in_Matrix.py">**Program for Product of all elements in Matrix.**</a></ol>
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Transpose_Matrix.py">**Program to Transpose a Matrix.**</a></ol>
+```python
+    Input - X = [[1, 2, 3],
+    		[4, 5, 6],
+     		[7, 8, 9]]
 
+	    Y = [[9, 8, 7],
+    		[6, 5, 4],
+     		[3, 2, 1]]
+    Output - [10, 10, 10, 10, 10, 10, 10, 10, 10]
+```
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Multiply_Matrix.py">**Program to Multiply Two Matrix.**</a></ol>
+```python
+    Input - A = [[12, 7, 3], [4, 5, 6], [7, 8, 9]], B = [[5, 8, 1, 2], [6, 7, 3, 0], [4, 5, 9, 1]]
+    Output - [[114, 160, 60, 27], [74, 97, 73, 14], [119, 157, 112, 23]]
+```
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Product_of_All_Elements_in_Matrix.py">**Program for Product of all elements in Matrix.**</a></ol>
+```python
+    Input - [[1, 4, 5], [7, 3], [4], [46, 7, 3]]
+    Output - 1622880
+```
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Transpose_Matrix.py">**Program to Transpose a Matrix.**</a></ol>
+```python
+    Input - [[12, 7], [4, 5], [3, 8]]
+    Output - [12, 4, 3]
+	     [7, 5, 8]
+```
 _______________________________
 
 
