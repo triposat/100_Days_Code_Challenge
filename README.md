@@ -305,11 +305,30 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-11-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Remove_Duplicates_from_List.py">**Program to Remove Duplicates from a List.**</a></ol>
+```python
+    Input - [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6]
+    Output - [1, 2, 3, 4, 5, 6]
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Remove_Particular_Character.py">**Program to Remove Particular Character.**</a></ol>
+```python
+    Input - Hey! There satyam here, K = !
+    Output - Hey There satyam here
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Reverse_Words_of_String.py">**Program to Reverse Words of string.**</a></ol>
+```python
+    Input - 100 Days of Code Challenge
+    Output - Challenge Code of Days 100
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Snake_Case_to_Pascal_Case.py">**Program to Convert Snake Case to Pascal case.**</a></ol>
+```python
+    Input - 100 days of code challenge
+    Output - 100DaysOfCodeChallenge
+```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Word_with_Max_Frequency_in_String.py">**Program to Find word with Maximum Frequency.**</a></ol>
-
+```python
+    Input - hey you yeah you where are you
+    Output - you
+```
 
 _______________________________
 
