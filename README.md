@@ -346,8 +346,8 @@ _______________________________
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/Matching_Characters_in_String.py">**Program for Matching Characters in string.**</a></ol>
 ```python
-    Input - First = 100 Days of Code Challenge, Second = Code Challenge
-    Output -  a o Code Challenge
+    Input - F1 = 100 Days of Code Challenge, F2 = Code Challenge
+    Output - Code Challenge
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/String_with_Vowels.py">**Program to print String with Vowels.**</a></ol>
 ```python
