@@ -271,9 +271,34 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-10-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day10/Kth_Element_in_Matrix.py">**Program for Kth Element in Matrix.**</a></ol>
+```python
+    Input - Test_list = [[4, 5, 6],
+                        [8, 1, 10],
+             	        [7, 12, 5]]
+            K = 2
+    Output - [5, 1, 12]
+```
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day10/String_Palindrome.py">**Program for String Palindrome.**</a></ol>
+```python
+    Input - amma
+    Output - Palindrome String
+    
+    Input - code
+    Output - Not a Palindrome String
+```
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day10/Symmetric_or_Palindrome.py">**Program to check whether string is Symmetric or Palindrome.**</a></ol>
+```python
+    Input - amam
+    Output - Symmetric and Not Palindrome
+    
+    Input - amaama
+    Output - Symmetric and Palindrome
+```
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day10/Vertical_Concatenation_of_Matrix.py">**Program for Vertical Concatenation of Matrix.**</a></ol>
+```python
+    Input - [["Gfg", "good"], ["is", "for"], ["Best"]]
+    Output - ['GfgisBest', 'goodfor', '']
+```
 
 _______________________________
 
