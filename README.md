@@ -362,18 +362,58 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-13-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/Removing_ith_Character_from_String.py">**Program for Removing ith Character from string.**</a></ol>
+```python
+    Input - Code Challenge, K = 6
+    Output - Code Callenge
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/Special_Characters_in_String.py">**Program for Special Characters in string.**</a></ol>
+```python
+    Input -  github@io
+    Output - Not Accepted
+    
+    
+    Input -  githubio
+    Output - Accepted
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/String_is_Binary_or_not.py">**Program for checking string is Binary or not.**</a></ol>
+```python
+    Input - 123456
+    Output - Not a Binary
+    
+    
+    Input - 1011001011
+    Output - Binary
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/Words_Greater_than_Given_Length.py">**Program to print all the words greater than given length.**</a></ol>
+```python
+    Input - Hey! this is 100 Days of Code Challenge, N = 4
+    Output - Challenge
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-14-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Permutation_of_String.py">**Program for PERMUTATION of string.**</a></ol>
+```python
+    Input - ABC
+    Output - ABC, ACB, BAC, BCA, CAB, CBA
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Replace_Duplicate_Occurrence_in_String.py">**Program for Replace Duplicate Occurrences in string.**</a></ol>
+```python
+    Input - Hey! this is 100 Days of Code Challenge, N = 4
+    Output - Challenge
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Replace_Multiple_Words_in_String.py">**Program for Replace Multiple Words in string.**</a></ol>
+```python
+    Input - Hey! this is 100 Days of Code Challenge, N = 4
+    Output - Challenge
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Uncommon_Words_from_String.py">**Program to print Uncommon Words in strings.**</a></ol>
+```python
+    Input - Hey! this is 100 Days of Code Challenge, N = 4
+    Output - Challenge
+```
 
 _______________________________
 
