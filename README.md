@@ -228,7 +228,7 @@ _______________________________
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Occurence_of_i_before_first_j_in_List.py">**Program for Occurrences of i before first j in a list.**</a></ol>
 ```python
-    Input -Test_list = [4, 5, 6, 4, 1, 4, 8, 5, 4, 3, 4, 9], i, j = 4, 8
+    Input - Test_list = [4, 5, 6, 4, 1, 4, 8, 5, 4, 3, 4, 9], i, j = 4, 8
     Output - 4 Occurs 3 times before 8 Occur
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Sort_row_by_Frequency_of_Key.py">**Program to Sort Row by frequency of key.**</a></ol>
@@ -335,9 +335,28 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-12-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/Even_Length_Strings.py">**Program for Even length String.**</a></ol>
+```python
+    Input - 100 Days of Code Challenge
+    Output - Days, of, Code
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/Least_Frequency_Character.py">**Program for least Frequency Character.**</a></ol>
+```python
+    Input - this is github challenge
+    Output - u
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/Matching_Characters_in_String.py">**Program for Matching Characters in string.**</a></ol>
+```python
+    Input - First = 100 Days of Code Challenge, Second = Code Challenge
+    Output -  a o Code Challenge
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/String_with_Vowels.py">**Program to print String with Vowels.**</a></ol>
+```python
+    Input - Github Challenge
+    Output - Not Accepted
+    
+    Input - aaoaao
+    Output - Accepted
+```
 _______________________________
 
 
