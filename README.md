@@ -482,18 +482,60 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-17-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Maximum_Uppercase_run.py">**Program for Maximum UpperCase run.**</a></ol>
+```python
+    Input - GeEKSforGEEKSISBESt
+    Output - GEEKSISBES 10
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Move_Numbers_to_the_End.py">**Program for Moving Numbers to the end of the string.**</a></ol>
+```python
+    Input - This is 100 Days of Code Challenge Plus 50 Days Also
+    Output - This is  Days of Code Challenge Plus  Days Also10050
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Replace_String_by_SubString.py">**Program for Replacing String with Sub-String.**</a></ol>
+```python
+    Input - String: This is 50 Days of Code Challenge
+	    Which: 50
+	    To: 100
+    Output - This is 100 Days of Code Challenge
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Strings_Based_on_Prefix.py">**Program to print strings based on Prefix.**</a></ol>
+```python
+    Input - Test_list = ["geeks", "peeks", "meeks", "leeks", "mean"]
+	    Pref_list = ["ge", "ne", "me", "re"]
+    Output - geeks meeks mean
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-18-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day18/Extract_Unique_Dictionary_Values.py">**Extracting Values from Dictionary.**</a></ol>
+```python
+    Input - Test_dict = {'Challenges': [5, 6, 7, 8],
+             		 'are': [10, 11, 7, 5],
+                         'best': [6, 12, 10, 8],
+                         'for': [1, 2, 5]}
+    Output - [1, 2, 5, 6, 7, 8, 10, 11, 12]
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day18/Remove_Keys_from_Dictionary.py">**Remove a Key from Dictionary.**</a></ol>
+```python
+    Input - {'This': 12, 'is': 24, 'Code': 36, 'Challenge': 48, 'Github': 60}
+	    Which Key to Delete: Github
+    Output - {'This': 12, 'is': 24, 'Code': 36, 'Challenge': 48}
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day18/Sorting_Dictionary_Using_Itemgetter.py">**Sort a list of Dictionaries by values using `itemgetter.`**</a></ol>
+```python
+    Input - Test_list = [{"Name": "Tushar", "Age": 20},
+            		 {"Name": "Aditya", "Age": 19},
+            		 {"Name": "Satyam", "Age": 21}]
+    Output - Age Sorting: [{'Name': 'Aditya', 'Age': 19}, {'Name': 'Tushar', 'Age': 20}, {'Name': 'Satyam', 'Age': 21}]
+	     Name and Age Sorting: [{'Name': 'Aditya', 'Age': 19}, {'Name': 'Tushar', 'Age': 20}, {'Name': 'Satyam', 'Age': 21}]
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day18/Sum_of_Items_in_Dictionary.py">**Find the Sum of all items in a Dictionary.**</a></ol>
+```python
+    Input - {'a': 100, 'b': 200, 'c': 300, 'd': 400}
+    Output - Total Sum: 1000
+```
 
 _______________________________
 
