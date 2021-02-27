@@ -576,9 +576,27 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-20-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Append_Keys_and_Values.py">**Program to Append Dictionary Keys and Values.**</a></ol>
+```python
+    Input - {"Code": 1, "Challenge": 10, "is": 100, "Best": 1000}
+    Output - ['Code', 'Challenge', 'is', 'Best', 1, 10, 100, 1000]
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Counter_in_Dictionary.py">**Program for Counter in Python to find the Winner of the Election.**</a></ol>
+```python
+    Input - Test_list = ['john', 'johnny', 'jackie', 'johnny', 'john', 'jackie',
+             		 'jamie', 'jamie', 'john', 'johnny', 'jamie', 'johnny', 'john']
+    Output - john
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Sort_Dictionary_Keys_and_Values_List.py">**Program to Sort Dictionary Keys and Values List.**</a></ol>
+```python
+    Input - {'Code': [7, 6, 3], 'Challenge': [2, 10, 3], 'is': [19, 4], 'Best': [18, 20, 7]}
+    Output - {'Best': [7, 18, 20], 'Challenge': [2, 3, 10], 'Code': [3, 6, 7], 'is': [4, 19]}
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Sorting_Using_Keys_and_Values.py">**Program to Sort Python Dictionaries by Keys and Values.**</a></ol>
+```python
+    Input - {2: 56, 1: 2, 5: 12, 4: 24, 6: 18, 3: 323}
+    Output - Sorting by Keys: {1: 2, 2: 56, 3: 323, 4: 24, 5: 12, 6: 18}
+	     Sorting by Values: {1: 2, 5: 12, 6: 18, 4: 24, 2: 56, 3: 323}
+```
 
 _______________________________
 
