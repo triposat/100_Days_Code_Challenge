@@ -603,9 +603,25 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-21-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Anagram_Using_list_Dictionary.py">**Program to print Anagram together in Python using list and Dictionaries.**</a></ol>
+```python
+    Input - ['cat', 'dog', 'tac', 'god', 'act']
+    Output - cat tac act dog god
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Binary_Representation_of_Two_Numbers_is_Anagram_or_not.py">**Program to check if Binary Representations of two numbers are Anagram.**</a></ol>
+```python
+    Input - 8, 4
+    Output - True, because both have same number of 0's and 1's
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Handling_Missing_Keys_in_Dictionary.py">**Program for Handling missing keys in Python Dictionaries.**</a></ol>
+```python
+    Input - {'a': 1, 'b': 2}), key = d
+    Output - Key not found...
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Kth_Non_Repeating_Character.py">**Program for K’th Non-repeating Character in Python using OrderedDict.**</a></ol>
+```python
+    Input - CodeChallenge, K = 2
+    Output - d, because ['o', 'd', 'h', 'a', 'n', 'g'] ---> This is the list of Non-Repeating Characters in the Given String
+```
 
 _______________________________
 
