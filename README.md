@@ -628,18 +628,63 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-22-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Counting_the_Frequency.py">**Program for counting the frequencies of elements.**</a></ol>
+```python
+    Input - [1, 1, 1, 5, 5, 3, 1, 3, 3, 1, 4, 4, 4, 2, 2, 2, 2]
+    Output - 1 : 5, 5 : 2, 3 : 3, 4 : 3, 2 : 4
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Mirror_Characters_in_string.py">**Program to Convert any string to a string contains it's Mirror Characters.**</a></ol>
+```python
+    Input - codechallenge, K = 4
+    Output - codvxszoovmtv
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Remove_Duplicates_in_Dictionary.py">**Program to Remove all Duplicate words from a given sentence.**</a></ol>
+```python
+    Input - Coding is great and challenges is great
+    Output - Coding is great and challenges
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Size_of_Largest_Subset_in_Anagram.py">**Program to find the size of largest subset of anagram words.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-23-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day23/Dictionary_Intersection.py">**Program for Dictionary Intersection in Python.**</a></ol>
+```python
+    Input - s1 = ABHISHEKsinGH
+            s2 = gfhfBHkooIHnfndSHEKsiAnG
+    Output - Possible
+    
+    Input - s1 = Hello
+            s2 = dnaKfhelddf
+    Output - Not Possible
+    
+    Input - s1 = GeeksforGeeks
+            s2 = rteksfoGrdsskGeggehes
+    Output - Possible
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day23/Frequency_can_become_same.py">**Program to check if Frequency of characters in string can become same after removing atmost one character.**</a></ol>
+```python
+    Input - xxxyyzz
+    Output - True
+    
+    Input - xxxxyyzz
+    Output - False
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day23/Key_Associated_with_Values.py">**Program for Keys associated with Values in Dictionary.**</a></ol>
+```python
+    Input - {'Code': [1, 2, 3], "Challenge": [3, 4, 5], 'is': [1, 4], 'best': [4, 2]}
+    Output - {1: ['Code', 'is'], 2: ['Code', 'best'], 3: ['Code', 'Challenge'], 4: ['Challenge', 'is', 'best'], 5: ['Challenge']}
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day23/Possible_Words_Using_Given_Characters.py">**Program for Possible Words using Given Characters.**</a></ol>
+```python
+    Input - Test_list = ['go', 'bat', 'me', 'eat', 'goal', 'boy', 'run']
+    	    Test_chars = ['e', 'o', 'b', 'a', 'm', 'g', 'l']
+    Output - go, me, goal
+```
 
 _______________________________
 
