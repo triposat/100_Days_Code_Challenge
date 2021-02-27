@@ -420,18 +420,62 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-15-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/Execute_Code_in_String.py">**Program for Executing a String of Code.**</a></ol>
+```python
+    Input - Test_string = """ 
+				def factorial(num): 
+				    fact=1 
+				    for i in range(1,num+1): 
+					fact = fact*i 
+				    return fact 
+				print(factorial(5)) 
+			  """
+	    N = 5
+    Output - 120
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/Find_URL_from_String.py">**Program for checking URL in String.**</a></ol>
+```python
+    Input - "These are the links http://www.google.com  and http://stackoverflow.com/questions/839994/extracting-a-url-in-python"
+    Output - http://www.google.com
+	     http://stackoverflow.com/questions/839994/extracting-a-url-in-python
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/Rotate_a_String.py">**Program for String Slicing to Rotate a String.**</a></ol>
+```python
+    Input - Hey! There this is 100 Days of Code Challenge
+    Output - Left Rotation:  There this is 100 Days of Code ChallengeHey!
+	     Right Rotation: engeHey! There this is 100 Days of Code Chall
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/String_can_become_Empty_or_not.py">**Program for String Slicing to check if a string can become empty by Recursive relation.**</a></ol>
+```python
+    Input - a = CoCodede, b = Code
+    Output - True
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-16-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Check_String_for_Specific_Characters.py">**Program for Checking Strings for Specific Characters**</a></ol>
+```python
+    Input - Test_string = "@geeksfor#geeks123%^&*"
+	    Test_list = ['#', '%', '8', '@', ')']
+    Output - [True, True, False, True, False]
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Duplicate_Characters_in_String.py">**Program for Duplicates Characters in string.**</a></ol>
+```python
+    Input - hey this is Github Repo
+    Output - hey tis
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Last_name_Sorting.py">**Program to Sort a list of names using Last Names.**</a></ol>
+```python
+    Input - ['John Wick', 'Jason Voorhees', 'Freddy Krueger', 'Keyser Soze', 'Mohinder Singh Pandher']
+    Output - ['Freddy Krueger', 'Mohinder Singh Pandher', 'Keyser Soze', 'Jason Voorhees', 'John Wick']
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Letter_not_Common_in_Two_String.py">**Program to find letters which are not common in two strings.**</a></ol>
+```python
+    Input - 1st String: Hey this is Code Challenge
+	    2nd String: wait this is Github Repo
+    Output - C R p u d n G l g y H b w
+```
 
 _______________________________
 
