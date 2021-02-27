@@ -542,9 +542,34 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-19-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day19/Check_Order_of_Character.py">**Program to check Order of Characters in string.**</a></ol>
+```python
+    Input - Enter String: CodeChallenge
+	    Enter Pattern: Co
+    Output - True
+    
+    Input - Enter String: CodeChallenge
+	    Enter Pattern: oC
+    Output - False
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day19/Convert_Key_Values_to_Flatten_list.py">**Program to Convert Key-Values list to flat Dictionary.**</a></ol>
+```python
+    Input - Test_dict = {'Month': [1, 2, 3],
+             		 'Name': ['Jan', 'Feb', 'March']}
+    Output - Total Sum: {1: 'Jan', 2: 'Feb', 3: 'March'}
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day19/Merge_Two_Dictionaries.py">**Program for Merging Two Dictionaries.**</a></ol>
+```python
+    Input - Test_dict_1 = {'A': 10, 'B': 8}
+	    Test_dict_2 = {'D': 6, 'C': 4}
+    Output - {'A': 10, 'B': 8, 'D': 6, 'C': 4}
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day19/Sort_Dictionary_Using_lambda_function.py">**Program to Sort list of Dictionaries using `lambda function.`**</a></ol>
+```python
+    Input - Test_list = [{"Name": "Satyam", "Age": 20},
+             {"Name": "Aditya", "Age": 20},
+             {"Name": "Tushar", "Age": 19}]
+    Output - [{'Name': 'Tushar', 'Age': 19}, {'Name': 'Satyam', 'Age': 20}, {'Name': 'Aditya', 'Age': 20}]
+```
 
 _______________________________
 
