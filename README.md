@@ -691,45 +691,131 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-24-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Assigne_Keys_with_Maximum_Element_Index.py">**Program for Assigning keys with Maximum Element Index.**</a></ol>
+```python
+    Input - {"Challenges": [5, 3, 6, 3], "are": [1, 7, 5, 3], "Best": [9, 1, 3, 5]}
+    Output - {'Challenges': 2, 'are': 1, 'Best': 0}
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Index_Directory_of_Elements.py">**Program for Index Directory of Elements.**</a></ol>
+```python
+    Input - [7, 6, 3, 7, 8, 3, 6, 7, 8]
+    Output - {8: [4, 8], 3: [2, 5], 6: [1, 6], 7: [0, 3, 7]}
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Minimum_Value_key_Assignment.py">**Program for Minimum Value Key Assignment.**</a></ol>
+```python
+    Input - Test_dict_1 = {"Code": 1, "Challenge": 7, "is": 8, "Best": 10}
+	    Test_dict_2 = {"Code": 5, "Challenge": 5, "is": 7, "Best": 14}
+    Output - {'Code': 1, 'Challenge': 5, 'is': 7, 'Best': 10}
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Shuffling_of_Values.py">**Program for Shuffling Dictionary Values.**</a></ol>
+```python
+    Input - {"Code": 1, "Challenge": 7, "is": 8, "Best": 10}
+    Output - {'Code': 10, 'Challenge': 8, 'is': 1, 'Best': 7}
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-25-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Convert_Dictionary_to_list.py">**Program to display keys with same values in a dictionary List.**</a></ol>
+```python
+    Input - {'S': 2, 'a': 3, 'm': 1, 't': 4, 'y': 1, 'y': 4, 't': 3}
+    Output - ['S', 'S', 'a', 'a', 'a', 'm', 't', 't', 't', 'y', 'y', 'y', 'y']
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Filter_Dictionaries_by_Values.py">**Filter dictionaries by values in Kth Key in list.**</a></ol>
+```python
+    Input - Test_list = [{"Gfg": 3, "is": 5, "best": 10},
+            		 {"Gfg": 5, "is": 1, "best": 1},
+             		 {"Gfg": 8, "is": 3, "best": 9},
+             		 {"Gfg": 9, "is": 9, "best": 8},
+             		 {"Gfg": 4, "is": 10, "best": 7}]
+    Output - [{'Gfg': 5, 'is': 1, 'best': 1}, {'Gfg': 8, 'is': 3, 'best': 9}, {'Gfg': 9, 'is': 9, 'best': 8}]
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Remove_Duplicity_from_Dictionary.py">**Program to Remove Duplicity from a Dictionary.**</a></ol>
+```python
+    Input - {'All': ['All', 'Time', 'Favourite'], 'Favourite': ['All'], 'Code': ['Challenge']}
+    Output - {'All': ['All', 'Time', 'Favourite'], 'Code': ['Challenge']}
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Unique_Values_Count_of_each_key.py">**Program for Unique values count of each Key.**</a></ol>
+```python
+    Input - Test_dict = [{"Challenges": 1, "are": 3, "Best": 2}, {
+                          "Challenges": 1, "are": 3, "Best": 6}, {"Challenges": 7, "are": 3, "Best": 10}]
+    Output - {'Challenges': 2, 'are': 1, 'Best': 3}
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-26-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Convert_each_list_element_to_key_value_pair.py">**Program to convert each list element to Key-Value Pair.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Resize_Keys_in_Dictionary.py">**Program to Resize keys in Dictionary.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Rotate_Dictionary_by_K.py">**Program for Rotating Dictionary by K.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Value_Sum_is_greater_than_Keys_Sum.py">**Program to test if Values Sum is Greater than Keys Sum in Dictionary.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-27-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Extract_digit_from_tuple_list.py">**Program to Extract digits from Tuple list.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Join_Tuples_if_Similar_initial_elements.py">**Program to Join Tuples if similar initial element.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Maximum_Minimum_K_Elements.py">**Program for Maximum and Minimum K elements in Tuple.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Size_of_Tuple.py">**Program to Find the size of a Tuple.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 
 _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-28-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Occurrences_of_Characters.py">**Program for Occurrences of Characters in string.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Pair_Combinations_of_two_tuples.py">**Program for all pair combinations of 2 tuples.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Remove_Tuple_of_length_k.py">**Program to Remove Tuples of Length K.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Sort_list_by_second_items.py">**Program to Sort a list of tuples by second Item.**</a></ol>
+```python
+    Input - magenta magnate tan gnamate
+    Output - 3
+```
 
 _______________________________
 
