@@ -704,6 +704,7 @@ _______________________________
 ```python
     Input - Test_dict_1 = {"Code": 1, "Challenge": 7, "is": 8, "Best": 10}
 	    Test_dict_2 = {"Code": 5, "Challenge": 5, "is": 7, "Best": 14}
+	    
     Output - {'Code': 1, 'Challenge': 5, 'is': 7, 'Best': 10}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Shuffling_of_Values.py">**Program for Shuffling Dictionary Values.**</a></ol>
@@ -728,6 +729,7 @@ _______________________________
              		 {"Gfg": 8, "is": 3, "best": 9},
              		 {"Gfg": 9, "is": 9, "best": 8},
              		 {"Gfg": 4, "is": 10, "best": 7}]
+			 
     Output - [{'Gfg': 5, 'is': 1, 'best': 1}, {'Gfg': 8, 'is': 3, 'best': 9}, {'Gfg': 9, 'is': 9, 'best': 8}]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Remove_Duplicity_from_Dictionary.py">**Program to Remove Duplicity from a Dictionary.**</a></ol>
@@ -739,6 +741,7 @@ _______________________________
 ```python
     Input - Test_dict = [{"Challenges": 1, "are": 3, "Best": 2}, {
                           "Challenges": 1, "are": 3, "Best": 6}, {"Challenges": 7, "are": 3, "Best": 10}]
+			  
     Output - {'Challenges': 2, 'are': 1, 'Best': 3}
 ```
 
@@ -748,23 +751,23 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-26-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Convert_each_list_element_to_key_value_pair.py">**Program to convert each list element to Key-Value Pair.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - [2323, 82, 129388, 234, 95]
+    Output - {23: 23, 8: 2, 129: 388, 2: 34, 9: 5}
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Resize_Keys_in_Dictionary.py">**Program to Resize keys in Dictionary.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - {"geeksforgeeks": 3, "best": 3, "coding": 4, "practice": 3}, K = 2
+    Output - {'ge': 3, 'be': 3, 'co': 4, 'pr': 3}
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Rotate_Dictionary_by_K.py">**Program for Rotating Dictionary by K.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - {1: 6, 8: 1, 9: 3, 10: 8, 12: 6, 4: 9}, K = 2
+    Output - {12: 6, 4: 9, 1: 6, 8: 1, 9: 3, 10: 8}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Value_Sum_is_greater_than_Keys_Sum.py">**Program to test if Values Sum is Greater than Keys Sum in Dictionary.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - {5: 3, 1: 3, 10: 4, 7: 3, 8: 1, 9: 5}
+    Output - False, because Sum of all the Values is less than sum of all the Keys.
 ```
 
 _______________________________
@@ -773,23 +776,28 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-27-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Extract_digit_from_tuple_list.py">**Program to Extract digits from Tuple list.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - [(15, 3), (3, 9), (1, 10), (99, 2)]
+    Output - [5, 9, 2, 1, 3, 0]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Join_Tuples_if_Similar_initial_elements.py">**Program to Join Tuples if similar initial element.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - [(5, 6), (5, 7), (6, 8), (6, 10), (7, 13)]
+    Output - [(5, 6, 7), (6, 8, 10), (7, 13)]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Maximum_Minimum_K_Elements.py">**Program for Maximum and Minimum K elements in Tuple.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - (5, 20, 3, 7, 6, 8, 2, 87, 9, 14), K = 2
+    Output - (2, 3, 20, 87)
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Size_of_Tuple.py">**Program to Find the size of a Tuple.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - Tuple_1 = ("A", 1, "B", 2, "C", 3)
+	    Tuple_2 = ("Geek1", "Satyam", "hey you yeah you", "Tushar", "Geek3", "Aditya")
+	    Tuple_3 = ((1, "Lion"), (2, "Tiger"), (3, "Fox"), (4, "Wolf"))
+	    
+    Output - Size of Tuple_1: 44 bytes
+	     Size of Tuple_2: 44 bytes
+	     Size of Tuple_3: 36 bytes
 ```
 
 _______________________________
@@ -798,23 +806,23 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-28-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Occurrences_of_Characters.py">**Program for Occurrences of Characters in string.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - "ABBBBCCCCCCCCAB"
+    Output - 1A4B8C1A1B
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Pair_Combinations_of_two_tuples.py">**Program for all pair combinations of 2 tuples.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - (4, 5), (7, 8)
+    Output - [(4, 7), (4, 8), (5, 7), (5, 8), (7, 4), (7, 5), (8, 4), (8, 5)]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Remove_Tuple_of_length_k.py">**Program to Remove Tuples of Length K.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - [(4, 5), (4, ), (8, 6, 7), (1, ), (3, 4, 6, 7)], K = 3
+    Output - [(4, 5), (4,), (1,), (3, 4, 6, 7)]
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Sort_list_by_second_items.py">**Program to Sort a list of tuples by second Item.**</a></ol>
 ```python
-    Input - magenta magnate tan gnamate
-    Output - 3
+    Input - [('for', 24), ('is', 10), ('Geeks', 28), ('Geeksforgeeks', 5), ('portal', 20), ('a', 15)]
+    Output - [('Geeksforgeeks', 5), ('is', 10), ('a', 15), ('portal', 20), ('for', 24), ('Geeks', 28)]
 ```
 
 _______________________________
