@@ -1358,6 +1358,27 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-52-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day52/Number_is_a_power_of_2.py">**Program to check if a given positive integer is a power of 2.**</a></ol>
+```python
+    Input:  64   32   16   8    4    2
+    Output: 2^6  2^5  2^4  2^3  2^2  2^1
+    
+    Input:  63
+    Output: False
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day52/Number_is_power_of_3.py">**Program to check if a given positive integer is a power of 3.**</a></ol>
+```python
+    Input:  27   9     81 
+    Output: 3^3  3^2   3^4
+
+    Input: 21
+    Output: False 
+```  
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
