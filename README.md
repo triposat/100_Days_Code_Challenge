@@ -1386,7 +1386,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-53-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day53/Integer_is_power_of_another_Integer.py">**Parsing and Processing URL using Python - Regex.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day53/Integer_is_power_of_another_Integer.py">**Program to check if an integer is the power of another integer.**</a></ol>
 ```python
     Input: 16, 2
     Output: True
@@ -1397,7 +1397,7 @@ _______________________________
     Input: 81, 3
     Output: True
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day53/Perfect_Square.py">**Check if an URL is valid or not using Validator Module.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day53/Perfect_Square.py">**Program to check if a number is a perfect square.**</a></ol>
 ```python
     Input:  8
     Output: False
