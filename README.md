@@ -1416,7 +1416,7 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day54/Missing_Numbers_in_list.py">**Program to find missing numbers from a list.**</a></ol>
 ```python
     Input: [1,2,3,4,6,7,10]
-    Output: [5, 8, 9]                                                                                                      
+    Output: [5, 8, 9]                                          
     
     Input: [10,11,12,14,17]
     Output: [13, 15, 16]
