@@ -1385,6 +1385,33 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-53-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day53/Integer_is_power_of_another_Integer.py">**Parsing and Processing URL using Python - Regex.**</a></ol>
+```python
+    Input: 16, 2
+    Output: True
+    
+    Input: 12, 2
+    Output: False
+    
+    Input: 81, 3
+    Output: True
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day53/Perfect_Square.py">**Check if an URL is valid or not using Validator Module.**</a></ol>
+```python
+    Input:  8
+    Output: False
+    
+    Input:  9
+    Output: True
+    
+    Input:  100
+    Output: True
+```  
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
