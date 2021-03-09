@@ -1,8 +1,7 @@
-def missing_number(Test_list):
-    return sum(range(Test_list[0], Test_list[-1]+1)) - sum(Test_list)
+def missing_numbers(Test_list):
+    Result = [x for x in range(Test_list[0], Test_list[-1] + 1)]
+    return (list(set(Test_list) ^ set(Result)))
 
 
-Test_list_1 = [1, 2, 3, 5, 6, 7, 8]
-Test_list_2 = [10, 11, 12, 14, 15, 16, 17]
-print(missing_number(Test_list_1))
-print(missing_number(Test_list_2))
+print(missing_numbers([1, 2, 3, 4, 6, 7, 10]))
+print(missing_numbers([10, 11, 12, 14, 17]))
