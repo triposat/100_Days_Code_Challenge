@@ -1412,6 +1412,27 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-54-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day54/Missing_Numbers_in_list.py">**Program to find missing numbers from a list.**</a></ol>
+```python
+    Input: [1,2,3,4,6,7,10]
+    Output: [5, 8, 9]                                                                                                      
+    
+    Input: [10,11,12,14,17]
+    Output: [13, 15, 16]
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day54/Missing_Number_in_list.py">**Program to find a missing number from a list.**</a></ol>
+```python
+    Input: [1,2,3,4,6,7,8]
+    Output: 5
+    
+    Input:  [10,11,12,14,15,16,17]
+    Output: 13
+```  
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
