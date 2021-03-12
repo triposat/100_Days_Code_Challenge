@@ -1429,7 +1429,22 @@ _______________________________
     Input:  [10,11,12,14,15,16,17]
     Output: 13
 ```  
+_______________________________
 
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-55-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day55/Triplet_Sum_is_given_number.py">**Program to find missing numbers from a list.**</a></ol>
+```python
+    Input: [1, 0, -1, 0, -2, 2], N = 0
+    Output: [[-2, -1, 1, 2], [-2, 0, 0, 2], [-1, 0, 0, 1]]
+    Explanation: In the output list you can see that all the elements have the Sum = 0.
+                 (-2) + (-1) + (1) + (2) = 0
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day55/Triplets_Sum.py">**Program to find a missing number from a list.**</a></ol>
+```python
+    Input: [-1,0,1,2,-1,-4]
+    Output: [[-1, -1, 2], [-1, 0, 1]]
+```  
 _______________________________
 
 
