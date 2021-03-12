@@ -1445,6 +1445,25 @@ _______________________________
     Input: [-1,0,1,2,-1,-4]
     Output: [[-1, -1, 2], [-1, 0, 1]]
 ```  
+
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-56-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day56/Add_until_single_digit.py">**Program to add the digits of a positive integer repeatedly until the result has a single digit.**</a></ol>
+```python
+    Input: 48
+    Output: 3
+    For example given number is 48, the result will be 3.
+        Step 1: 4 + 8 = 12
+        Step 2: 1 + 2 = 3
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day56/Not_Occur_Twice.py">**Program to find the single number in a list that doesn't occur twice.**</a></ol>
+```python
+    Input: [5, 3, 4, 3, 4]
+    Output: 5
+```  
+
 _______________________________
 
 
