@@ -1437,6 +1437,7 @@ _______________________________
 ```python
     Input: [-1,0,1,2,-1,-4]
     Output: [[-1, -1, 2], [-1, 0, 1]]
+    Note: Find the Unique Triplets in the array.
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day55/Triplet_Sum_is_given_number.py">**Program to find three numbers from an array such that the sum of three numbers equal to a given number.**</a></ol>
 ```python
