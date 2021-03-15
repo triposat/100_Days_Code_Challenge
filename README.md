@@ -1510,10 +1510,12 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-57-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day57/Additive_Sequence.py">**Program to find whether it contains an additive sequence or not.**</a></ol>
-```python
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day57/Additive_Sequence.py">**Program to find whether it contains an additive sequence or not.**</a></ol>
+```
     ->] The additive sequence is a sequence of numbers where the sum of the first two numbers is equal to the third one.
-    
+```
+
+```python    
     Input: 66121830
     Output: True, because 6 + 6 =12, 6 + 12 = 18, 12 + 18 = 30
     
