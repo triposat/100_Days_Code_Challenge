@@ -1506,6 +1506,23 @@ _______________________________
 	      12 and 10 -> 12
 	      15 and 14 -> 15 
 	    
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-57-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day57/Additive_Sequence.py">**Program to find whether it contains an additive sequence or not.**</a></ol>
+```python
+    ->] The additive sequence is a sequence of numbers where the sum of the first two numbers is equal to the third one.
+    
+    Input: 66121830
+    Output: True, because 6 + 6 =12, 6 + 12 = 18, 12 + 18 = 30
+    
+    Input: 51123
+    Output: False
+    
+    Input: 5115516
+    Output: True, because 511 + 5 = 516
+```   
 
 _______________________________
 
