@@ -1561,13 +1561,13 @@ _______________________________
 ## <h2>**Some Conversions:** </h2>
 
 ## <h3 align="center">`Hexadecimal` ---> `Decimal`</h3>
-### <ol align="center">`3B`<sub>16</sub> = 3×16<sup>1</sup> + 11×16<sup>0</sup> = 48 + 11  = `59`<sub>10</sub> , here **B = 11**</ol>
+### <ol align="center">3B<sub>16</sub> = 3×16<sup>1</sup> + 11×16<sup>0</sup> = 48 + 11  = 5`<sub>10</sub> , here **B = 11**</ol>
 
-### <ol align="center">`E7A9`<sub>16</sub> = 14×16<sup>3</sup> + 7×16<sup>2</sup> + 10×16<sup>1</sup> + 9×16<sup>0</sup> = 57344 + 1792 + 160 + 9 = `59305`<sub>10</sub> , here **E = 14** & **A = 10**</ol>
+### <ol align="center">E7A9<sub>16</sub> = 14×16<sup>3</sup> + 7×16<sup>2</sup> + 10×16<sup>1</sup> + 9×16<sup>0</sup> = 57344 + 1792 + 160 + 9 = 59305<sub>10</sub> , here **E = 14** & **A = 10**</ol>
 
-### <ol align="center">`0.8`<sub>16</sub> = 0×16<sup>0</sup> + 8×16<sup>-1</sup> = 0 + 0.5  = `0.5`<sub>10</sub></ol>
+### <ol align="center">0.8<sub>16</sub> = 0×16<sup>0</sup> + 8×16<sup>-1</sup> = 0 + 0.5  = 0.5<sub>10</sub></ol>
 
-### <ol align="center">`1F.01B`<sub>16</sub> = 1×16<sup>1</sup> + 15×16<sup>0</sup> + 0×16<sup>-1</sup> + 1×16<sup>-2</sup> + 11×16<sup>-3</sup> = `31.0065918`<sub>10</sub></ol>
+### <ol align="center">1F.01B<sub>16</sub> = 1×16<sup>1</sup> + 15×16<sup>0</sup> + 0×16<sup>-1</sup> + 1×16<sup>-2</sup> + 11×16<sup>-3</sup> = 31.0065918<sub>10</sub></ol>
 
 ## <h3 align="center">`Decimal` ---> `Hexadecimal`</h3>
 ## <ol>Conversion Steps: </ol>
@@ -1577,7 +1577,7 @@ _______________________________
 	4. Repeat the steps until the quotient is equal to 0.
 	
 ## <ol>Example #1: </ol>
-### <ol>`59305`<sub>10</sub>: <ol/>
+### <ol>59305<sub>10</sub><ol/>
 	
 | Division by 16 | Quotient | Remainder | Hex |
 | --------------  | ------------- | ------------- | --- |
