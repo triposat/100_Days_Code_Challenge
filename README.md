@@ -1567,7 +1567,7 @@ _______________________________
 
 ### <ol align="center">`0.8`<sub>16</sub> = 0×16<sup>0</sup> + 8×16<sup>-1</sup> = 0 + 0.5  = `0.5`<sub>10</sub></ol>
 
-### <ol align="center">`1F.01B`<sub>16</sub> = 1×16<sup>1</sup> + 0×16<sup>-1</sup> + 1×16<sup>-2</sup> + 11×16<sup>-3</sup> + 15×16<sup>0</sup> = `31.0065918`<sub>10</sub></ol>
+### <ol align="center">`1F.01B`<sub>16</sub> = 1×16<sup>1</sup> + 15×16<sup>0</sup> + 0×16<sup>-1</sup> + 1×16<sup>-2</sup> + 11×16<sup>-3</sup> = `31.0065918`<sub>10</sub></ol>
 _______________________________
 
 
