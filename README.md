@@ -1512,7 +1512,8 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-57-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day57/Additive_Sequence.py">**Program to find whether it contains an Additive Sequence or not.**</a></ol>
 ```
-    ->] The Additive Sequence is a sequence of numbers where the sum of the first two numbers is equal to the third one.
+    ->] The Additive Sequence is a sequence of numbers where the sum of the first two numbers 
+        is equal to the third one.
 ```
 
 ```python    
@@ -1525,7 +1526,18 @@ _______________________________
     Input: 5115516
     Output: True, because 511 + 5 = 516
 ```   
+_______________________________
 
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-58-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day58/Reverse_bits_of_integers.py">**Program to reverse the bits of an integer(32 bits unsigned).**</a></ol>
+
+```python    
+    Input: 1234
+    Output: 1260388352
+    Explanation: 1234 represented in binary as 10011010010 and returns 1260388352 which 
+                 represents in binary as 1001011001000000000000000000000.
+```   
 _______________________________
 
 
