@@ -1558,13 +1558,12 @@ _______________________________
     Explanation: The sequence 5, 7, 9, 11, 13, 15 ... is an arithmetic progression
                  with common difference of 2.
 ```   
+## <ol>**Some Conversions:** </ol>
 
+## <ol>Hexadecimal to Decimal</ol>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+          13710 = 1×10^2 + 3×10^1 + 7×100 = 100 + 30 + 7  = 137
+	  
 _______________________________
 
 
