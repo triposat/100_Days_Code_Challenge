@@ -1552,7 +1552,11 @@ _______________________________
 ```python    
     Input: [5, 7, 9, 11]
     Output: True
-    Explanation: The sequence 5, 7, 9, 11, 13, 15 ... is an arithmetic progression with common difference of 2.
+   
+    Input: [5, 8, 9, 11]
+    Output: False
+    Explanation: The sequence 5, 7, 9, 11, 13, 15 ... is an arithmetic progression
+                 with common difference of 2.
 ```   
 _______________________________
 
