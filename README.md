@@ -1562,6 +1562,8 @@ _______________________________
 
 ## <h3 align="center">`Hexadecimal` ---> `Decimal`</h3>
 ### <ol align="center">3B<sub>16</sub> = 3×16<sup>1</sup> + 11×16<sup>0</sup> = 48 + 11  = 59<sub>10</sub></ol>	  
+## <h2>Note - Here **B = 11** </h2>
+
 _______________________________
 
 
