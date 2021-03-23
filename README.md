@@ -1558,10 +1558,10 @@ _______________________________
     Explanation: The sequence 5, 7, 9, 11, 13, 15 ... is an arithmetic progression
                  with common difference of 2.
 ```   
-## <ol>**Some Conversions:** </ol>
+## <h2>**Some Conversions:** </h2>
 
-## <ol>Hexadecimal to Decimal - </ol>
-### <h3 align="center">3B<sub>16</sub> = 3×16<sup>1</sup> + 11×16<sup>0</sup> = 48 + 11  = 59<sub>10</sub></h3>	  
+## <h3 align="center">`Hexadecimal` ---> `Decimal`</h3>
+### <ol align="center">3B<sub>16</sub> = 3×16<sup>1</sup> + 11×16<sup>0</sup> = 48 + 11  = 59<sub>10</sub></ol>	  
 _______________________________
 
 
