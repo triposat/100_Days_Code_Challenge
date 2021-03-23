@@ -1561,9 +1561,7 @@ _______________________________
 ## <ol>**Some Conversions:** </ol>
 
 ## <ol>Hexadecimal to Decimal - </ol>
-
-  3B<sub>16</sub> = 3×16<sup>1</sup>2 + 11×16<sup>0</sup>1 = 48 + 11  = 59<sub>10</sub>
-	  
+### <h3 align="center">3B<sub>16</sub> = 3×16<sup>1</sup> + 11×16<sup>0</sup> = 48 + 11  = 59<sub>10</sub></h3>	  
 _______________________________
 
 
