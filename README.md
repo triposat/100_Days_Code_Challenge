@@ -1562,9 +1562,9 @@ _______________________________
 
 ## <h3 align="center">`Hexadecimal` ---> `Decimal`</h3>
 ### <ol align="center">3B<sub>16</sub> = 3×16<sup>1</sup> + 11×16<sup>0</sup> = 48 + 11  = 59<sub>10</sub></ol>	  
-## <h3>Note: Here **B = 11** </h3>
+## <h3 align="center">Note: Here **B = 11** </h3>
 
-### <ol align="center">E7A9<sub>16</sub> = 14×16<sup>3</sup> + 7×16<sup>2</sup> + 10×16<sup>1</sup> + 9×16<sup>0</sup> = 57344 + 1792 + 160 + 9 = 59305<sub>10</sub></ol>	  ## <h3>Note: Here **E = 14** and **A = 10**</h3>
+### <ol align="center">E7A9<sub>16</sub> = 14×16<sup>3</sup> + 7×16<sup>2</sup> + 10×16<sup>1</sup> + 9×16<sup>0</sup> = 57344 + 1792 + 160 + 9 = 59305<sub>10</sub></ol>	  ## <h3 align="center">Note: Here **E = 14** and **A = 10**</h3>
 
 _______________________________
 
