@@ -1558,12 +1558,11 @@ _______________________________
     Explanation: The sequence 5, 7, 9, 11, 13, 15 ... is an arithmetic progression
                  with common difference of 2.
 ```   
-```
-	| First Header  | Second Header |
-	| ------------- | ------------- |
-	| Content Cell  | Content Cell  |
-	| Content Cell  | Content Cell  |
-```
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 _______________________________
 
