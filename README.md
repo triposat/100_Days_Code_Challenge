@@ -1577,15 +1577,16 @@ _______________________________
 	4. Repeat the steps until the quotient is equal to 0.
 	
 ## <ol>Example #1: </ol>
-### <ol>`59305`<sub>10</sub><ol/>
+### <ol>`59305`<sub>10</sub>: <ol/>
 	
-| Division by 16  | Quotient      | Remainder     | Hex |
+| Division by 16 | Quotient | Remainder | Hex |
 | --------------  | ------------- | ------------- | --- |
 | 7562 / 16 | 472 | 10 | A |
 | 472 / 16  | 29  | 8  | B |
 | 29 / 16   | 1   | 13 | D |
 | 1 / 16    | 0   | 1  | 1 |
 
+### <ol>So, 756210<sub>16</sub> = 1D8A16<sub>10</sub><ol/>
 _______________________________
 
 
