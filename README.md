@@ -1560,12 +1560,11 @@ _______________________________
 ```   
 
 
-<p align="center">
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-</p>
+
 _______________________________
 
 
