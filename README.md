@@ -1560,9 +1560,9 @@ _______________________________
 ```   
 ## <ol>**Some Conversions:** </ol>
 
-## <ol>Hexadecimal to Decimal</ol>
+## <ol>Hexadecimal to Decimal - </ol>
 
-  137<sup>10</sup> = 1×10^2 + 3×10^1 + 7×10^0 = 100 + 30 + 7  = 137
+  3B<sub>16</sub> = 3×16<sup>1</sup>2 + 11×16<sup>0</sup>1 = 48 + 11  = 59<sub>10</sub>
 	  
 _______________________________
 
