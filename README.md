@@ -1538,6 +1538,22 @@ _______________________________
     Explanation: 1234 represented in binary as 10011010010 and returns 1260388352 which 
                  represents in binary as 1001011001000000000000000000000.
 ```   
+
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-59-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day59/Arithmetic_Progression_or_not.py">**Program to check a sequence of numbers is an arithmetic progression or not.**</a></ol>
+```
+   ->] Arithmetic Progression or arithmetic sequence is a sequence of numbers such that the difference 
+       between the consecutive terms is constant.
+```
+
+```python    
+    Input: [5, 7, 9, 11]
+    Output: True
+    Explanation: The sequence 5, 7, 9, 11, 13, 15 ... is an arithmetic progression with common difference of 2.
+```   
 _______________________________
 
 
