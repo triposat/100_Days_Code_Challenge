@@ -1603,6 +1603,28 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-60-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day60/Geometric_Progression.py">**Program to check a sequence of numbers is a geometric progression or not.**</a></ol>
+```
+   ->] Geometric Progression or geometric sequence is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed, non-zero number        called the common ratio.
+```
+
+```python    
+    Input: [2, 6, 18, 54]
+    Output: True
+   
+    Input: [10, 5, 2.5, 1.25]
+    Output: False
+    
+    Input: [5, 8, 9, 11]
+    Output: False
+    Explanation: The sequence 2, 6, 18, 54, ... is a geometric progression with common ratio 3. Similarly, 
+                 10, 5, 2.5, 1.25, ... is a geometric sequence with common ratio 1/2.
+```   
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
