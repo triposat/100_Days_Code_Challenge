@@ -1559,11 +1559,13 @@ _______________________________
                  with common difference of 2.
 ```   
 
+
+<p align="center">
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
+</p>
 _______________________________
 
 
