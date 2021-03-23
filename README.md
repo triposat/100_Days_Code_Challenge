@@ -1530,7 +1530,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-58-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day58/Reverse_bits_of_integers.py">**Program to reverse the bits of an integer(32 bits unsigned).**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day58/Reverse_bits_of_integers.py">**Program to reverse the bits of an integer (32 bits unsigned).**</a></ol>
 
 ```python    
     Input: 1234
