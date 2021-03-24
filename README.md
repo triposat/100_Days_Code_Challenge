@@ -1674,6 +1674,38 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-63-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Anagram_or_not.py">**Program to check if a given string is an anagram of another given string.**</a></ol>
+```python
+    Input: cautioned, education
+    Output: True
+    
+    Input: cat, rat
+    Output: False
+    
+    Note: Hamming numbers are numbers of the form H = 2i x 3j x 5k, Where i, j, k ≥ 0.
+	  The sequence of Hamming numbers 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 25, 27. . . 
+	  consists of all numbers of the form 2i.3j.5k where i, j and k are non-negative integers.
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Push_all_zeros_to_end.py">**Program to push all zeros to the end of a list.**</a></ol>
+```python
+    Input: 24
+    Output: 2 3 4 5 6 8 9 10 12 15 16 18 20 24
+```  
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Ugly_Number.py">**Program to check whether a given number is an ugly number.**</a></ol>
+```python
+    Input: 12
+    Output: True
+    
+    Input: 13
+    Output: False
+    Info: Ugly numbers are positive numbers whose only prime factors are 2, 3 or 5. The sequence 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, ...
+  	  shows the first 10 ugly numbers.
+	  Note: 1 is typically treated as an ugly number.
+```  
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
