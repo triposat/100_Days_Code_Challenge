@@ -1626,6 +1626,34 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-61-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day61/Reverse_Sum.py">**Program to compute the sum of the two reversed numbers and display the sum in reversed form.**</a></ol>
+```python
+    Input: 13, 14
+    Output: 27
+    
+    Input: 130, 1
+    Output: 23
+    
+    Input: 305, 794
+    Output: 1
+    Note : The result will not be unique for every number for example 31 is a reversed form of several numbers of 13, 130, 1300 etc. 
+           Therefore all the leading zeros will be omitted. Means 031 -> 31, 0001 -> 1
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day61/Collatz_Sequence.py">**Program where you take any positive integer n, if n is even, divide it by 2 to get n / 2. If n is odd, multiply it by 3 and add 1 to obtain 3n + 1. Repeat the process until you reach 1.**</a></ol>
+```python
+    Input: 12
+    Output: [12, 6.0, 3.0, 10.0, 5.0, 16.0, 8.0, 4.0, 2.0, 1.0]
+    Info: The Collatz conjecture is a conjecture in mathematics. The conjecture is also known as the 3n + 1 conjecture.
+	  The conjecture can be summarized as follows. Take any positive integer n. If n is even, divide it by 2 to get n / 2.
+	  If n is odd, multiply it by 3 and add 1 to obtain 3n + 1.
+	  Repeat the process (which has been called "Half Or Triple Plus One") indefinitely. 
+	  The conjecture is that no matter what number you start with, you will always eventually reach 1.
+```  
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
