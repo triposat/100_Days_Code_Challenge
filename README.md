@@ -1654,7 +1654,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-62-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day62/Hamming_Number.py">**Program o get the Hamming numbers upto a given numbers also check whether a given number is an Hamming number.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day62/Hamming_Number.py">**Program to get the Hamming numbers upto a given numbers also check whether a given number is an Hamming number.**</a></ol>
 ```python
     Input: 6
     Output: True
@@ -1662,11 +1662,11 @@ _______________________________
     Input: 7
     Output: False
     
-    Note: Hamming numbers are numbers of the form H = 2i x 3j x 5k, Where i, j, k ≥ 0
+    Note: Hamming numbers are numbers of the form H = 2i x 3j x 5k, Where i, j, k ≥ 0.
 	  The sequence of Hamming numbers 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 25, 27. . . 
 	  consists of all numbers of the form 2i.3j.5k where i, j and k are non-negative integers.
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day62/Hamming_Sequence.py">**Program where you take any positive integer n, if n is even, divide it by 2 to get n / 2. If n is odd, multiply it by 3 and add 1 to obtain 3n + 1. Repeat the process until you reach 1.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day62/Hamming_Sequence.py">**Program to get the Hamming Sequence upto a given numbers.**</a></ol>
 ```python
     Input: 24
     Output: 2 3 4 5 6 8 9 10 12 15 16 18 20 24
