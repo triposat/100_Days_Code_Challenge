@@ -1687,10 +1687,13 @@ _______________________________
 	  The sequence of Hamming numbers 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 25, 27. . . 
 	  consists of all numbers of the form 2i.3j.5k where i, j and k are non-negative integers.
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Push_all_zeros_to_end.py">**Program to push all zeros to the end of a list.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Push_fisrt_number_to_end.py">**Program to the push the first number to the end of a list.**</a></ol>
 ```python
-    Input: 24
-    Output: 2 3 4 5 6 8 9 10 12 15 16 18 20 24
+    Input: [0, 2, 3, 4, 6, 7, 10]
+    Output: [2, 3, 4, 6, 7, 10, 0]
+    
+    Input: [10, 0, 11, 12, 10, 14, 0, 17]
+    Output: [0, 11, 12, 14, 0, 17, 10, 10]
 ```  
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Ugly_Number.py">**Program to check whether a given number is an ugly number.**</a></ol>
 ```python
