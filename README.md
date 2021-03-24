@@ -1675,17 +1675,13 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-63-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Anagram_or_not.py">**Program to check if a given string is an anagram of another given string.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Anagram_or_not.py">**Program to check if a given string is an Anagram of another given string.**</a></ol>
 ```python
     Input: cautioned, education
     Output: True
     
     Input: cat, rat
     Output: False
-    
-    Note: Hamming numbers are numbers of the form H = 2i x 3j x 5k, Where i, j, k ≥ 0.
-	  The sequence of Hamming numbers 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 25, 27. . . 
-	  consists of all numbers of the form 2i.3j.5k where i, j and k are non-negative integers.
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Push_fisrt_number_to_end.py">**Program to the push the first number to the end of a list.**</a></ol>
 ```python
@@ -1695,7 +1691,7 @@ _______________________________
     Input: [10, 0, 11, 12, 10, 14, 0, 17]
     Output: [0, 11, 12, 14, 0, 17, 10, 10]
 ```  
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Ugly_Number.py">**Program to check whether a given number is an ugly number.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Ugly_Number.py">**Program to check whether a given number is an Ugly number.**</a></ol>
 ```python
     Input: 12
     Output: True
