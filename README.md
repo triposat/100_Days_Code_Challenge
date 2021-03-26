@@ -1683,7 +1683,7 @@ _______________________________
     Input: cat, rat
     Output: False
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Push_fisrt_number_to_end.py">**Program to the push the first number to the end of a list.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day63/Push_fisrt_number_to_end.py">**Program to the push the occurrences of the first number to the end of a list.**</a></ol>
 ```python
     Input: [0, 2, 3, 4, 6, 7, 10]
     Output: [2, 3, 4, 6, 7, 10, 0]
