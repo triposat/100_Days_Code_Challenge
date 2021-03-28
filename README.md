@@ -1707,9 +1707,9 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-64-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day64/Odd_Occurrences_of_elements.py">**Program to find the single number which occurs odd numbers and other numbers occur even number.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day64/Odd_Occurrences_of_elements.py">**Program to find the single number which occurs odd times.**</a></ol>
 ```python
-    Input: [ 4, 5, 4, 5, 2, 2, 3, 3, 2, 4, 4 ]
+    Input: [4, 5, 4, 5, 2, 2, 3, 3, 2, 4, 4]
     Output: 2, here 2 occurs 3 times i.e odd times.
 ```   
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day64/Sum_of_Even_Valued_Terms_Fibonacci_Series.py">**Program to compute the sum of the even-valued terms in the Fibonacci sequence whose values do not exceed the given limit.**</a></ol>
