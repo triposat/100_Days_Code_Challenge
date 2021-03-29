@@ -1726,6 +1726,29 @@ _______________________________
 _______________________________
 
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-65-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day65/Largest_Palindrome.py">**Program to find the largest palindrome made from the product of two n-digit numbers**</a></ol>
+```python
+    Input: 4
+    Output: 99000099
+    
+    Input: 3
+    Output: 906609
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day65/Largest_Prime_Factor.py">**Program  to find the largest prime factor of a given number.**</a></ol>
+```python
+    Input: 330
+    Output: 11
+    Explanation: The prime factors of 330 are 2, 3, 5 and 11. Therefore 11 is the largest prime factor of 330.
+    
+    Input: limit = 200
+    Output: 5
+```  
+
+
+_______________________________
+
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
