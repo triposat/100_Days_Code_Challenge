@@ -1739,7 +1739,7 @@ _______________________________
 ```python
     Input: 330
     Output: 11
-    Explanation: The prime factors of 330 are 2, 3, 5 and 11. Therefore 11 is the largest prime factor of 330.
+    Explanation: The Prime Factors of 330 are 2, 3, 5 and 11. Therefore 11 is the largest prime factor of 330.
     
     Input: limit = 200
     Output: 5
