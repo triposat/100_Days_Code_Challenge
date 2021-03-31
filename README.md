@@ -1735,7 +1735,7 @@ _______________________________
     Input: 3
     Output: 906609
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day65/Largest_Prime_Factor.py">**Program  to find the largest prime factor of a given number.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day65/Largest_Prime_Factor.py">**Program to find the largest prime factor of a given number.**</a></ol>
 ```python
     Input: 330
     Output: 11
@@ -1758,6 +1758,31 @@ _______________________________
     Input: 20
     Output: 232792560
 ```   
+
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-67-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day67/Sum_of_Square.py">**Program to find the difference between the sum of the squares of the first two hundred natural numbers and the square of the sum.**</a></ol>
+```python
+    Input: 200
+    Output: 401323300
+    Explanation: 
+		The sum of the squares of the first twenty natural numbers is,
+		12+22+32+.....+202 = 2870
+		The square of the sum of the first twenty natural numbers is,
+		(1 + 2 + ... + 10)2 = 44100
+		Hence the difference between the sum of the squares of the first twenty natural numbers and the square of the sum is 44100 – 2870 = 41230
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day67/nth_Prime_number.py">**Program to find the nth prime number.**</a></ol>
+```python
+    Input: 6
+    Output: 13
+    Explanation: 13 is the 6th Prime Number.
+    
+    Input: 600
+    Output: 4409
+```  
 
 _______________________________
 
