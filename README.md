@@ -1745,6 +1745,19 @@ _______________________________
     Output: 5
 ```  
 
+_______________________________
+
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-66-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day66/Small_Positive_Number_Divisble.py">**Program to find the smallest positive number that is evenly divisible by all of the numbers from 1 to n.**</a></ol>
+```python
+    Input: 10
+    Output: 2520
+    Explanation: 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+    
+    Input: 20
+    Output: 232792560
+```   
 
 _______________________________
 
