@@ -1768,8 +1768,8 @@ _______________________________
     Input: 200
     Output: 401323300
     Explanation: 
-		The sum of the squares of the first twenty natural numbers is, 12+22+32+.....+202 = 2870
-		The square of the sum of the first twenty natural numbers is, (1 + 2 + ... + 10)2 = 44100
+		The sum of the squares of the first twenty natural numbers is, 12+22+32+.....+202 = 404010000
+		The square of the sum of the first twenty natural numbers is, (1 + 2 + ... + 10)2 = 2686700
 		Hence,  the difference between the sum of the squares of the first twenty natural numbers 
 		        and the square of the sum is 404010000 – 2686700 = 401323300
 ```   
