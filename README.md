@@ -61,6 +61,9 @@ _______________________________
     Input - [ 5, 6, 7, 8, 1, 11, 15, 16], N = 4
     Output - [1, 11, 15, 16, 5, 6, 7, 8]
 ```
+
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
+
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Max_and_Min_in_List.py">**Program for MAXIMUM and MINIMUM Elements in a list.**</a></ol>
 ```python
     Input - [5, 7, 9, 4, 6, 23, 11, 12]
@@ -152,8 +155,6 @@ _______________________________
     Input - [10, 45, 20, 62, 47, 85, 12, 63, 24, 78, 10], N = 2
     Output - [[45, 20], [62, 47], [85, 12], [63, 24], [78, 10]]
 ```
-
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Cumulative_Sum_of_List.py">**Program for Cumulative Sum of list.**</a><ol>
 	
