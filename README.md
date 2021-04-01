@@ -1586,6 +1586,8 @@ _______________________________
 ## <ol>Example #1: </ol>
 ### <ol>7562<sub>10</sub><ol/>
 	
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>	
+	
 | Division by 16 | Quotient | Remainder | Hex |
 | --------------  | ------------- | ------------- | --- |
 | 7562 / 16 | 472 | 10 | A |
@@ -1594,8 +1596,6 @@ _______________________________
 | 1 / 16    | 0   | 1  | 1 |
 
 ### <ol>So, 7562<sub>10</sub> = 1D8A<sub>16</sub><ol/>
-
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
 
 ## <ol>Example #2: </ol>
 ### <ol>35631<sub>10</sub><ol/>
