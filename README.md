@@ -22,8 +22,6 @@ _______________________________
     Output - 5! = 120
 ```
 
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
-
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/HCF_Of_Number.py">**Program to find HCF of numbers.**</a></ol>
 ```python
     Input - Enter 1st Number: 5
@@ -160,6 +158,9 @@ _______________________________
     Input - [10, 20, 30, 40, 50, 60]
     Output - [10, 30, 60, 100, 150, 210]
 ```
+
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
+
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Duplicates_in_List.py">**Program to print Duplicates in list.**</a></ol>
 ```python
     Input - [4, 5, 1, 2, 6, 5, 2]
