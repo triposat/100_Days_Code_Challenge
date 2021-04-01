@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/{100_Days_Code_Challenge}/count.svg" alt=Iamtripathisatyam />
 </p>
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
 
 _______________________________
 
