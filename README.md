@@ -95,6 +95,9 @@ _______________________________
     Input - [7, 4, 5, 6, 7, 8, 9, 1]
     Output - [1, 9, 8, 7, 6, 5, 4, 7]
 ```
+
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
+
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Searching_Element_in_List.py">**Program for SEARCHING elements in a list.**</a></ol>
 ```python
     Input - [7, 6, 5, 3, 2, 6, 5, 10], N = 6
@@ -111,8 +114,6 @@ _______________________________
     Output - [4, 5, 2, 6, 3, 7, 9, 10]
 ```
 
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
-
 _______________________________
 
 
@@ -125,7 +126,7 @@ _______________________________
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day4/N_Largest_Elements_in_List.py">**Program for N Largest elements in a list.**</a></ol>
 ```python
     Input - [4, 5, 7, 8, 9, 6, 10, 15]
-    Output - [[15, 10, 9, 8]
+    Output - [15, 10, 9, 8]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day4/Occurence_of_Elements.py">**Program for Occurrences of elements.**</a></ol>
 ```python
