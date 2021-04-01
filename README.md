@@ -1773,7 +1773,7 @@ _______________________________
 		Hence,  the difference between the sum of the squares of the first twenty natural numbers 
 		        and the square of the sum is 404010000 – 2686700 = 401323300
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day67/nth_Prime_number.py">**Program to find the nth prime number.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day67/nth_Prime_number.py">**Program to find the n<sup>th</sup> prime number.**</a></ol>
 ```python
     Input: 6
     Output: 13
