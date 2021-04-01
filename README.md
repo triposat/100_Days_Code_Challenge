@@ -90,13 +90,14 @@ _______________________________
     Input - [1, 2, 3, 4, 5, 6, 7, 8]
     Output - Yup, It's an Monotonic List
 ```
+
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
+
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Reversing_a_list.py">**Program for REVERSING a list.**</a></ol>
 ```python
     Input - [7, 4, 5, 6, 7, 8, 9, 1]
     Output - [1, 9, 8, 7, 6, 5, 4, 7]
 ```
-
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
 
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Searching_Element_in_List.py">**Program for SEARCHING elements in a list.**</a></ol>
 ```python
