@@ -4,9 +4,6 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
-
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/{100_Days_Code_Challenge}/count.svg" alt=Iamtripathisatyam />
 </p>
@@ -113,6 +110,9 @@ _______________________________
     Input - [10, 5, 2, 6, 3, 7, 9, 4]
     Output - [4, 5, 2, 6, 3, 7, 9, 10]
 ```
+
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
+
 _______________________________
 
 
