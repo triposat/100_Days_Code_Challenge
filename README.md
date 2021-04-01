@@ -1124,7 +1124,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-43-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Count_Uppercase_Lowercase.py">**Python program to Count Uppercase, Lowercase, special character and numeric values using Regex.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Count_Uppercase_Lowercase.py">**Python program to Count Uppercase, Lowercase, special character and numeric values using RegEx.**</a></ol>
 ```python
     Input: "ThisIsGeeksforGeeks!, 123" 
 
@@ -1133,7 +1133,7 @@ _______________________________
 	    No. of numerical characters = 3
 	    No. of special characters = 2
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Defined_Characters_Using_Regex.py">**Python Program to Check if String Contain Only Defined Characters using Regex.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day43/Defined_Characters_Using_Regex.py">**Python Program to Check if String Contain Only Defined Characters using RegEx.**</a></ol>
 ```python
     Input: ‘657’ let us say regular expression contain following characters - (‘78653’)
     Output: Valid
@@ -1147,7 +1147,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-44-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day44/Extract_Maximum_Using_Regex.py">**Python Regex to extract maximum numeric value from a string.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day44/Extract_Maximum_Using_Regex.py">**Python RegEx to extract maximum numeric value from a string.**</a></ol>
 ```python
     Input: 100klh564abc365bg
     Output: 564
@@ -1156,7 +1156,7 @@ _______________________________
     Input: abchsd0sdhs
     Output: 0
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day44/Most_Occurring_number_Using_Regex.py">**Python Program to find the most occurring number in a string using Regex.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day44/Most_Occurring_number_Using_Regex.py">**Python Program to find the most occurring number in a string using RegEx.**</a></ol>
 ```python
     Input: geek55of55geeks4abc3dr2 
     Output: 55
@@ -1169,7 +1169,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-45-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day45/Put_Spaces_bw_Words.py">**Python Program to put spaces between words starting with capital letters using Regex.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day45/Put_Spaces_bw_Words.py">**Python Program to put spaces between words starting with capital letters using RegEx.**</a></ol>
 ```python
     Input: BruceWayneIsBatman
     Output: bruce wayne is batman
@@ -1201,7 +1201,7 @@ _______________________________
     Input: str = “Hello hello world world” 
     Output: Hello world 
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day46/Upper_Case_followed_by_Lower_Case.py">**Python regex to find sequences of one upper case letter followed by lower case letters.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day46/Upper_Case_followed_by_Lower_Case.py">**Python RegEx to find sequences of one upper case letter followed by lower case letters.**</a></ol>
 ```python
     Input: Geeks
     Output: Yes
@@ -1214,7 +1214,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-47-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day47/Remove_all_except_numbers_and_letters.py">**Python Regex to Remove all characters except letters and numbers.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day47/Remove_all_except_numbers_and_letters.py">**Python RegEx to Remove all characters except letters and numbers.**</a></ol>
 ```python
     Input:  123abcjw:, .@! eiw
     Output: 123abcjweiw
@@ -1232,7 +1232,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-48-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day48/String_Starting_with_Vowel.py">**Python Regex to accept string starting with vowel.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day48/String_Starting_with_Vowel.py">**Python RegEx to accept string starting with vowel.**</a></ol>
 ```python
     Input: animal
     Output: Accepted
@@ -1240,7 +1240,7 @@ _______________________________
     Input: zebra
     Output: Not Accepted
 ```   
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day48/String_start_with_substring.py">**Program to check if a string starts with a substring using regex.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day48/String_start_with_substring.py">**Program to check if a string starts with a substring using RegEx.**</a></ol>
 ```python
     Input: 
         String: "geeks for geeks makes learning fun" 
@@ -1257,7 +1257,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-49-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day49/Parsing_and_Processing_URL.py">**Parsing and Processing URL using Python - Regex.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day49/Parsing_and_Processing_URL.py">**Parsing and Processing URL using Python-RegEx.**</a></ol>
 ```python
     Input: https://www.geeksforgeeks.org/courses
     Output: 
@@ -1323,7 +1323,7 @@ _______________________________
     Explanation: Must consist from _ or @ or $
 ```
 
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day51/Weak_or_Strong_Pass.py">**Categorize Password as Strong or Weak using Regex.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day51/Weak_or_Strong_Pass.py">**Categorize Password as Strong or Weak using RegEx.**</a></ol>
 
 ```python
 
