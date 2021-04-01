@@ -55,15 +55,13 @@ _______________________________
     Input - Enter a Number: 153
     Output - It's an Armstrong Number
 ```
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Array_Rotation.py">**Program for ARRAY ROTATION.**</a></ol>
 ```python
     Input - [ 5, 6, 7, 8, 1, 11, 15, 16], N = 4
     Output - [1, 11, 15, 16, 5, 6, 7, 8]
 ```
-
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
-
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Max_and_Min_in_List.py">**Program for MAXIMUM and MINIMUM Elements in a list.**</a></ol>
 ```python
     Input - [5, 7, 9, 4, 6, 23, 11, 12]
