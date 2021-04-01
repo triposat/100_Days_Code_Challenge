@@ -21,6 +21,9 @@ _______________________________
     Input - Enter a Number: 5
     Output - 5! = 120
 ```
+
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
+
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/HCF_Of_Number.py">**Program to find HCF of numbers.**</a></ol>
 ```python
     Input - Enter 1st Number: 5
@@ -90,8 +93,6 @@ _______________________________
     Input - [1, 2, 3, 4, 5, 6, 7, 8]
     Output - Yup, It's an Monotonic List
 ```
-
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Reversing_a_list.py">**Program for REVERSING a list.**</a></ol>
 ```python
