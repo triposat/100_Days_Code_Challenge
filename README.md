@@ -55,7 +55,6 @@ _______________________________
     Input - Enter a Number: 153
     Output - It's an Armstrong Number
 ```
-<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Array_Rotation.py">**Program for ARRAY ROTATION.**</a></ol>
 ```python
@@ -1595,7 +1594,9 @@ _______________________________
 | 1 / 16    | 0   | 1  | 1 |
 
 ### <ol>So, 7562<sub>10</sub> = 1D8A<sub>16</sub><ol/>
-	
+
+<img align="right" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/rock.gif" width="200"/>
+
 ## <ol>Example #2: </ol>
 ### <ol>35631<sub>10</sub><ol/>
 	
