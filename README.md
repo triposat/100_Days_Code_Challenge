@@ -1797,6 +1797,21 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-68-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day68/Amicable_Pairs.py">**Program find the first triangle number to have over n divisors.**</a></ol>
 ```python
+    Input: 500
+    Output: 504
+    Explanation: The smallest pair of amicable numbers is (220, 284). They are amicable 
+    		 because the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, of which the 
+		 sum is 284; and the proper divisors of 284 are 1, 2, 4, 71 and 142, of which the sum is 220.
+    
+    Input: 10000
+    Output: 31626
+
+```   
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-69-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day69/Triangular_Number.py">**Program to compute the sum of all the Amicable Numbers under a given number.**</a></ol>
+```python
     Input: 15
     Output: 28
     Explanation: A triangular number is a number that is the sum of all of the natural numbers up to a certain number.
@@ -1815,20 +1830,6 @@ _______________________________
     
     Input: 100
     Output: 73920
-```   
-_______________________________
-
-### <h1 align="center"><img src="https://img.shields.io/badge/DAY-69-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day69/Triangular_Number.py">**Program to compute the sum of all the Amicable Numbers under a given number.**</a></ol>
-```python
-    Input: 500
-    Output: 504
-    Explanation: The smallest pair of amicable numbers is (220, 284). They are amicable 
-    		 because the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, of which the 
-		 sum is 284; and the proper divisors of 284 are 1, 2, 4, 71 and 142, of which the sum is 220.
-    
-    Input: 10000
-    Output: 31626
 ```   
 
 _______________________________
