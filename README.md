@@ -1794,6 +1794,31 @@ _______________________________
 
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-68-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day68/Amicable_Pairs.py">**Program find the first triangle number to have over n divisors.**</a></ol>
+```python
+    Input: 15
+    Output: 28
+    Explanation: A triangular number is a number that is the sum of all of the natural numbers up to a certain number.
+    		 For example, 10 is a triangular number because 1 + 2 + 3 + 4 = 10. The first 25 triangular 
+		 numbers are: 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 78, 91, 105, 120, 136, 153, 171, 190, 210, 231, 253, 276, 300, 325, and 351.
+
+		A triangular number is calculated by the equation: n(n+1)/2
+		
+		The factors of the first five triangle numbers:
+		1: 1
+		3: 1, 3
+		6: 1, 2, 3, 6
+		10: 1, 2, 5, 10
+		15: 1, 3, 5, 15
+		In the above list 6 is the first triangle number to have over four divisors.
+    
+    Input: 100
+    Output: 73920
+```   
+
+_______________________________
+
 
 <br/>
 <p align="center">
