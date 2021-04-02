@@ -1795,7 +1795,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-68-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day68/Amicable_Pairs.py">**Program find the first triangle number to have over n divisors.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day68/Amicable_Pairs.py">**Program to compute the sum of all the Amicable Numbers under a given number.**</a></ol>
 ```python
     Input: 500
     Output: 504
@@ -1810,7 +1810,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-69-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day69/Triangular_Number.py">**Program to compute the sum of all the Amicable Numbers under a given number.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day69/Triangular_Number.py">**Program find the first triangle number to have over n divisors.**</a></ol>
 ```python
     Input: 15
     Output: 28
