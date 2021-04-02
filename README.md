@@ -1803,18 +1803,32 @@ _______________________________
     		 For example, 10 is a triangular number because 1 + 2 + 3 + 4 = 10. The first 25 triangular 
 		 numbers are: 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 78, 91, 105, 120, 136, 153, 171, 190, 210, 231, 253, 276, 300, 325, and 351.
 
-		A triangular number is calculated by the equation: n(n+1)/2
+		 A triangular number is calculated by the equation: n(n+1)/2
 		
-		The factors of the first five triangle numbers:
-		1: 1
-		3: 1, 3
-		6: 1, 2, 3, 6
-		10: 1, 2, 5, 10
-		15: 1, 3, 5, 15
-		In the above list 6 is the first triangle number to have over four divisors.
+		 The factors of the first five triangle numbers:
+		 1: 1
+		 3: 1, 3
+		 6: 1, 2, 3, 6
+		 10: 1, 2, 5, 10
+		 15: 1, 3, 5, 15
+		 In the above list 6 is the first triangle number to have over four divisors.
     
     Input: 100
     Output: 73920
+```   
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-69-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day69/Triangular_Number.py">**Program to compute the sum of all the Amicable Numbers under a given number.**</a></ol>
+```python
+    Input: 500
+    Output: 504
+    Explanation: The smallest pair of amicable numbers is (220, 284). They are amicable 
+    		 because the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, of which the 
+		 sum is 284; and the proper divisors of 284 are 1, 2, 4, 71 and 142, of which the sum is 220.
+    
+    Input: 10000
+    Output: 31626
 ```   
 
 _______________________________
