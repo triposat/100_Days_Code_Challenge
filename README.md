@@ -1810,7 +1810,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-69-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day69/Triangular_Number.py">**Program find the first Triangle Number to have over n divisors.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day69/Triangular_Number.py">**Program find the first Trianglular Number to have over n divisors.**</a></ol>
 ```python
     Input: 15
     Output: 28
