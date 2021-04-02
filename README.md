@@ -1,4 +1,7 @@
-- Hey all <kbd>kallu</kbd>
+<details>
+	<summary>Click here bro</summary>
+	Ye bette mauj kardi tumne bette
+</details>
 <p align="center">
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
