@@ -1475,8 +1475,6 @@ _______________________________
 ## <ol>**Note:** </ol>
 
 ## <ol>^</ol> 
-<details>
-	<summary>Click here</summary>
 
               10 ^ 12
          	  10: 1010
@@ -1484,11 +1482,8 @@ _______________________________
      	      0110 ---> 6
 	     
      	  Explanation: 1 ^ 0 -> 1, 0 ^ 1 -> 1, 1 ^ 1 = 0 
-</details>
 
 ## <ol>&</ol>
-<details>
-	<summary>Click here</summary>
 	
               10 & 12
          	  10: 1010
@@ -1496,11 +1491,8 @@ _______________________________
      	      1000 ---> 8
 	     
      	  Explanation: 1 & 0 -> 0, 0 & 1 -> 0, 1 & 1 = 1
-</details>
 
 ## <ol>|</ol>
-<details>
-	<summary>Click here</summary>
 	
               10 | 12
          	  10: 1010
@@ -1508,26 +1500,18 @@ _______________________________
      	      1110 ---> 14
 	     
      	  Explanation: 1 | 0 -> 1, 0 | 1 -> 1, 1 | 1 = 1
-	 
-</details>
 
 ### <ol>and</ol>
-<details>
-	<summary>Click here</summary>
 	
           10 and 12 -> 12
 	      12 and 10 -> 10
 	      15 and 14 -> 14
-</details>
 
 ### <ol>or</ol>
-<details>
-	<summary>Click here</summary>
 	
-          10 and 12 -> 10
-	      12 and 10 -> 12
-	      15 and 14 -> 15 
-</details>	    
+          10 or 12 -> 10
+	      12 or 10 -> 12
+	      15 or 14 -> 15     
 _______________________________
 
 
