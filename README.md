@@ -10,9 +10,11 @@
 
 _______________________________
 
+
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 <details>
 	<summary>Click here</summary>
+	
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Display_Fibonacci_Series.py">**Program to Display Fibonacci Series.**</a></ol>
 ```python
     Input - How Many Terms do you want to Display: 10
