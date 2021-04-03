@@ -15,33 +15,33 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Display_Fibonacci_Series.py">**Program to Display Fibonacci Series.**</a></ol>
 ```python
     Input: How Many Terms do you want to Display: 10
-    Output - 0 1 1 2 3 5 8 13 21 34
+    Output: 0 1 1 2 3 5 8 13 21 34
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Factorial_Of_Number.py">**Program to find Factorial of number.**</a></ol>
 ```python
     Input: Enter a Number: 5
-    Output - 5! = 120
+    Output: 5! = 120
 ```
 
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/HCF_Of_Number.py">**Program to find HCF of numbers.**</a></ol>
 ```python
     Input: Enter 1st Number: 5
             Enter 2nd Number: 12
-    Output - HCF: 1
+    Output: HCF: 1
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/LCM_Of_Number.py">**Program to find LCM of numbers.**</a></ol>
 ```python
     Input: Enter 1st Number: 5
             Enter 2nd Number: 12
-    Output - LCM: 1
+    Output: LCM: 1
 ```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Number_is_Fibonacci_or_not.py">**Program to check whather given number is Fibonacci or not.**</a></ol>
 ```python
     Input: Enter a Number: 78
-    Output - It's not an Fibonacci Number
+    Output: It's not an Fibonacci Number
     
     Input: Enter a Number: 55
-    Output - Yup! It's a Fibinacci Number
+    Output: Yup! It's a Fibinacci Number
 ```
 
 _______________________________
@@ -51,34 +51,34 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Armstrong_Number.py">**Program to Check whether numbers is ARMSTRONG or not.**</a></ol>
 ```python
     Input: Enter a Number: 189
-    Output - No, It's not an Armstrong Number
+    Output: No, It's not an Armstrong Number
     
     Input: Enter a Number: 153
-    Output - It's an Armstrong Number
+    Output: It's an Armstrong Number
 ```
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Array_Rotation.py">**Program for ARRAY ROTATION.**</a></ol>
 ```python
     Input: [ 5, 6, 7, 8, 1, 11, 15, 16], N = 4
-    Output - [1, 11, 15, 16, 5, 6, 7, 8]
+    Output: [1, 11, 15, 16, 5, 6, 7, 8]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Da:_Code_Challenge/blob/main/DAYS/Day2/Max_and_Min_in_List.py">**Program for MAXIMUM and MINIMUM Elements in a list.**</a></ol>
 ```python
     Input: [5, 7, 9, 4, 6, 23, 11, 12]
-    Output - Max: 23, MIN: 4
+    Output: Max: 23, MIN: 4
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Palindrome_Number.py">**Program to check whether number is PALINDROME or not.**</a></ol>
 ```python
     Input: Enter a Number: 121
-    Output - Palindrome Number
+    Output: Palindrome Number
        
     Input: Enter a Number: 123
-    Output - Not a Palindrome Number
+    Output: Not a Palindrome Number
 ```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Prime_Using_Sieve_of_Eratosthenes.py">**Program to check PRIME Number Using Sieve of Eratosthenes.**</a></ol>
 ```python
     Input: Upto How Many Terms: 20
-    Output - 2 3 5 7 11 13 17 19
+    Output: 2 3 5 7 11 13 17 19
 ```
 _______________________________
 
@@ -87,32 +87,32 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Monotonic_Or_Not.py">**Program to check whether list is MONOTONIC or not.**</a></ol>
 ```python
     Input: [5, 6, 7, 9, 1, 10, 25, 31]
-    Output - No, It's not an Monotonic List
+    Output: No, It's not an Monotonic List
     
     Input: [1, 2, 3, 4, 5, 6, 7, 8]
-    Output - Yup, It's an Monotonic List
+    Output: Yup, It's an Monotonic List
 ```
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Reversing_a_list.py">**Program for REVERSING a list.**</a></ol>
 ```python
     Input: [7, 4, 5, 6, 7, 8, 9, 1]
-    Output - [1, 9, 8, 7, 6, 5, 4, 7]
+    Output: [1, 9, 8, 7, 6, 5, 4, 7]
 ```
 
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Searching_Element_in_List.py">**Program for SEARCHING elements in a list.**</a></ol>
 ```python
     Input: [7, 6, 5, 3, 2, 6, 5, 10], N = 6
-    Output - Present 
+    Output: Present 
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Second_Largest_in_List.py">**Program for SECOND LARGEST element in a list.**</a></ol>
 ```python
     Input: [7, 6, 5, 3, 2, 6, 5, 10]
-    Output - Second Largest Element is: 7
+    Output: Second Largest Element is: 7
 ```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Swap_First_With_Last.py">**Program to SWAP first element with last element in a list.**</a></ol>
 ```python
     Input: [10, 5, 2, 6, 3, 7, 9, 4]
-    Output - [4, 5, 2, 6, 3, 7, 9, 10]
+    Output: [4, 5, 2, 6, 3, 7, 9, 10]
 ```
 
 _______________________________
@@ -122,27 +122,27 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day4/Cloning_or_Copying_list.py">**Program for Cloning/Copying the list.**</a></ol>
 ```python
     Input: [4, 5, 7, 8, 9, 6, 10, 15]
-    Output - [4, 5, 7, 8, 9, 6, 10, 15]
+    Output: [4, 5, 7, 8, 9, 6, 10, 15]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day4/N_Largest_Elements_in_List.py">**Program for N Largest elements in a list.**</a></ol>
 ```python
     Input: [4, 5, 7, 8, 9, 6, 10, 15]
-    Output - [15, 10, 9, 8]
+    Output: [15, 10, 9, 8]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day4/Occurence_of_Elements.py">**Program for Occurrences of elements.**</a></ol>
 ```python
     Input: [14, 25, 16, 23, 10, 5, 6, 8, 7, 9, 10, 25, 14], N = 14
-    Output - 14 Occurs 2 times
+    Output: 14 Occurs 2 times
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day4/Remove_Empty_List.py">**Program for Removing Empty list.**</a></ol>
 ```python
     Input: [5, 6, [], 7, 8, 9, [], 12, [], 4,[]]
-    Output - [5, 6, 7, 8, 9, 12, 4]
+    Output: [5, 6, 7, 8, 9, 12, 4]
 ```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day4/Remove_Multiple_Elements.py">**Program for Removing Multiple Elements.**</a></ol>
 ```python
     Input: [1, 2, 3, 4, 5], N = [2, 4]
-    Output - [1, 3, 5]
+    Output: [1, 3, 5]
 ```
 _______________________________
 
@@ -151,25 +151,25 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Break_into_Chunks.py">**Program to Break list into Chunks of list.**</a></ol>
 ```python
     Input: [10, 45, 20, 62, 47, 85, 12, 63, 24, 78, 10], N = 2
-    Output - [[45, 20], [62, 47], [85, 12], [63, 24], [78, 10]]
+    Output: [[45, 20], [62, 47], [85, 12], [63, 24], [78, 10]]
 ```
 
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Cumulative_Sum_of_List.py">**Program for Cumulative Sum of list.**</a><ol>
 	
 ```python
     Input: [10, 20, 30, 40, 50, 60]
-    Output - [10, 30, 60, 100, 150, 210]
+    Output: [10, 30, 60, 100, 150, 210]
 ```
 
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Duplicates_in_List.py">**Program to print Duplicates in list.**</a></ol>
 ```python
     Input: [4, 5, 1, 2, 6, 5, 2]
-    Output - [5, 2]
+    Output: [5, 2]
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day5/Flatten_List.py">**Program for Flattening a list.**</a></ol>
 ```python
     Input: [1, 2, [3, 4, [5, 6], 7], [[[8, 9], 10]], [11, [12, 13]]]
-    Output - [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+    Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 ```
 _______________________________
 
@@ -178,23 +178,23 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day6/Increament_Numeric_String.py">**Program for Increamenting Numeric String.**</a></ol>
 ```python
     Input: ["100", "Days", "of", "CodeChallenge", "234", "is", "98", "123", "best", "4"], N = 10
-    Output - ['110', 'Days', 'of', 'CodeChallenge', '244', 'is', '108', '133', 'best', '14']
+    Output: ['110', 'Days', 'of', 'CodeChallenge', '244', 'is', '108', '133', 'best', '14']
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day6/Maximum_of_Each_key_in_List.py">**Program to find Maximum of each key in list.**</a></ol>
 ```python
     Input: [{"Days": 8, "Code": 1, "Challenge": 9}, {
              "Days": 2, "Code": 9, "Challenge": 1}, {"Days": 5, "Code": 10, "Challenge": 7}]
-    Output - {'Days': 8, 'Code': 10, 'Challenge': 9}
+    Output: {'Days': 8, 'Code': 10, 'Challenge': 9}
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day6/Sort_list1_by_list2.py">**Program to Sort list_1 by list_2.**</a></ol>
 ```python
     Input: ["a", "b", "c", "d", "e", "f", "g", "h", "i"], [0,   1,   1,    0,   1,   2,   2,   0,   1]
-    Output - ['a', 'd', 'h', 'b', 'c', 'e', 'i', 'f', 'g']
+    Output: ['a', 'd', 'h', 'b', 'c', 'e', 'i', 'f', 'g']
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day6/Words_Reverse_Pairs_in_List.py">**Program for Words Reverse Pairs in list.**</a></ol>
 ```python
     Input: ["skeeg", "best", "tseb", "for", "skeeg", "skeeg", "best", "geeks", "tseb"]
-    Output - 3 Reverse Pairs
+    Output: 3 Reverse Pairs
 ```
 _______________________________
 
@@ -203,22 +203,22 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Remove_Row_with_Custom_Element.py">**Program to Remove Row with custom elements.**</a></ol>
 ```python
     Input: Test_list = [[5, 3, 1], [7, 8, 9], [1, 10, 22], [12, 18, 21]], N = [3, 10, 19, 29, 20, 15]
-    Output - [[7, 8, 9], [12, 18, 21]]
+    Output: [[7, 8, 9], [12, 18, 21]]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Remove_Specific_Digit_from_Every_Element.py">**Program for Removing Specific Digit from every element.**</a></ol>
 ```python
     Input: [343, 893, 1948, 3433333, 2346], N = 3
-    Output - ['4', '89', '1948', '4', '246']
+    Output: ['4', '89', '1948', '4', '246']
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/String_Based_on_Prefix.py">**Program to print strings Based on Prefix.**</a></ol>
 ```python
     Input: Test_list = ["geeks", "peeks", "meeks", "leeks", "mean"], Prefix_list = ["ge", "ne", "me", "re"]
-    Output - ['geeks', 'meeks', 'mean']
+    Output: ['geeks', 'meeks', 'mean']
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day7/Swap_ith_with_jth_Element.py">**Program to Swap ith with jth element.**</a></ol>
 ```python
     Input: Test_list = [4, 7, 8, 0, 8, 4, 2, 9, 4, 8, 4], i, j = 4, 8
-    Output - [8, 7, 4, 0, 4, 8, 2, 9, 8, 4, 8]
+    Output: [8, 7, 4, 0, 4, 8, 2, 9, 8, 4, 8]
 ```
 
 _______________________________
@@ -227,22 +227,22 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Element_Multiple_of_Element_in_List.py">**Program for elements Mutiple of elements in a list.**</a></ol>
 ```python
     Input: Test_list = [4, 24, 8, 10, 12, 23], Check_list = [6, 4]
-    Output - [24, 12]
+    Output: [24, 12]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Element_with_Maximum_Vowel_from_List.py">**Program to print element with Maximum Vowel in a list.**</a></ol>
 ```python
     Input: ["gfg", "beaeioust", "for", "geeks"]
-    Output - beaeioust
+    Output: beaeioust
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Occurence_of_i_before_first_j_in_List.py">**Program for Occurrences of i before first j in a list.**</a></ol>
 ```python
     Input: Test_list = [4, 5, 6, 4, 1, 4, 8, 5, 4, 3, 4, 9], i, j = 4, 8
-    Output - 4 Occurs 3 times before 8 Occur
+    Output: 4 Occurs 3 times before 8 Occur
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day8/Sort_row_by_Frequency_of_Key.py">**Program to Sort Row by frequency of key.**</a></ol>
 ```python
     Input: [[10, 2, 3, 2, 3], [5, 5, 4, 7, 7, 4], [1, 2], [1, 1, 2, 2, 2]], n = 2
-    Output - [[5, 5, 4, 7, 7, 4], [1, 2], [10, 2, 3, 2, 3], [1, 1, 2, 2, 2]]
+    Output: [[5, 5, 4, 7, 7, 4], [1, 2], [10, 2, 3, 2, 3], [1, 1, 2, 2, 2]]
 ```
 _______________________________
 
@@ -256,22 +256,22 @@ _______________________________
 	    Y = [[9, 8, 7],
     		[6, 5, 4],
      		[3, 2, 1]]
-    Output - [10, 10, 10, 10, 10, 10, 10, 10, 10]
+    Output: [10, 10, 10, 10, 10, 10, 10, 10, 10]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Multiply_Matrix.py">**Program to Multiply Two Matrix.**</a></ol>
 ```python
     Input: A = [[12, 7, 3], [4, 5, 6], [7, 8, 9]], B = [[5, 8, 1, 2], [6, 7, 3, 0], [4, 5, 9, 1]]
-    Output - [[114, 160, 60, 27], [74, 97, 73, 14], [119, 157, 112, 23]]
+    Output: [[114, 160, 60, 27], [74, 97, 73, 14], [119, 157, 112, 23]]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Product_of_All_Elements_in_Matrix.py">**Program for Product of all elements in Matrix.**</a></ol>
 ```python
     Input: [[1, 4, 5], [7, 3], [4], [46, 7, 3]]
-    Output - 1622880
+    Output: 1622880
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day9/Transpose_Matrix.py">**Program to Transpose a Matrix.**</a></ol>
 ```python
     Input: [[12, 7], [4, 5], [3, 8]]
-    Output - [12, 4, 3]
+    Output: [12, 4, 3]
 	     [7, 5, 8]
 ```
 _______________________________
@@ -284,28 +284,28 @@ _______________________________
                         [8, 1, 10],
              	        [7, 12, 5]]
             K = 2
-    Output - [5, 1, 12]
+    Output: [5, 1, 12]
 ```
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day10/String_Palindrome.py">**Program for String Palindrome.**</a></ol>
 ```python
     Input: amma
-    Output - Palindrome String
+    Output: Palindrome String
     
     Input: code
-    Output - Not a Palindrome String
+    Output: Not a Palindrome String
 ```
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day10/Symmetric_or_Palindrome.py">**Program to check whether string is Symmetric or Palindrome.**</a></ol>
 ```python
     Input: amam
-    Output - Symmetric and Not Palindrome
+    Output: Symmetric and Not Palindrome
     
     Input: amaama
-    Output - Symmetric and Palindrome
+    Output: Symmetric and Palindrome
 ```
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day10/Vertical_Concatenation_of_Matrix.py">**Program for Vertical Concatenation of Matrix.**</a></ol>
 ```python
     Input: [["Gfg", "good"], ["is", "for"], ["Best"]]
-    Output - ['GfgisBest', 'goodfor', '']
+    Output: ['GfgisBest', 'goodfor', '']
 ```
 
 _______________________________
@@ -315,27 +315,27 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Remove_Duplicates_from_List.py">**Program to Remove Duplicates from a List.**</a></ol>
 ```python
     Input: [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6]
-    Output - [1, 2, 3, 4, 5, 6]
+    Output: [1, 2, 3, 4, 5, 6]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Remove_Particular_Character.py">**Program to Remove Particular Character.**</a></ol>
 ```python
     Input: Hey! There satyam here, K = !
-    Output - Hey There satyam here
+    Output: Hey There satyam here
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Reverse_Words_of_String.py">**Program to Reverse Words of string.**</a></ol>
 ```python
     Input: 100 Days of Code Challenge
-    Output - Challenge Code of Days 100
+    Output: Challenge Code of Days 100
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Snake_Case_to_Pascal_Case.py">**Program to Convert Snake Case to Pascal case.**</a></ol>
 ```python
     Input: 100 days of code challenge
-    Output - 100DaysOfCodeChallenge
+    Output: 100DaysOfCodeChallenge
 ```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day11/Word_with_Max_Frequency_in_String.py">**Program to Find word with Maximum Frequency.**</a></ol>
 ```python
     Input: hey you yeah you where are you
-    Output - you
+    Output: you
 ```
 
 _______________________________
@@ -345,25 +345,25 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/Even_Length_Strings.py">**Program for Even length String.**</a></ol>
 ```python
     Input: 100 Days of Code Challenge
-    Output - Days, of, Code
+    Output: Days, of, Code
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/Least_Frequency_Character.py">**Program for least Frequency Character.**</a></ol>
 ```python
     Input: this is github challenge
-    Output - u
+    Output: u
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/Matching_Characters_in_String.py">**Program for Matching Characters in string.**</a></ol>
 ```python
     Input: F1 = 100 Days of Code Challenge, F2 = Code Challenge
-    Output - Code Challenge
+    Output: Code Challenge
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day12/String_with_Vowels.py">**Program to print String with Vowels.**</a></ol>
 ```python
     Input: Github Challenge
-    Output - Not Accepted
+    Output: Not Accepted
     
     Input: aaoaao
-    Output - Accepted
+    Output: Accepted
 ```
 _______________________________
 
@@ -372,30 +372,30 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/Removing_ith_Character_from_String.py">**Program for Removing ith Character from string.**</a></ol>
 ```python
     Input: Code Challenge, K = 6
-    Output - Code Callenge
+    Output: Code Callenge
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/Special_Characters_in_String.py">**Program for Special Characters in string.**</a></ol>
 ```python
     Input:  github@io
-    Output - Not Accepted
+    Output: Not Accepted
     
     
     Input:  githubio
-    Output - Accepted
+    Output: Accepted
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/String_is_Binary_or_not.py">**Program for checking string is Binary or not.**</a></ol>
 ```python
     Input: 123456
-    Output - Not a Binary
+    Output: Not a Binary
     
     
     Input: 1011001011
-    Output - Binary
+    Output: Binary
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day13/Words_Greater_than_Given_Length.py">**Program to print all the words greater than given length.**</a></ol>
 ```python
     Input: Hey! this is 100 Days of Code Challenge, N = 4
-    Output - Challenge
+    Output: Challenge
 ```
 
 _______________________________
@@ -405,22 +405,22 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Permutation_of_String.py">**Program for PERMUTATION of string.**</a></ol>
 ```python
     Input: ABC
-    Output - ABC, ACB, BAC, BCA, CAB, CBA
+    Output: ABC, ACB, BAC, BCA, CAB, CBA
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Replace_Duplicate_Occurrence_in_String.py">**Program for Replace Duplicate Occurrences in string.**</a></ol>
 ```python
     Input: Hey! this is 100 Days of Code Challenge, N = 4
-    Output - Challenge
+    Output: Challenge
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Replace_Multiple_Words_in_String.py">**Program for Replace Multiple Words in string.**</a></ol>
 ```python
     Input: Hey! this is 100 Days of Code Challenge, N = 4
-    Output - Challenge
+    Output: Challenge
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Uncommon_Words_from_String.py">**Program to print Uncommon Words in strings.**</a></ol>
 ```python
     Input: Hey! this is 100 Days of Code Challenge, N = 4
-    Output - Challenge
+    Output: Challenge
 ```
 
 _______________________________
@@ -438,24 +438,24 @@ _______________________________
 				print(factorial(5)) 
 			  """
 	    N = 5
-    Output - 120
+    Output: 120
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/Find_URL_from_String.py">**Program for checking URL in String.**</a></ol>
 ```python
     Input: "These are the links http://www.google.com  and http://stackoverflow.com/questions/839994/extracting-a-url-in-python"
-    Output - http://www.google.com
+    Output: http://www.google.com
 	     http://stackoverflow.com/questions/839994/extracting-a-url-in-python
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/Rotate_a_String.py">**Program for String Slicing to Rotate a String.**</a></ol>
 ```python
     Input: Hey! There this is 100 Days of Code Challenge
-    Output - Left Rotation:  There this is 100 Days of Code ChallengeHey!
+    Output: Left Rotation:  There this is 100 Days of Code ChallengeHey!
 	     Right Rotation: engeHey! There this is 100 Days of Code Chall
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/String_can_become_Empty_or_not.py">**Program for String Slicing to check if a string can become empty by Recursive relation.**</a></ol>
 ```python
     Input: a = CoCodede, b = Code
-    Output - True
+    Output: True
 ```
 
 _______________________________
@@ -466,23 +466,23 @@ _______________________________
 ```python
     Input: Test_string = "@geeksfor#geeks123%^&*"
 	    Test_list = ['#', '%', '8', '@', ')']
-    Output - [True, True, False, True, False]
+    Output: [True, True, False, True, False]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Duplicate_Characters_in_String.py">**Program for Duplicates Characters in string.**</a></ol>
 ```python
     Input: hey this is Github Repo
-    Output - hey tis
+    Output: hey tis
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Last_name_Sorting.py">**Program to Sort a list of names using Last Names.**</a></ol>
 ```python
     Input: ['John Wick', 'Jason Voorhees', 'Freddy Krueger', 'Keyser Soze', 'Mohinder Singh Pandher']
-    Output - ['Freddy Krueger', 'Mohinder Singh Pandher', 'Keyser Soze', 'Jason Voorhees', 'John Wick']
+    Output: ['Freddy Krueger', 'Mohinder Singh Pandher', 'Keyser Soze', 'Jason Voorhees', 'John Wick']
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Letter_not_Common_in_Two_String.py">**Program to find letters which are not common in two strings.**</a></ol>
 ```python
     Input: 1st String: Hey this is Code Challenge
 	    2nd String: wait this is Github Repo
-    Output - C R p u d n G l g y H b w
+    Output: C R p u d n G l g y H b w
 ```
 
 _______________________________
@@ -492,25 +492,25 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Maximum_Uppercase_run.py">**Program for Maximum UpperCase run.**</a></ol>
 ```python
     Input: GeEKSforGEEKSISBESt
-    Output - GEEKSISBES 10
+    Output: GEEKSISBES 10
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Move_Numbers_to_the_End.py">**Program for Moving Numbers to the end of the string.**</a></ol>
 ```python
     Input: This is 100 Days of Code Challenge Plus 50 Days Also
-    Output - This is  Days of Code Challenge Plus  Days Also10050
+    Output: This is  Days of Code Challenge Plus  Days Also10050
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Replace_String_by_SubString.py">**Program for Replacing String with Sub-String.**</a></ol>
 ```python
     Input: String: This is 50 Days of Code Challenge
 	    Which: 50
 	    To: 100
-    Output - This is 100 Days of Code Challenge
+    Output: This is 100 Days of Code Challenge
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day17/Strings_Based_on_Prefix.py">**Program to print strings based on Prefix.**</a></ol>
 ```python
     Input: Test_list = ["geeks", "peeks", "meeks", "leeks", "mean"]
 	    Pref_list = ["ge", "ne", "me", "re"]
-    Output - geeks meeks mean
+    Output: geeks meeks mean
 ```
 
 _______________________________
@@ -523,26 +523,26 @@ _______________________________
              		 'are': [10, 11, 7, 5],
                          'best': [6, 12, 10, 8],
                          'for': [1, 2, 5]}
-    Output - [1, 2, 5, 6, 7, 8, 10, 11, 12]
+    Output: [1, 2, 5, 6, 7, 8, 10, 11, 12]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day18/Remove_Keys_from_Dictionary.py">**Remove a Key from Dictionary.**</a></ol>
 ```python
     Input: {'This': 12, 'is': 24, 'Code': 36, 'Challenge': 48, 'Github': 60}
 	    Which Key to Delete: Github
-    Output - {'This': 12, 'is': 24, 'Code': 36, 'Challenge': 48}
+    Output: {'This': 12, 'is': 24, 'Code': 36, 'Challenge': 48}
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day18/Sorting_Dictionary_Using_Itemgetter.py">**Sort a list of Dictionaries by values using `itemgetter.`**</a></ol>
 ```python
     Input: Test_list = [{"Name": "Tushar", "Age": 20},
             		 {"Name": "Aditya", "Age": 19},
             		 {"Name": "Satyam", "Age": 21}]
-    Output - Age Sorting: [{'Name': 'Aditya', 'Age': 19}, {'Name': 'Tushar', 'Age': 20}, {'Name': 'Satyam', 'Age': 21}]
+    Output: Age Sorting: [{'Name': 'Aditya', 'Age': 19}, {'Name': 'Tushar', 'Age': 20}, {'Name': 'Satyam', 'Age': 21}]
 	     Name and Age Sorting: [{'Name': 'Aditya', 'Age': 19}, {'Name': 'Tushar', 'Age': 20}, {'Name': 'Satyam', 'Age': 21}]
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day18/Sum_of_Items_in_Dictionary.py">**Find the Sum of all items in a Dictionary.**</a></ol>
 ```python
     Input: {'a': 100, 'b': 200, 'c': 300, 'd': 400}
-    Output - Total Sum: 1000
+    Output: Total Sum: 1000
 ```
 
 _______________________________
@@ -553,30 +553,30 @@ _______________________________
 ```python
     Input: Enter String: CodeChallenge
 	    Enter Pattern: Co
-    Output - True
+    Output: True
     
     Input: Enter String: CodeChallenge
 	    Enter Pattern: oC
-    Output - False
+    Output: False
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day19/Convert_Key_Values_to_Flatten_list.py">**Program to Convert Key-Values list to flat Dictionary.**</a></ol>
 ```python
     Input: Test_dict = {'Month': [1, 2, 3],
              		 'Name': ['Jan', 'Feb', 'March']}
-    Output - Total Sum: {1: 'Jan', 2: 'Feb', 3: 'March'}
+    Output: Total Sum: {1: 'Jan', 2: 'Feb', 3: 'March'}
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day19/Merge_Two_Dictionaries.py">**Program for Merging Two Dictionaries.**</a></ol>
 ```python
     Input: Test_dict_1 = {'A': 10, 'B': 8}
 	    Test_dict_2 = {'D': 6, 'C': 4}
-    Output - {'A': 10, 'B': 8, 'D': 6, 'C': 4}
+    Output: {'A': 10, 'B': 8, 'D': 6, 'C': 4}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day19/Sort_Dictionary_Using_lambda_function.py">**Program to Sort list of Dictionaries using `lambda function.`**</a></ol>
 ```python
     Input: Test_list = [{"Name": "Satyam", "Age": 20},
              {"Name": "Aditya", "Age": 20},
              {"Name": "Tushar", "Age": 19}]
-    Output - [{'Name': 'Tushar', 'Age': 19}, {'Name': 'Satyam', 'Age': 20}, {'Name': 'Aditya', 'Age': 20}]
+    Output: [{'Name': 'Tushar', 'Age': 19}, {'Name': 'Satyam', 'Age': 20}, {'Name': 'Aditya', 'Age': 20}]
 ```
 
 _______________________________
@@ -586,23 +586,23 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Append_Keys_and_Values.py">**Program to Append Dictionary Keys and Values.**</a></ol>
 ```python
     Input: {"Code": 1, "Challenge": 10, "is": 100, "Best": 1000}
-    Output - ['Code', 'Challenge', 'is', 'Best', 1, 10, 100, 1000]
+    Output: ['Code', 'Challenge', 'is', 'Best', 1, 10, 100, 1000]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Counter_in_Dictionary.py">**Program for Counter in Python to find the Winner of the Election.**</a></ol>
 ```python
     Input: Test_list = ['john', 'johnny', 'jackie', 'johnny', 'john', 'jackie',
              		 'jamie', 'jamie', 'john', 'johnny', 'jamie', 'johnny', 'john']
-    Output - john
+    Output: john
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Sort_Dictionary_Keys_and_Values_List.py">**Program to Sort Dictionary Keys and Values List.**</a></ol>
 ```python
     Input: {'Code': [7, 6, 3], 'Challenge': [2, 10, 3], 'is': [19, 4], 'Best': [18, 20, 7]}
-    Output - {'Best': [7, 18, 20], 'Challenge': [2, 3, 10], 'Code': [3, 6, 7], 'is': [4, 19]}
+    Output: {'Best': [7, 18, 20], 'Challenge': [2, 3, 10], 'Code': [3, 6, 7], 'is': [4, 19]}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day20/Sorting_Using_Keys_and_Values.py">**Program to Sort Python Dictionaries by Keys and Values.**</a></ol>
 ```python
     Input: {2: 56, 1: 2, 5: 12, 4: 24, 6: 18, 3: 323}
-    Output - Sorting by Keys: {1: 2, 2: 56, 3: 323, 4: 24, 5: 12, 6: 18}
+    Output: Sorting by Keys: {1: 2, 2: 56, 3: 323, 4: 24, 5: 12, 6: 18}
 	     Sorting by Values: {1: 2, 5: 12, 6: 18, 4: 24, 2: 56, 3: 323}
 ```
 
@@ -613,22 +613,22 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Anagram_Using_list_Dictionary.py">**Program to print Anagram together in Python using list and Dictionaries.**</a></ol>
 ```python
     Input: ['cat', 'dog', 'tac', 'god', 'act']
-    Output - cat tac act dog god
+    Output: cat tac act dog god
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Binary_Representation_of_Two_Numbers_is_Anagram_or_not.py">**Program to check if Binary Representations of two numbers are Anagram.**</a></ol>
 ```python
     Input: 8, 4
-    Output - True, because both have same number of 0's and 1's
+    Output: True, because both have same number of 0's and 1's
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Handling_Missing_Keys_in_Dictionary.py">**Program for Handling missing keys in Python Dictionaries.**</a></ol>
 ```python
     Input: {'a': 1, 'b': 2}), key = d
-    Output - Key not found...
+    Output: Key not found...
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day21/Kth_Non_Repeating_Character.py">**Program for K’th Non-repeating Character in Python using OrderedDict.**</a></ol>
 ```python
     Input: CodeChallenge, K = 2
-    Output - d, because ['o', 'd', 'h', 'a', 'n', 'g'] ---> This is the list of Non-Repeating Characters in the Given String
+    Output: d, because ['o', 'd', 'h', 'a', 'n', 'g'] ---> This is the list of Non-Repeating Characters in the Given String
 ```
 
 _______________________________
@@ -638,22 +638,22 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Counting_the_Frequency.py">**Program for counting the frequencies of elements.**</a></ol>
 ```python
     Input: [1, 1, 1, 5, 5, 3, 1, 3, 3, 1, 4, 4, 4, 2, 2, 2, 2]
-    Output - 1 : 5, 5 : 2, 3 : 3, 4 : 3, 2 : 4
+    Output: 1 : 5, 5 : 2, 3 : 3, 4 : 3, 2 : 4
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Mirror_Characters_in_string.py">**Program to Convert any string to a string contains it's Mirror Characters.**</a></ol>
 ```python
     Input: codechallenge, K = 4
-    Output - codvxszoovmtv
+    Output: codvxszoovmtv
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Remove_Duplicates_in_Dictionary.py">**Program to Remove all Duplicate words from a given sentence.**</a></ol>
 ```python
     Input: Coding is great and challenges is great
-    Output - Coding is great and challenges
+    Output: Coding is great and challenges
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day22/Size_of_Largest_Subset_in_Anagram.py">**Program to find the size of largest subset of anagram words.**</a></ol>
 ```python
     Input: magenta magnate tan gnamate
-    Output - 3
+    Output: 3
 ```
 
 _______________________________
@@ -664,34 +664,34 @@ _______________________________
 ```python
     Input: s1 = ABHISHEKsinGH
             s2 = gfhfBHkooIHnfndSHEKsiAnG
-    Output - Possible
+    Output: Possible
     
     Input: s1 = Hello
             s2 = dnaKfhelddf
-    Output - Not Possible
+    Output: Not Possible
     
     Input: s1 = GeeksforGeeks
             s2 = rteksfoGrdsskGeggehes
-    Output - Possible
+    Output: Possible
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day23/Frequency_can_become_same.py">**Program to check if Frequency of characters in string can become same after removing atmost one character.**</a></ol>
 ```python
     Input: xxxyyzz
-    Output - True
+    Output: True
     
     Input: xxxxyyzz
-    Output - False
+    Output: False
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day23/Key_Associated_with_Values.py">**Program for Keys associated with Values in Dictionary.**</a></ol>
 ```python
     Input: {'Code': [1, 2, 3], "Challenge": [3, 4, 5], 'is': [1, 4], 'best': [4, 2]}
-    Output - {1: ['Code', 'is'], 2: ['Code', 'best'], 3: ['Code', 'Challenge'], 4: ['Challenge', 'is', 'best'], 5: ['Challenge']}
+    Output: {1: ['Code', 'is'], 2: ['Code', 'best'], 3: ['Code', 'Challenge'], 4: ['Challenge', 'is', 'best'], 5: ['Challenge']}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day23/Possible_Words_Using_Given_Characters.py">**Program for Possible Words using Given Characters.**</a></ol>
 ```python
     Input: Test_list = ['go', 'bat', 'me', 'eat', 'goal', 'boy', 'run']
     	    Test_chars = ['e', 'o', 'b', 'a', 'm', 'g', 'l']
-    Output - go, me, goal
+    Output: go, me, goal
 ```
 
 _______________________________
@@ -701,24 +701,24 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Assigne_Keys_with_Maximum_Element_Index.py">**Program for Assigning keys with Maximum Element Index.**</a></ol>
 ```python
     Input: {"Challenges": [5, 3, 6, 3], "are": [1, 7, 5, 3], "Best": [9, 1, 3, 5]}
-    Output - {'Challenges': 2, 'are': 1, 'Best': 0}
+    Output: {'Challenges': 2, 'are': 1, 'Best': 0}
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Index_Directory_of_Elements.py">**Program for Index Directory of Elements.**</a></ol>
 ```python
     Input: [7, 6, 3, 7, 8, 3, 6, 7, 8]
-    Output - {8: [4, 8], 3: [2, 5], 6: [1, 6], 7: [0, 3, 7]}
+    Output: {8: [4, 8], 3: [2, 5], 6: [1, 6], 7: [0, 3, 7]}
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Minimum_Value_key_Assignment.py">**Program for Minimum Value Key Assignment.**</a></ol>
 ```python
     Input: Test_dict_1 = {"Code": 1, "Challenge": 7, "is": 8, "Best": 10}
 	    Test_dict_2 = {"Code": 5, "Challenge": 5, "is": 7, "Best": 14}
 	    
-    Output - {'Code': 1, 'Challenge': 5, 'is': 7, 'Best': 10}
+    Output: {'Code': 1, 'Challenge': 5, 'is': 7, 'Best': 10}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day24/Shuffling_of_Values.py">**Program for Shuffling Dictionary Values.**</a></ol>
 ```python
     Input: {"Code": 1, "Challenge": 7, "is": 8, "Best": 10}
-    Output - {'Code': 10, 'Challenge': 8, 'is': 1, 'Best': 7}
+    Output: {'Code': 10, 'Challenge': 8, 'is': 1, 'Best': 7}
 ```
 
 _______________________________
@@ -728,7 +728,7 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Convert_Dictionary_to_list.py">**Program to display keys with same values in a dictionary List.**</a></ol>
 ```python
     Input: {'S': 2, 'a': 3, 'm': 1, 't': 4, 'y': 1, 'y': 4, 't': 3}
-    Output - ['S', 'S', 'a', 'a', 'a', 'm', 't', 't', 't', 'y', 'y', 'y', 'y']
+    Output: ['S', 'S', 'a', 'a', 'a', 'm', 't', 't', 't', 'y', 'y', 'y', 'y']
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Filter_Dictionaries_by_Values.py">**Filter dictionaries by values in Kth Key in list.**</a></ol>
 ```python
@@ -738,19 +738,19 @@ _______________________________
              		 {"Gfg": 9, "is": 9, "best": 8},
              		 {"Gfg": 4, "is": 10, "best": 7}]
 			 
-    Output - [{'Gfg': 5, 'is': 1, 'best': 1}, {'Gfg': 8, 'is': 3, 'best': 9}, {'Gfg': 9, 'is': 9, 'best': 8}]
+    Output: [{'Gfg': 5, 'is': 1, 'best': 1}, {'Gfg': 8, 'is': 3, 'best': 9}, {'Gfg': 9, 'is': 9, 'best': 8}]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Remove_Duplicity_from_Dictionary.py">**Program to Remove Duplicity from a Dictionary.**</a></ol>
 ```python
     Input: {'All': ['All', 'Time', 'Favourite'], 'Favourite': ['All'], 'Code': ['Challenge']}
-    Output - {'All': ['All', 'Time', 'Favourite'], 'Code': ['Challenge']}
+    Output: {'All': ['All', 'Time', 'Favourite'], 'Code': ['Challenge']}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day25/Unique_Values_Count_of_each_key.py">**Program for Unique values count of each Key.**</a></ol>
 ```python
     Input: Test_dict = [{"Challenges": 1, "are": 3, "Best": 2}, {
                           "Challenges": 1, "are": 3, "Best": 6}, {"Challenges": 7, "are": 3, "Best": 10}]
 			  
-    Output - {'Challenges': 2, 'are': 1, 'Best': 3}
+    Output: {'Challenges': 2, 'are': 1, 'Best': 3}
 ```
 
 _______________________________
@@ -760,22 +760,22 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Convert_each_list_element_to_key_value_pair.py">**Program to convert each list element to Key-Value Pair.**</a></ol>
 ```python
     Input: [2323, 82, 129388, 234, 95]
-    Output - {23: 23, 8: 2, 129: 388, 2: 34, 9: 5}
+    Output: {23: 23, 8: 2, 129: 388, 2: 34, 9: 5}
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Resize_Keys_in_Dictionary.py">**Program to Resize keys in Dictionary.**</a></ol>
 ```python
     Input: {"geeksforgeeks": 3, "best": 3, "coding": 4, "practice": 3}, K = 2
-    Output - {'ge': 3, 'be': 3, 'co': 4, 'pr': 3}
+    Output: {'ge': 3, 'be': 3, 'co': 4, 'pr': 3}
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Rotate_Dictionary_by_K.py">**Program for Rotating Dictionary by K.**</a></ol>
 ```python
     Input: {1: 6, 8: 1, 9: 3, 10: 8, 12: 6, 4: 9}, K = 2
-    Output - {12: 6, 4: 9, 1: 6, 8: 1, 9: 3, 10: 8}
+    Output: {12: 6, 4: 9, 1: 6, 8: 1, 9: 3, 10: 8}
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day26/Value_Sum_is_greater_than_Keys_Sum.py">**Program to test if Values Sum is Greater than Keys Sum in Dictionary.**</a></ol>
 ```python
     Input: {5: 3, 1: 3, 10: 4, 7: 3, 8: 1, 9: 5}
-    Output - False, because Sum of all the Values is less than sum of all the Keys.
+    Output: False, because Sum of all the Values is less than sum of all the Keys.
 ```
 
 _______________________________
@@ -785,17 +785,17 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Extract_digit_from_tuple_list.py">**Program to Extract digits from Tuple list.**</a></ol>
 ```python
     Inpu: [(15, 3), (3, 9), (1, 10), (99, 2)]
-    Output - [5, 9, 2, 1, 3, 0]
+    Output: [5, 9, 2, 1, 3, 0]
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Join_Tuples_if_Similar_initial_elements.py">**Program to Join Tuples if similar initial element.**</a></ol>
 ```python
     Inpu: [(5, 6), (5, 7), (6, 8), (6, 10), (7, 13)]
-    Output - [(5, 6, 7), (6, 8, 10), (7, 13)]
+    Output: [(5, 6, 7), (6, 8, 10), (7, 13)]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Maximum_Minimum_K_Elements.py">**Program for Maximum and Minimum K elements in Tuple.**</a></ol>
 ```python
     Inpu: (5, 20, 3, 7, 6, 8, 2, 87, 9, 14), K = 2
-    Output - (2, 3, 20, 87)
+    Output: (2, 3, 20, 87)
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day27/Size_of_Tuple.py">**Program to Find the size of a Tuple.**</a></ol>
 ```python
@@ -803,7 +803,7 @@ _______________________________
 	    Tuple_2 = ("Geek1", "Satyam", "hey you yeah you", "Tushar", "Geek3", "Aditya")
 	    Tuple_3 = ((1, "Lion"), (2, "Tiger"), (3, "Fox"), (4, "Wolf"))
 	    
-    Output - Size of Tuple_1: 44 bytes
+    Output: Size of Tuple_1: 44 bytes
 	     Size of Tuple_2: 44 bytes
 	     Size of Tuple_3: 36 bytes
 ```
@@ -815,22 +815,22 @@ _______________________________
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Occurrences_of_Characters.py">**Program for Occurrences of Characters in string.**</a></ol>
 ```python
     Inpu: "ABBBBCCCCCCCCAB"
-    Output - 1A4B8C1A1B
+    Output: 1A4B8C1A1B
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Pair_Combinations_of_two_tuples.py">**Program for all pair combinations of 2 tuples.**</a></ol>
 ```python
     Inpu: (4, 5), (7, 8)
-    Output - [(4, 7), (4, 8), (5, 7), (5, 8), (7, 4), (7, 5), (8, 4), (8, 5)]
+    Output: [(4, 7), (4, 8), (5, 7), (5, 8), (7, 4), (7, 5), (8, 4), (8, 5)]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Remove_Tuple_of_length_k.py">**Program to Remove Tuples of Length K.**</a></ol>
 ```python
     Inpu: [(4, 5), (4, ), (8, 6, 7), (1, ), (3, 4, 6, 7)], K = 3
-    Output - [(4, 5), (4,), (1,), (3, 4, 6, 7)]
+    Output: [(4, 5), (4,), (1,), (3, 4, 6, 7)]
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day28/Sort_list_by_second_items.py">**Program to Sort a list of tuples by second Item.**</a></ol>
 ```python
     Inpu: [('for', 24), ('is', 10), ('Geeks', 28), ('Geeksforgeeks', 5), ('portal', 20), ('a', 15)]
-    Output - [('Geeksforgeeks', 5), ('is', 10), ('a', 15), ('portal', 20), ('for', 24), ('Geeks', 28)]
+    Output: [('Geeksforgeeks', 5), ('is', 10), ('a', 15), ('portal', 20), ('for', 24), ('Geeks', 28)]
 ```
 
 _______________________________
@@ -858,7 +858,7 @@ _______________________________
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Leap_Year.py">**Program to generate the next 15 leap years starting from a given year.**</a></ol>
 ```python
       Input:  2000
-      Output = [2000, 2004, 2008, 2012, 2016, 2020, 2024, 2028, 2032, 2036, 2040, 2044, 2048, 2052, 2056]
+      Output: [2000, 2004, 2008, 2012, 2016, 2020, 2024, 2028, 2032, 2036, 2040, 2044, 2048, 2052, 2056]
 ```   
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day29/Rabbits_Chicken_Heads_and_Legs.py">Write a python program to solve a classic ancient Chinese puzzle. We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?</a></ol>
 ```python
