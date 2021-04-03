@@ -40,7 +40,7 @@ _______________________________
     Input: Enter a Number: 78
     Output - It's not an Fibonacci Number
     
-    Input - Enter a Number: 55
+    Input: Enter a Number: 55
     Output - Yup! It's a Fibinacci Number
 ```
 
@@ -53,7 +53,7 @@ _______________________________
     Input: Enter a Number: 189
     Output - No, It's not an Armstrong Number
     
-    Input - Enter a Number: 153
+    Input: Enter a Number: 153
     Output - It's an Armstrong Number
 ```
 
