@@ -1475,6 +1475,8 @@ _______________________________
 ## <ol>**Note:** </ol>
 
 ## <ol>^</ol>
+<details>
+	<summary><kbd class="type-writer">Click here</kbd></summary>
 
               10 ^ 12
          	  10: 1010
@@ -1482,7 +1484,7 @@ _______________________________
      	      0110 ---> 6
 	     
      	  Explanation: 1 ^ 0 -> 1, 0 ^ 1 -> 1, 1 ^ 1 = 0 
-
+</details>
 ## <ol>&</ol>
 
               10 & 12
