@@ -1476,7 +1476,7 @@ _______________________________
 
 ## <ol>^</ol> 
 <details>
-	<summary><kbd class="type-writer">Click here</kbd></summary>
+	<summary>Click here</summary>
 
               10 ^ 12
          	  10: 1010
