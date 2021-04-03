@@ -1834,7 +1834,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-70-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day70/Expand_string.py">**Program that takes a string of numbers and letters and return string which consists of letters. **</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day70/Expand_string.py">**Program that takes a string of numbers and letters and return string which consists of letters.**</a></ol>
 ```python
     Input: 4A3B2C1D2A
     Output: AAAABBBCCDAA
