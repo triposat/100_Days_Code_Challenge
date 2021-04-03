@@ -13,7 +13,7 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 <details>
-	<summary><kbd>Click here</kbd></summary>
+	<summary><kbd class="deep-blue">Click here</kbd></summary>
 	
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Display_Fibonacci_Series.py">**Program to Display Fibonacci Series.**</a></ol>
 ```python
