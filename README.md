@@ -72,7 +72,7 @@ _______________________________
     Input: Enter a Number: 121
     Output - Palindrome Number
        
-    Input - Enter a Number: 123
+    Input: Enter a Number: 123
     Output - Not a Palindrome Number
 ```
 ### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Prime_Using_Sieve_of_Eratosthenes.py">**Program to check PRIME Number Using Sieve of Eratosthenes.**</a></ol>
