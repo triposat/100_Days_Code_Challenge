@@ -1474,8 +1474,7 @@ _______________________________
 ```  
 ## <ol>**Note:** </ol>
 
-## <ol>^</ol>
-<details>
+## <ol>^</ol> <details>
 	<summary><kbd class="type-writer">Click here</kbd></summary>
 
               10 ^ 12
