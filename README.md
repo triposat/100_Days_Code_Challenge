@@ -1474,7 +1474,8 @@ _______________________________
 ```  
 ## <ol>**Note:** </ol>
 
-## <ol>^</ol> <details>
+## <ol>^</ol> 
+<details>
 	<summary><kbd class="type-writer">Click here</kbd></summary>
 
               10 ^ 12
@@ -1486,16 +1487,19 @@ _______________________________
 </details>
 
 ## <ol>&</ol>
-
+<details>
+	<summary><kbd class="type-writer">Click here</kbd></summary>
               10 & 12
          	  10: 1010
          	  12: 1100
      	      1000 ---> 8
 	     
      	  Explanation: 1 & 0 -> 0, 0 & 1 -> 0, 1 & 1 = 1
-	 
-## <ol>|</ol>
+</details>
 
+## <ol>|</ol>
+<details>
+	<summary><kbd class="type-writer">Click here</kbd></summary>
               10 | 12
          	  10: 1010
          	  12: 1100
@@ -1503,19 +1507,23 @@ _______________________________
 	     
      	  Explanation: 1 | 0 -> 1, 0 | 1 -> 1, 1 | 1 = 1
 	 
+</details>
 
 ### <ol>and</ol>
-
+<details>
+	<summary><kbd class="type-writer">Click here</kbd></summary>
           10 and 12 -> 12
 	      12 and 10 -> 10
 	      15 and 14 -> 14
-	    
-### <ol>or</ol>
+</details>
 
+### <ol>or</ol>
+<details>
+	<summary><kbd class="type-writer">Click here</kbd></summary>
           10 and 12 -> 10
 	      12 and 10 -> 12
 	      15 and 14 -> 15 
-	    
+</details>	    
 _______________________________
 
 
