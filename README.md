@@ -1830,7 +1830,37 @@ _______________________________
     Input: 100
     Output: 73920
 ```   
+_______________________________
 
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-70-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day70/Expand_string.py">**Program that takes a string of numbers and letters and return string which consists of letters. **</a></ol>
+```python
+    Input: 4A3B2C1D2A
+    Output: AAAABBBCCDAA
+    
+    Input: 1P1H1P
+    Output: PHP
+    
+```   
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day70/Index_of_term_in_Fibonacci.py">**Program to find the index of the first term in the Fibonacci sequence to contain n digits.**</a></ol>
+```python
+    Input: 3
+    Output: Index - 12, Numbers - 144
+    Explanation: F1 = 1
+		 F2 = 1
+		 F3 = 2
+		 F4 = 3
+		 F5 = 5
+		 F6 = 8
+		 F7 = 13
+		 F8 = 21
+		 F9 = 34
+		 F10 = 55
+		 F11 = 89
+		 F12 = 144
+		 The 12th term, F12, is the first term to contain three digits.
+```  
 _______________________________
 
 
