@@ -1489,6 +1489,7 @@ _______________________________
 ## <ol>&</ol>
 <details>
 	<summary><kbd class="type-writer">Click here</kbd></summary>
+	
               10 & 12
          	  10: 1010
          	  12: 1100
@@ -1500,6 +1501,7 @@ _______________________________
 ## <ol>|</ol>
 <details>
 	<summary><kbd class="type-writer">Click here</kbd></summary>
+	
               10 | 12
          	  10: 1010
          	  12: 1100
@@ -1512,6 +1514,7 @@ _______________________________
 ### <ol>and</ol>
 <details>
 	<summary><kbd class="type-writer">Click here</kbd></summary>
+	
           10 and 12 -> 12
 	      12 and 10 -> 10
 	      15 and 14 -> 14
@@ -1520,6 +1523,7 @@ _______________________________
 ### <ol>or</ol>
 <details>
 	<summary><kbd class="type-writer">Click here</kbd></summary>
+	
           10 and 12 -> 10
 	      12 and 10 -> 12
 	      15 and 14 -> 15 
