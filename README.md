@@ -1912,6 +1912,29 @@ _______________________________
 ```   
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-74-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day74/Gray_Code.py">**Program to generate list with 'width'-bit gray code.**</a></ol>
+```python
+    Input: 3
+    Output: 0  0  0
+            0  0  1
+            0  1  0
+            0  1  1
+            1  0  0
+            1  0  1
+            1  1  0
+            1  1  1
+    
+    Input: 2
+    Output: 0  0
+            0  1
+            1  0
+            1  1
+    
+```   
+
+_______________________________
+
 
 <br/>
 <p align="center">
