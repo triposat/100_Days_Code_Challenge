@@ -1893,6 +1893,23 @@ _______________________________
     Input: [1, 2, 0, 4]
     Output: [0, 0, 8, 0]
 ```   
+
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-73-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day73/Intinerary_List.py">**Program to compute the person's itinerary. If no such itinerary exists, return null. If there are multiple possible itineraries, return the lexicographically smallest one.**</a></ol>
+```python
+    Input: [('SFO', 'HKO'), ('YYZ', 'SFO'), ('YUL', 'YYZ'), ('HKO', 'ORD')], Start_string = 'YUL'
+    Output: ['YUL', 'YYZ', 'SFO', 'HKO', 'ORD']
+    Explanation: For example, given the list of flights [('SFO', 'HKO'), ('YYZ', 'SFO'), ('YUL', 'YYZ'), ('HKO', 'ORD')]
+                         and starting airport 'YUL', you should return the list ['YUL', 'YYZ', 'SFO', 'HKO', 'ORD'].
+    
+    Input: [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')], Start_string = 'A'
+    Output: ['A', 'C', 'A', 'B', 'C']
+    
+    Input: [('SFO', 'COM'), ('COM', 'YYZ')], Start_string = 'COM'
+    Output: Invalid Intinerary
+```   
 _______________________________
 
 
