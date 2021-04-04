@@ -1868,7 +1868,9 @@ _______________________________
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day71/Distance_bw_two_strings.py">**Program to compute the edit distance between two given strings.**</a></ol>
 ```python
     Input: "kitten", "sitting"
-    Output: 3
+    Output: Replace: K <--> S
+            Replace: e <--> i
+            Replacement Required: 3
     Explanation: The edit distance between two strings refers to the minimum number of character insertions, deletions, 
                  and substitutions required to change one string to the other. 
 		 
@@ -1876,7 +1878,9 @@ _______________________________
 		              substitute the "e" for "i", and append a "g".
     
     Input: medium, median
-    Output: 2
+    Output: Replace: u <--> a
+	    Replace: m <--> n
+	    Replacement Required: 2
 ```   
 
 _______________________________
