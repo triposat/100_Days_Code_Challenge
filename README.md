@@ -1861,6 +1861,24 @@ _______________________________
 		 F12 = 144
 		 The 12th term, F12, is the first term to contain three digits.
 ```  
+
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-71-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day71/Distance_bw_two_strings.py">**Program to compute the edit distance between two given strings.**</a></ol>
+```python
+    Input: "kitten", "sitting"
+    Output: 3
+    Explanation: The edit distance between two strings refers to the minimum number of character insertions, deletions, 
+                 and substitutions required to change one string to the other. 
+		 
+		 For example, the edit distance between "kitten" and "sitting" is three: substitute the "k" for "s",
+		              substitute the "e" for "i", and append a "g".
+    
+    Input: medium, median
+    Output: 2
+```   
+
 _______________________________
 
 
