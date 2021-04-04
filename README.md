@@ -1877,12 +1877,22 @@ _______________________________
 		 For example, the edit distance between "kitten" and "sitting" is three: substitute the "k" for "s",
 		              substitute the "e" for "i", and append a "g".
     
-    Input: medium, median
+    Input: "medium", "median"
     Output: Replace: u <--> a
 	    Replace: m <--> n
 	    Replacement Required: 2
 ```   
+_______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-72-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day72/List_product.py">**Program to create a new array such that each element at index i of the new array is the product of all the numbers of a given array of integers except the one at i.**</a></ol>
+```python
+    Input: [10, 20, 30, 40, 50]
+    Output: [1200000, 600000, 400000, 300000, 240000]
+    
+    Input: [1, 2, 0, 4]
+    Output: [0, 0, 8, 0]
+```   
 _______________________________
 
 
