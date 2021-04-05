@@ -1963,7 +1963,53 @@ _______________________________
 	    Move Disk from B to C
 	    Move Disk from A to C
 ``` 
+_______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-77-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day77/Diff_bw_Odd_and_even.py">**Program for Difference between sums of odd and even digits.**</a></ol>
+```python
+    Input: 1212112
+    Output: Yes
+    Explanation: the odd position element is 2+2+1=5
+                 the even position element is 1+1+1+2=5
+                 the difference is 5-5=0.so print yes.
+	    
+     Input: 12345
+     Output: No
+     Explanation: the odd position element is 1+3+5=9
+                  the even position element is 2+4=6
+                  the difference is 9-6=3 not  equal to zero. So print no.
+``` 
+
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-78-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day78/Z_Matrix.py">**Program to Print Matrix in Z form.**</a></ol>
+```python
+    Input: [[4, 5, 6, 8], 
+            [1, 2, 3, 1], 
+            [7, 8, 9, 4], 
+            [1, 8, 7, 5]]
+	    
+    Output: 4 5 6 8
+                3
+              8
+            1 8 7 5
+    
+    Input: [[4, 5, 6, 8, 5],
+            [1, 2, 3, 1, 4],
+            [7, 8, 9, 4, 7],
+            [1, 8, 7, 5, 2],
+            [7, 9, 5, 6, 9],
+            [9, 4, 5, 6, 6]]
+	    
+    Output: 4 5 6 8 5
+                  1
+                9
+              8
+            7
+           9 4 5 6 6
+``` 
 _______________________________
 
 
