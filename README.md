@@ -1932,6 +1932,17 @@ _______________________________
             1  1
     
 ```   
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-75-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day75/Reverse_Linked_List.py">**Program to Reverse a linked list.**</a></ol>
+```python
+    Input: 1->2->3->4->NULL
+    Output: 4->3->2->1->NULL
+    
+    Input: NULL
+    Output: NULL
+```   
 
 _______________________________
 
