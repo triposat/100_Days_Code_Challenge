@@ -1942,7 +1942,27 @@ _______________________________
     
     Input: NULL
     Output: NULL
-```   
+``` 
+
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-76-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day76/Tower_of_Hanoi.py">**Program for Tower of Hanoi.**</a></ol>
+```python
+    Input: 2
+    Output: Move Disk from A to B
+	    Move Disk from A to C
+	    Move Disk from B to C
+    
+    Input: 3
+    Output: Move Disk from A to C
+	    Move Disk from A to B
+	    Move Disk from C to B
+	    Move Disk from A to C
+	    Move Disk from B to A
+	    Move Disk from B to C
+	    Move Disk from A to C
+``` 
 
 _______________________________
 
