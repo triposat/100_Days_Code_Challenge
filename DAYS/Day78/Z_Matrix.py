@@ -3,12 +3,12 @@ def Z_print(Test_list):
     diff = len(Test_list)-len(Test_list[0])
     for i in range(len(Test_list)):
         if i == 0 or i == len(Test_list)-1:
-            Result.insert(i, Test_list[i])
+            Result.append(Test_list[i])
             Result = Result[0]
             print(*Result)
             Result = []
         else:
-            Result.insert(i, Test_list[i][len(Test_list)-i-1-diff])
+            Result.append(Test_list[i][len(Test_list)-i-1-diff])
             a = Result[0]
             print("  " * (len(Test_list)-i-1-diff) + str(a))
             Result = []
