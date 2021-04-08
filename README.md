@@ -1937,8 +1937,8 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-75-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day75/Reverse_Linked_List.py">**Program to Reverse a linked list.**</a></ol>
 ```python
-    Input: 1->2->3->4->NULL
-    Output: 4->3->2->1->NULL
+    Input: 1 -> 2 -> 3 -> 4 -> NULL
+    Output: 4  -> 3 -> 2 -> 1 -> NULL
     
     Input: NULL
     Output: NULL
@@ -2014,7 +2014,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-79-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day79/Insert_operation_on_Linked_List.py">**Program to perform all the Insert operations in Linked List.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day79/Insert_operation_on_Linked_List.py">**Program to perform all the Insert operations in linked list.**</a></ol>
 ```python
     Input: L_list.Insert_At_Beginning(1)
            L_list.Insert_At_Beginning(2)
