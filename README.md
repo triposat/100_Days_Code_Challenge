@@ -2045,7 +2045,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-82-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day82/Swap_nodes.py">**Program to swap nodes in a singly Linked List without swapping data.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day82/Swap_nodes.py">**Program to swap nodes in a Singly Linked List without swapping data.**</a></ol>
 ```python
     Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None, key1 = 8, key2 = 5
     Output: 5 -> 8 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
