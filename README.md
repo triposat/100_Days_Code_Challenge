@@ -2025,6 +2025,31 @@ _______________________________
            L_list.Insert_After(L_list.head.next, 10)
     Output: 3 -> 2 -> 10 -> 1 -> 4 -> 5 -> 6 -> None
 ``` 
+
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-80-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day80/Delete_Linked_List.py">**Program to Delete a node of linked list.**</a></ol>
+```python
+    Input: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> None, key = 4
+    Output: 1 -> 2 -> 3 -> 5 -> 6 -> None
+``` 
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-81-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day81/Sorting_List.py">**Program to Sort a linked list.**</a></ol>
+```python
+    Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
+    Output: 5 -> 6 -> 7 -> 8 -> 9 -> 10 -> 11 -> None
+```
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-82-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day82/Swap_nodes.py">**Program to swap nodes in a singly linked list without swapping data.**</a></ol>
+```python
+    Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None, key1 = 8, key2 = 5
+    Output: 5 -> 8 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
+``` 
 _______________________________
 
 
