@@ -2010,6 +2010,21 @@ _______________________________
             7
            9 4 5 6 6
 ``` 
+
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-79-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day79/Insert_operation_on_Linked_List.py">**Program to perform all the Insert operation in Linked List.**</a></ol>
+```python
+    Input: L_list.Insert_At_Beginning(1)
+           L_list.Insert_At_Beginning(2)
+           L_list.Insert_At_Beginning(3)
+           L_list.Insert_At_End(4)
+           L_list.Insert_At_End(5)
+           L_list.Insert_At_End(6)
+           L_list.Insert_After(L_list.head.next, 10)
+    Output: 3 -> 2 -> 10 -> 1 -> 4 -> 5 -> 6 -> None
+``` 
 _______________________________
 
 
