@@ -2014,7 +2014,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-79-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day79/Insert_operation_on_Linked_List.py">**Program to perform all the Insert operations in linked list.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day79/Insert_operation_on_Linked_List.py">**Program to perform all the Insert operations in Linked List.**</a></ol>
 ```python
     Input: L_list.Insert_At_Beginning(1)
            L_list.Insert_At_Beginning(2)
@@ -2029,7 +2029,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-80-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day80/Delete_Linked_List.py">**Program to Delete a node of linked list.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day80/Delete_Linked_List.py">**Program to Delete a node of Linked List.**</a></ol>
 ```python
     Input: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> None, key = 4
     Output: 1 -> 2 -> 3 -> 5 -> 6 -> None
@@ -2037,7 +2037,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-81-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day81/Sorting_List.py">**Program to Sort a linked list.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day81/Sorting_List.py">**Program to Sort a Linked List.**</a></ol>
 ```python
     Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
     Output: 5 -> 6 -> 7 -> 8 -> 9 -> 10 -> 11 -> None
@@ -2045,7 +2045,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-82-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day82/Swap_nodes.py">**Program to swap nodes in a singly linked list without swapping data.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day82/Swap_nodes.py">**Program to swap nodes in a singly Linked List without swapping data.**</a></ol>
 ```python
     Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None, key1 = 8, key2 = 5
     Output: 5 -> 8 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
