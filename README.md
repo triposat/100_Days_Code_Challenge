@@ -2054,7 +2054,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-83-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day83/Merge_two_sorted_Lists.py">**Program to Merge 2 sorted linked list.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day83/Merge_two_sorted_Lists.py">**Program to Merge 2 sorted linked lists.**</a></ol>
 ```python
     Input: L1 = 5 -> 8 -> 10, L2 = 7 -> 9 -> 11 ->12
     Output: 5 -> 7 -> 8 -> 9 -> 10 -> 11 -> 12 -> None
