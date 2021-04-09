@@ -1,8 +1,8 @@
-<p>
+<p align="center">
 <img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Octocat.svg" width="300"/>
 </p>
+
 <p align="center">
-	
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
