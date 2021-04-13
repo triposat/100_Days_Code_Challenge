@@ -2065,6 +2065,14 @@ _______________________________
 ``` 
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-84-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day84/Merge_Sort_Linked_List.py">**Program for Merge Sort using Linked List.**</a></ol>
+```python
+    Input: 5 -> 8 -> 10 -> 7 -> 9 -> 11 -> 12 -> None
+    Output: 5 -> 7 -> 8 -> 9 -> 10 -> 11 -> 12 -> None
+``` 
+_______________________________
+
 
 <br/>
 <p align="center">
