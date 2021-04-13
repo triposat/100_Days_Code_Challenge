@@ -2073,6 +2073,15 @@ _______________________________
 ``` 
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-85-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day85/Reverse_list_in_groups.py">**Program to Reverse a Linked List in groups of given size.**</a></ol>
+```python
+    Input: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> None, size = 2
+    Output: 2 -> 1 -> 4 -> 3 -> 6 -> 5 -> 7 -> None
+``` 
+
+_______________________________
+
 
 <br/>
 <p align="center">
