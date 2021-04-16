@@ -2085,7 +2085,7 @@ _______________________________
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day86/Detect_Remove_loop.py">**Program to Detect and Remove Loop in a Linked List.**</a></ol>
 ```python
     Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> 5
-    Output: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
+    Output: Loop Found, 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
 ```
 
 _______________________________
