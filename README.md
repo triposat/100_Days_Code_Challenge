@@ -2078,7 +2078,15 @@ _______________________________
 ```python
     Input: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> None, size = 2
     Output: 2 -> 1 -> 4 -> 3 -> 6 -> 5 -> 7 -> None
-``` 
+```
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-86-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day86/Detect_Remove_loop.py">**Program to Detect and Remove Loop in a Linked List.**</a></ol>
+```python
+    Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> 5
+    Output: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
+```
 
 _______________________________
 
