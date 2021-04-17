@@ -8,12 +8,11 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/{100_Days_Code_Challenge}/count.svg" alt=Iamtripathisatyam />
 </p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 _______________________________
 
 
