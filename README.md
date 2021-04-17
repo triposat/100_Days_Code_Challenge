@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Octocat.svg" width="300"/>
+<img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/manufacturetocat.png" width="300"/>
 </p>
 
 <p align="center">
