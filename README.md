@@ -12,7 +12,9 @@
   <img src="https://profile-counter.glitch.me/{100_Days_Code_Challenge}/count.svg" alt=Iamtripathisatyam />
 </p>
 
+<p align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 _______________________________
 
 
