@@ -1,3 +1,4 @@
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="center">
 <img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Octocat.svg" width="300"/>
 </p>
