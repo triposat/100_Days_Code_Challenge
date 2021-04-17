@@ -1,4 +1,3 @@
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="center">
 <img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Octocat.svg" width="300"/>
 </p>
@@ -8,6 +7,8 @@
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/{100_Days_Code_Challenge}/count.svg" alt=Iamtripathisatyam />
