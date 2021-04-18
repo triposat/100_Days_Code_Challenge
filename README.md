@@ -2091,6 +2091,14 @@ _______________________________
     Input: 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> 5
     Output: Loop Found, 8 -> 5 -> 10 -> 7 -> 6 -> 11 -> 9 -> None
 ```
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-87-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day87/Add_two_Linked_List.py">**Program to Add two numbers represented by Linked Lists.**</a></ol>
+```python
+    Input: 6 -> 4 -> 9 -> 5 -> 7 -> None, 4 -> 8 -> None
+    Output: 5 -> 0 -> 0 -> 5 -> 6 -> None //i.e. 65005
+```
 
 _______________________________
 
