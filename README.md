@@ -2096,7 +2096,7 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-87-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day87/Add_two_Linked_List.py">**Program to Add two numbers represented by Linked Lists.**</a></ol>
 ```python
-    Input: 6 -> 4 -> 9 -> 5 -> 7 -> None // i.e. 75946, 4 -> 8 -> None // i.e. 84
+    Input: 7 -> 5 -> 9 -> 4 -> 6 -> None // i.e. 64957, 8 -> 4 -> None // i.e. 48
     Output: 5 -> 0 -> 0 -> 5 -> 6 -> None // i.e. 65005
 ```
 
