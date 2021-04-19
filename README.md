@@ -2099,7 +2099,14 @@ _______________________________
     Input: 7 -> 5 -> 9 -> 4 -> 6 -> None // i.e. 64957, 8 -> 4 -> None // i.e. 48
     Output: 5 -> 0 -> 0 -> 5 -> 6 -> None // i.e. 65005
 ```
+_______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-88-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day88/Rotate_Linked_List.py">**Program to Rotate a Linked List.**</a></ol>
+```python
+    Input: 9 -> 11 -> 6 -> 7 -> 10 -> 5 -> 8 -> None, key = 4
+    Output: 10 -> 5 -> 8 -> 9 -> 11 -> 6 -> 7 -> None
+```
 _______________________________
 
 
