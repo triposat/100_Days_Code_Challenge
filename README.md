@@ -2109,6 +2109,19 @@ _______________________________
 ```
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-89-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day89/Circular_Linked_List_Insertions.py">**Program for Circular Singly Linked List Insertion.**</a></ol>
+```python
+    Input:     L_list.Add_to_Empty(6)
+    	       L_list.Add_to_Begin(4)
+    	       L_list.Add_to_Begin(2)
+    	       L_list.Add_to_End(8)
+    	       L_list.Add_to_End(12)
+    	       L_list.Add_After(10, 8)
+    Output: 2 -> 4 -> 6 -> 8 -> 10 -> 12 -> 2
+```
+_______________________________
+
 
 <br/>
 <p align="center">
