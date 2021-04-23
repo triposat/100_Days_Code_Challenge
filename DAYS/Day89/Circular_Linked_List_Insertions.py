@@ -69,10 +69,10 @@ class Circular_Linked_List:
 if __name__ == "__main__":
 
     L_list = Circular_Linked_List()
-    last = L_list.Add_to_Empty(6)
-    last = L_list.Add_to_Begin(4)
-    last = L_list.Add_to_Begin(2)
-    last = L_list.Add_to_End(8)
-    last = L_list.Add_to_End(12)
-    last = L_list.Add_After(10, 8)
+    L_list.Add_to_Empty(6)
+    L_list.Add_to_Begin(4)
+    L_list.Add_to_Begin(2)
+    L_list.Add_to_End(8)
+    L_list.Add_to_End(12)
+    L_list.Add_After(10, 8)
     L_list.Display()
