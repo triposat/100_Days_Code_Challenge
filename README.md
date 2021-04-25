@@ -2132,7 +2132,7 @@ _______________________________
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-91-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day91/Sorted_Inserted_Linked_List.py">**Program for Sorted insert in circular linked list.**</a></ol>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day91/Sorted_Inserted_Linked_List.py">**Program for Sorted insert in Circular Linked List.**</a></ol>
 ```python
     Input: [12, 56, 2, 11, 1, 90]
     Output: 1 -> 2 -> 11 -> 12 -> 56 -> 90 -> 1
