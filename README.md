@@ -2137,6 +2137,22 @@ _______________________________
     Input: [12, 56, 2, 11, 1, 90]
     Output: 1 -> 2 -> 11 -> 12 -> 56 -> 90 -> 1
 ```
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-92-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day92/Doubly_Linked_List_Insertions.py">**Program for Doubly Linked List Insertion.**</a></ol>
+```python
+    Input: L_list.Add_at_front(5)
+           L_list.Add_at_front(7)
+           L_list.Add_at_front(9)
+           L_list.Add_at_front(8)
+           L_list.Add_End(2)
+           L_list.Add_End(6)
+           L_list.Add_After(L_list.head.next, 1)
+	   
+    Output: Traversal in Forward Direction: 8 9 1 7 5 2 6
+	    Traversal in Reverse Direction: 6 2 5 7 1 9 8
+```
 
 _______________________________
 
