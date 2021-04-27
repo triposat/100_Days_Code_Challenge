@@ -2153,7 +2153,19 @@ _______________________________
     Output: Traversal in Forward Direction: 8 9 1 7 5 2 6
 	    Traversal in Reverse Direction: 6 2 5 7 1 9 8
 ```
+_______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-93-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day93/Binary_Insertion_Sort.py">**Program for Binary Insertion Sort.**</a></ol>
+```python
+    Input: 12, 56, 2, 11, 1, 90
+    Output: 1, 2, 11, 12, 56, 90
+```
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day93/Linear_Insertion_Sort.py">**Program for Linear Insertion Sort.**</a></ol>
+```python
+    Input: 12, 56, 2, 11, 1, 90
+    Output: 1, 2, 11, 12, 56, 90
+```
 _______________________________
 
 
