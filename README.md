@@ -2176,6 +2176,14 @@ _______________________________
 ```
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-95-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day95/Reverse_Doubly_Linked_List.py">**Program to Reverse a Doubly Linked List.**</a></ol>
+```python
+    Input: 8 9 1 7 5 2 6
+    Output: 6 2 5 7 1 9 8
+```
+_______________________________
+
 
 <br/>
 <p align="center">
