@@ -2168,6 +2168,14 @@ _______________________________
 ```
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-94-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day94/Deletion_Doubly_Linked_List.py">**Program to Delete a node in a Doubly Linked List.**</a></ol>
+```python
+    Input: 8 9 1 7 5 2 6, Node to be Deleted: 1, 7, 6
+    Output: 8 9 5 2
+```
+_______________________________
+
 
 <br/>
 <p align="center">
