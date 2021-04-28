@@ -2150,8 +2150,8 @@ _______________________________
            L_list.Add_End(6)
            L_list.Add_After(L_list.head.next, 1)
 	   
-    Output: Traversal in Forward Direction: 8 9 1 7 5 2 6
-	    Traversal in Reverse Direction: 6 2 5 7 1 9 8
+    Output: Traversal in Forward Direction: 8 -> 9 -> 1 -> 7 -> 5 -> 2 -> 6
+	    Traversal in Reverse Direction: 6 -> 2 -> 5 -> 7 -> 1 -> 9 -> 8
 ```
 _______________________________
 
@@ -2171,16 +2171,16 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-94-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day94/Deletion_Doubly_Linked_List.py">**Program to Delete a node in Doubly Linked List.**</a></ol>
 ```python
-    Input: 8 9 1 7 5 2 6, Node to be Deleted: 1, 7, 6
-    Output: 8 9 5 2
+    Input: 8 -> 9 -> 1 -> 7 -> 5 -> 2 -> 6, Node to be Deleted: 1, 7, 6
+    Output: 8 -> 9 -> 5 -> 2
 ```
 _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-95-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day95/Reverse_Doubly_Linked_List.py">**Program to Reverse a Doubly Linked List.**</a></ol>
 ```python
-    Input: 8 9 1 7 5 2 6
-    Output: 6 2 5 7 1 9 8
+    Input: 8 -> 9 -> 1 -> 7 -> 5 -> 2 -> 6
+    Output: 6 -> 2 -> 5 -> 7 -> 1 -> 9 -> 8
 ```
 _______________________________
 
