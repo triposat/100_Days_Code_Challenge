@@ -2195,8 +2195,16 @@ _______________________________
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-97-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day97/Infix_to_Prefix.py">**Program for Infix to Postfix Conversion using Stack.**</a></ol>
 ```python
-    Input: a+b*(c^d-e)^(f+g*h)-i
+    Input: "a+b*(c^d-e)^(f+g*h)-i"
     Output: abcd^e-fgh*+^*+i-
+```
+_______________________________
+
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-98-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day98/Postfix_Evaluate.py">**Program for Evaluation of Postfix Expression Using Stack.**</a></ol>
+```python
+    Input: "231*+9-"
+    Output: -4
 ```
 _______________________________
 
