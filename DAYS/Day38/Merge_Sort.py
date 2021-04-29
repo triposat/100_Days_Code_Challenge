@@ -42,8 +42,10 @@ def Merge_Sorting(Test_list, low, high):
         Merging(Test_list, low, mid, high)
 
 
-Test_list = [12, 11, 13, 5, 6, 7]
-Merge_Sorting(Test_list, 0, len(Test_list)-1)
-for ele in range(len(Test_list)):
-    print(Test_list[ele], end=" ")
-print("\n")
+if __name__ == "__main__":
+    Test_list = [12, 11, 13, 5, 6, 7]
+    Merge_Sorting(Test_list, 0, len(Test_list)-1)
+    for ele in range(len(Test_list)):
+        print(Test_list[ele], end=" ")
+    print("\n")
+
