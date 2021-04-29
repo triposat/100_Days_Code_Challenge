@@ -2192,6 +2192,14 @@ _______________________________
 ```
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-97-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day97/Infix_to_Prefix.py">**Program for Infix to Postfix Conversion using Stack.**</a></ol>
+```python
+    Input: a+b*(c^d-e)^(f+g*h)-i
+    Output: abcd^e-fgh*+^*+i-
+```
+_______________________________
+
 
 <br/>
 <p align="center">
