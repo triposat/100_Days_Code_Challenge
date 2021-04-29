@@ -2221,7 +2221,9 @@ _______________________________
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-100-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day100/Stock_Span_Problem.py">**The Stock Span Problem.**</a></ol>
+
 <img align="right" src="https://icons.iconarchive.com/icons/arrioch/office-dock/128/Color-MS-Excel-icon.png"/>
+
 ```python
     Input: [100, 80, 60, 70, 60, 75, 85]
     Output: [1, 1, 1, 2, 1, 4, 6]
