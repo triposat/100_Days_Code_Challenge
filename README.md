@@ -2208,6 +2208,17 @@ _______________________________
 ```
 _______________________________
 
+### <h1 align="center"><img src="https://img.shields.io/badge/DAY-99-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
+### <ol>Problem: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day99/Balanced_Brackets.py">**Check for Balanced Parentheses in an expression.**</a></ol>
+```python
+    Input: [()]{}{[()()]()}
+    Output: Balanced
+
+    Input: [(])
+    Output: Not Balanced 
+```
+_______________________________
+
 
 <br/>
 <p align="center">
