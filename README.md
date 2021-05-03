@@ -2231,6 +2231,7 @@ _______________________________
 
 _______________________________
 
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
 
 <br/>
 <p align="center">
