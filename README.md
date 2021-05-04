@@ -2239,3 +2239,4 @@ _______________________________
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
 
+<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
