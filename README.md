@@ -2233,7 +2233,6 @@ _______________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
 
-<br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/100_Days_Code_Challenge?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
