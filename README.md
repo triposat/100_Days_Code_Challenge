@@ -1,3 +1,8 @@
+![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/100_Days_Code_Challenge?color=red&label=Repo%20Size%20)
+![License](https://img.shields.io/badge/License-MIT-red.svg)
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
+![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/100_Days_Code_Challenge?color=red&label=Lines%20of%20Code)</br>
+
 <p align="center">
 <img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/manufacturetocat.png" width="300"/>
 </p>
