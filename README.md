@@ -1585,10 +1585,10 @@ _______________________________
 
 ## <h3 align="center">`Decimal` ---> `Hexadecimal`</h3>
 ## <ol>Conversion Steps: </ol>
-	1. Divide the number by 16.
-	2. Get the integer quotient for the next iteration.
-	3. Get the remainder for the hex digit.
-	4. Repeat the steps until the quotient is equal to 0.
+   - Divide the number by 16.
+   - Get the integer quotient for the next iteration.
+   - Get the remainder for the hex digit.
+   - Repeat the steps until the quotient is equal to 0.
 	
 ## <ol>Example #1: </ol>
 ### <ol>7562<sub>10</sub><ol/>
