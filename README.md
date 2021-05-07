@@ -48,7 +48,7 @@ _______________________________
             Enter 2nd Number: 12
     Output: LCM: 1
 ```
-### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Number_is_Fibonacci_or_not.py">**Program to check whather given number is Fibonacci or not.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Number_is_Fibonacci_or_not.py">**Program to check whether given number is Fibonacci or not.**</a></ol>
 ```python
     Input: Enter a Number: 78
     Output: It's not an Fibonacci Number
