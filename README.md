@@ -25,7 +25,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Display_Fibonacci_Series.py">**Program to Display Fibonacci Series.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Display_Fibonacci_Series.py">**Program to display Fibonacci Series.**</a></ol>
 ```python
     Input: How Many Terms do you want to Display: 10
     Output: 0 1 1 2 3 5 8 13 21 34
@@ -61,7 +61,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-2-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Armstrong_Number.py">**Program to Check whether numbers is ARMSTRONG or not.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Armstrong_Number.py">**Program to Check whether numbers is Armstrong or not.**</a></ol>
 ```python
     Input: Enter a Number: 189
     Output: No, It's not an Armstrong Number
@@ -70,17 +70,17 @@ _______________________________
     Output: It's an Armstrong Number
 ```
 
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Array_Rotation.py">**Program for ARRAY ROTATION.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Array_Rotation.py">**Program for Array Rotation.**</a></ol>
 ```python
     Input: [ 5, 6, 7, 8, 1, 11, 15, 16], N = 4
     Output: [1, 11, 15, 16, 5, 6, 7, 8]
 ```
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Da:_Code_Challenge/blob/main/DAYS/Day2/Max_and_Min_in_List.py">**Program for MAXIMUM and MINIMUM Elements in a list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Da:_Code_Challenge/blob/main/DAYS/Day2/Max_and_Min_in_List.py">**Program for Maximum and Minimum elements in a list.**</a></ol>
 ```python
     Input: [5, 7, 9, 4, 6, 23, 11, 12]
     Output: Max: 23, MIN: 4
 ```
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Palindrome_Number.py">**Program to check whether number is PALINDROME or not.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Palindrome_Number.py">**Program to check whether number is Palindrome or not.**</a></ol>
 ```python
     Input: Enter a Number: 121
     Output: Palindrome Number
@@ -88,7 +88,7 @@ _______________________________
     Input: Enter a Number: 123
     Output: Not a Palindrome Number
 ```
-### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Prime_Using_Sieve_of_Eratosthenes.py">**Program to check PRIME Number Using Sieve of Eratosthenes.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day2/Prime_Using_Sieve_of_Eratosthenes.py">**Program to check Prime Number using Sieve of Eratosthenes.**</a></ol>
 ```python
     Input: Upto How Many Terms: 20
     Output: 2 3 5 7 11 13 17 19
@@ -97,7 +97,7 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-3-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Monotonic_Or_Not.py">**Program to check whether list is MONOTONIC or not.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Monotonic_Or_Not.py">**Program to check whether list is Monotonic or not.**</a></ol>
 ```python
     Input: [5, 6, 7, 9, 1, 10, 25, 31]
     Output: No, It's not an Monotonic List
@@ -106,23 +106,23 @@ _______________________________
     Output: Yup, It's an Monotonic List
 ```
 
-### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Reversing_a_list.py">**Program for REVERSING a list.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Reversing_a_list.py">**Program for Reversing a list.**</a></ol>
 ```python
     Input: [7, 4, 5, 6, 7, 8, 9, 1]
     Output: [1, 9, 8, 7, 6, 5, 4, 7]
 ```
 
-### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Searching_Element_in_List.py">**Program for SEARCHING elements in a list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Searching_Element_in_List.py">**Program for Searching elements in a list.**</a></ol>
 ```python
     Input: [7, 6, 5, 3, 2, 6, 5, 10], N = 6
     Output: Present 
 ```
-### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Second_Largest_in_List.py">**Program for SECOND LARGEST element in a list.**</a></ol>
+### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Second_Largest_in_List.py">**Program for Second Largest element in a list.**</a></ol>
 ```python
     Input: [7, 6, 5, 3, 2, 6, 5, 10]
     Output: Second Largest Element is: 7
 ```
-### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Swap_First_With_Last.py">**Program to SWAP first element with last element in a list.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day3/Swap_First_With_Last.py">**Program to Swap first element with last element in a list.**</a></ol>
 ```python
     Input: [10, 5, 2, 6, 3, 7, 9, 4]
     Output: [4, 5, 2, 6, 3, 7, 9, 10]
