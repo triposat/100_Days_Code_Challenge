@@ -2233,9 +2233,6 @@ _______________________________
     Input: [100, 80, 60, 70, 60, 75, 85]
     Output: [1, 1, 1, 2, 1, 4, 6]
 ```
+___________________________________
 
-_______________________________
-
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
-
-<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
+<p>&copy; 2021 Satyam Tripathi</p>
