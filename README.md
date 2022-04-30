@@ -457,7 +457,7 @@ _______________________________
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/Rotate_a_String.py">**Program for String Slicing to Rotate a String.**</a></ol>
 ```python
-    Input: Hey! There this is 100 Days of Code Challenge
+    Input: Hey! There this is 100 Days of Code Challenge  , N = 4
     Output: Left Rotation:  There this is 100 Days of Code ChallengeHey!
 	     Right Rotation: engeHey! There this is 100 Days of Code Chall
 ```
