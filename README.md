@@ -480,7 +480,7 @@ _______________________________
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Duplicate_Characters_in_String.py">**Program for Duplicates Characters in string.**</a></ol>
 ```python
     Input: hey this is Github Repo
-    Output: hey tis
+    Output: he tis
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Last_name_Sorting.py">**Program to Sort a list of names using Last Names.**</a></ol>
 ```python
