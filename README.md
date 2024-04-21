@@ -1,22 +1,3 @@
-![](http://ForTheBadge.com/images/badges/made-with-python.svg)
-![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
-![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/100_Days_Code_Challenge?color=red&label=Repo%20Size%20)
-[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/100_Days_Code_Challenge?color=red&label=Lines%20of%20Code)
-![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
-![](https://profile-counter.glitch.me/{100_Days_Code_Challenge}/count.svg)
-
-<p align="center">
-<img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/manufacturetocat.png" width="300"/>
-</p>
-
-<p align="center">
-    <img src="https://readme-jokes.vercel.app/api"/>
-</p>
-
-_______________________________
-
-
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
 ### <ol>Problem 1: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day1/Display_Fibonacci_Series.py">**Program to display Fibonacci Series.**</a></ol>
 ```python
