@@ -396,18 +396,19 @@ _______________________________
 ```
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Replace_Duplicate_Occurrence_in_String.py">**Program for Replace Duplicate Occurrences in string.**</a></ol>
 ```python
-    Input: Hey! this is 100 Days of Code Challenge, N = 4
-    Output: Challenge
+    Input: 'Gfg is best . Gfg also has Classes now. Classes help understand better . ', {'Gfg':  'It', 'Classes': 'They'}
+    Output: Gfg is best . It also has Classes now. They help understand better .
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Replace_Multiple_Words_in_String.py">**Program for Replace Multiple Words in string.**</a></ol>
 ```python
-    Input: Hey! this is 100 Days of Code Challenge, N = 4
-    Output: Challenge
+    Input: "Geeksforgeeks is best for geeks and CS", ["best", 'CS', 'for'], 'gfg'
+    Output: Geeksforgeeks is gfg gfg geeks and gfg
 ```
 ### <ol>Problem 4: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day14/Uncommon_Words_from_String.py">**Program to print Uncommon Words in strings.**</a></ol>
 ```python
-    Input: Hey! this is 100 Days of Code Challenge, N = 4
-    Output: Challenge
+    Input: A = "Geeks for Geeks" 
+        B = "Learning from Geeks for Geeks"
+    Output: ['Learning', 'from']
 ```
 
 _______________________________
@@ -435,7 +436,7 @@ _______________________________
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day15/Rotate_a_String.py">**Program for String Slicing to Rotate a String.**</a></ol>
 ```python
-    Input: Hey! There this is 100 Days of Code Challenge
+    Input: Hey! There this is 100 Days of Code Challenge  , N = 4
     Output: Left Rotation:  There this is 100 Days of Code ChallengeHey!
 	     Right Rotation: engeHey! There this is 100 Days of Code Chall
 ```
@@ -458,7 +459,7 @@ _______________________________
 ### <ol>Problem 2: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Duplicate_Characters_in_String.py">**Program for Duplicates Characters in string.**</a></ol>
 ```python
     Input: hey this is Github Repo
-    Output: hey tis
+    Output: he tis
 ```
 ### <ol>Problem 3: <a href="https://github.com/Iamtripathisatyam/100_Days_Code_Challenge/blob/main/DAYS/Day16/Last_name_Sorting.py">**Program to Sort a list of names using Last Names.**</a></ol>
 ```python
